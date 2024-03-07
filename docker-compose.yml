@@ -1,0 +1,31 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:latest
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+
+  airflow:
+    image: apache/airflow:latest
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://$POSTGRES_USER:$POSTGRES_PASSWORD@postgres:5432/$POSTGRES_DB      
+      - AIRFLOW__WEBSERVER__BASE_URL=http://localhost:8080
+      # - AIRFLOW__CORE__FERNET_KEY=my_fernet_key_here
+    volumes:
+      - ./entrypoint.sh:/entrypoint.sh
+      - ./dags:/usr/local/airflow/dags
+      - ./logs:/usr/local/airflow/logs
+      - ./plugins:/usr/local/airflow/plugins
+    depends_on:
+      - postgres
+    entrypoint: /bin/bash -c
+    command: "/entrypoint.sh"
