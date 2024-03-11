@@ -1,0 +1,530 @@
+[
+  {
+    "purchase_places": "france"
+  },
+  {
+    "purchase_places": "roissy"
+  },
+  {
+    "purchase_places": "brossard québec"
+  },
+  {
+    "purchase_places": "brent"
+  },
+  {
+    "purchase_places": "uk"
+  },
+  {
+    "purchase_places": "brossard"
+  },
+  {
+    "purchase_places": "québec"
+  },
+  {
+    "purchase_places": "belgique"
+  },
+  {
+    "purchase_places": "états-unis"
+  },
+  {
+    "purchase_places": "lyon"
+  },
+  {
+    "purchase_places": "liverpool"
+  },
+  {
+    "purchase_places": "united kingdom"
+  },
+  {
+    "purchase_places": "oman"
+  },
+  {
+    "purchase_places": "1€90"
+  },
+  {
+    "purchase_places": "avion"
+  },
+  {
+    "purchase_places": "suisse"
+  },
+  {
+    "purchase_places": "madrid"
+  },
+  {
+    "purchase_places": "españa"
+  },
+  {
+    "purchase_places": "courrières"
+  },
+  {
+    "purchase_places": "limoges"
+  },
+  {
+    "purchase_places": "ajman"
+  },
+  {
+    "purchase_places": "germany"
+  },
+  {
+    "purchase_places": "southampton"
+  },
+  {
+    "purchase_places": "nantes"
+  },
+  {
+    "purchase_places": "ireland"
+  },
+  {
+    "purchase_places": "united states"
+  },
+  {
+    "purchase_places": "méxico"
+  },
+  {
+    "purchase_places": "rwanda"
+  },
+  {
+    "purchase_places": "allemagne"
+  },
+  {
+    "purchase_places": "trignac"
+  },
+  {
+    "purchase_places": "paris"
+  },
+  {
+    "purchase_places": "royaume-uni"
+  },
+  {
+    "purchase_places": "espanya"
+  },
+  {
+    "purchase_places": "ukraine"
+  },
+  {
+    "purchase_places": "pakistan"
+  },
+  {
+    "purchase_places": "londres"
+  },
+  {
+    "purchase_places": "chicago"
+  },
+  {
+    "purchase_places": "illinois"
+  },
+  {
+    "purchase_places": "usa"
+  },
+  {
+    "purchase_places": "london"
+  },
+  {
+    "purchase_places": "magyarország"
+  },
+  {
+    "purchase_places": "czech republic"
+  },
+  {
+    "purchase_places": "kilburn"
+  },
+  {
+    "purchase_places": "england"
+  },
+  {
+    "purchase_places": "lille"
+  },
+  {
+    "purchase_places": "california"
+  },
+  {
+    "purchase_places": "canada"
+  },
+  {
+    "purchase_places": "marseille"
+  },
+  {
+    "purchase_places": "south carolina"
+  },
+  {
+    "purchase_places": "deutschland"
+  },
+  {
+    "purchase_places": "northville"
+  },
+  {
+    "purchase_places": "michigan"
+  },
+  {
+    "purchase_places": "singapore"
+  },
+  {
+    "purchase_places": "italie"
+  },
+  {
+    "purchase_places": "switzerland"
+  },
+  {
+    "purchase_places": "россия"
+  },
+  {
+    "purchase_places": ""
+  },
+  {
+    "purchase_places": "walmart"
+  },
+  {
+    "purchase_places": "san francisco"
+  },
+  {
+    "purchase_places": "mountain view"
+  },
+  {
+    "purchase_places": " california"
+  },
+  {
+    "purchase_places": " usa"
+  },
+  {
+    "purchase_places": "virginia beach"
+  },
+  {
+    "purchase_places": "virginia"
+  },
+  {
+    "purchase_places": "usa ohio"
+  },
+  {
+    "purchase_places": "etats unis"
+  },
+  {
+    "purchase_places": "cambridge"
+  },
+  {
+    "purchase_places": "massachusetts"
+  },
+  {
+    "purchase_places": "us"
+  },
+  {
+    "purchase_places": "egypt"
+  },
+  {
+    "purchase_places": "the woodlands tx usa"
+  },
+  {
+    "purchase_places": "san clemente"
+  },
+  {
+    "purchase_places": "palmer"
+  },
+  {
+    "purchase_places": "alaska"
+  },
+  {
+    "purchase_places": "pasadena"
+  },
+  {
+    "purchase_places": "new albany in usa"
+  },
+  {
+    "purchase_places": "stati uniti d'america"
+  },
+  {
+    "purchase_places": "omaha"
+  },
+  {
+    "purchase_places": "nebraska"
+  },
+  {
+    "purchase_places": "jackson mi"
+  },
+  {
+    "purchase_places": "cabriès"
+  },
+  {
+    "purchase_places": "antibes"
+  },
+  {
+    "purchase_places": "haiti"
+  },
+  {
+    "purchase_places": "perú"
+  },
+  {
+    "purchase_places": "polynésie françasie"
+  },
+  {
+    "purchase_places": "arue"
+  },
+  {
+    "purchase_places": "supermercados"
+  },
+  {
+    "purchase_places": "mexico"
+  },
+  {
+    "purchase_places": "carmagnola (to)"
+  },
+  {
+    "purchase_places": "argentina"
+  },
+  {
+    "purchase_places": "minneapolis"
+  },
+  {
+    "purchase_places": "minnesota"
+  },
+  {
+    "purchase_places": "oakland park"
+  },
+  {
+    "purchase_places": "florida"
+  },
+  {
+    "purchase_places": "seattle"
+  },
+  {
+    "purchase_places": "washington"
+  },
+  {
+    "purchase_places": "saudia arabia"
+  },
+  {
+    "purchase_places": "angleterre"
+  },
+  {
+    "purchase_places": "saudi arabia"
+  },
+  {
+    "purchase_places": "stockholm"
+  },
+  {
+    "purchase_places": "polynésie française"
+  },
+  {
+    "purchase_places": "السعوديه"
+  },
+  {
+    "purchase_places": "panamá"
+  },
+  {
+    "purchase_places": "jonesborough"
+  },
+  {
+    "purchase_places": " tn"
+  },
+  {
+    "purchase_places": "united states of america"
+  },
+  {
+    "purchase_places": "saint-jean-sur-richelieu"
+  },
+  {
+    "purchase_places": "charlotte"
+  },
+  {
+    "purchase_places": "nc"
+  },
+  {
+    "purchase_places": "new york"
+  },
+  {
+    "purchase_places": "andover ma"
+  },
+  {
+    "purchase_places": "kern"
+  },
+  {
+    "purchase_places": "colombia"
+  },
+  {
+    "purchase_places": "australia"
+  },
+  {
+    "purchase_places": "miami"
+  },
+  {
+    "purchase_places": "london uk"
+  },
+  {
+    "purchase_places": "new caledonia"
+  },
+  {
+    "purchase_places": "guadeloupe"
+  },
+  {
+    "purchase_places": "sverige"
+  },
+  {
+    "purchase_places": "lakewood"
+  },
+  {
+    "purchase_places": "mexique"
+  },
+  {
+    "purchase_places": "cordoba"
+  },
+  {
+    "purchase_places": "new york city"
+  },
+  {
+    "purchase_places": "candiac"
+  },
+  {
+    "purchase_places": "nsw"
+  },
+  {
+    "purchase_places": "bangor"
+  },
+  {
+    "purchase_places": "maine"
+  },
+  {
+    "purchase_places": "calgary"
+  },
+  {
+    "purchase_places": "alberta"
+  },
+  {
+    "purchase_places": "paris  courrières  france"
+  },
+  {
+    "purchase_places": "novembre 2021"
+  },
+  {
+    "purchase_places": "oakland"
+  },
+  {
+    "purchase_places": "papeete"
+  },
+  {
+    "purchase_places": "french polynesia"
+  },
+  {
+    "purchase_places": "los angeles"
+  },
+  {
+    "purchase_places": "wal-mart méxico"
+  },
+  {
+    "purchase_places": "meylan"
+  },
+  {
+    "purchase_places": "philippines"
+  },
+  {
+    "purchase_places": "sainte-lucie"
+  },
+  {
+    "purchase_places": "alajuela"
+  },
+  {
+    "purchase_places": "costa rica"
+  },
+  {
+    "purchase_places": "bayreuth"
+  },
+  {
+    "purchase_places": "bayern"
+  },
+  {
+    "purchase_places": "champfleury"
+  },
+  {
+    "purchase_places": "princeton"
+  },
+  {
+    "purchase_places": "new jersey"
+  },
+  {
+    "purchase_places": "états unies d'amérique"
+  },
+  {
+    "purchase_places": "midland"
+  },
+  {
+    "purchase_places": "nouvelle-calédonie"
+  },
+  {
+    "purchase_places": "birmingham"
+  },
+  {
+    "purchase_places": "alabama"
+  },
+  {
+    "purchase_places": "saratoga springs"
+  },
+  {
+    "purchase_places": "utah usa"
+  },
+  {
+    "purchase_places": "loir et cher"
+  },
+  {
+    "purchase_places": "canberra"
+  },
+  {
+    "purchase_places": "paris xiii"
+  },
+  {
+    "purchase_places": "montréal"
+  },
+  {
+    "purchase_places": "angers"
+  },
+  {
+    "purchase_places": "maastricht"
+  },
+  {
+    "purchase_places": "praha"
+  },
+  {
+    "purchase_places": "saint martin d'hères"
+  },
+  {
+    "purchase_places": "sydney"
+  },
+  {
+    "purchase_places": "australie"
+  },
+  {
+    "purchase_places": "aberdeen"
+  },
+  {
+    "purchase_places": "scotland"
+  },
+  {
+    "purchase_places": "ישראל"
+  },
+  {
+    "purchase_places": "nottingham"
+  },
+  {
+    "purchase_places": "jordania"
+  },
+  {
+    "purchase_places": "lynchburg"
+  },
+  {
+    "purchase_places": "maroc"
+  },
+  {
+    "purchase_places": "soriana"
+  },
+  {
+    "purchase_places": "santa monica"
+  },
+  {
+    "purchase_places": "utah"
+  },
+  {
+    "purchase_places": "toulouse"
+  },
+  {
+    "purchase_places": "écosse"
+  },
+  {
+    "purchase_places": "chalon-sur-saône"
+  }
+]

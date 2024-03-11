@@ -1,0 +1,191 @@
+[
+  {
+    "allergens": "en:mustard"
+  },
+  {
+    "allergens": "en:eggs"
+  },
+  {
+    "allergens": "en:gluten"
+  },
+  {
+    "allergens": "en:milk"
+  },
+  {
+    "allergens": "en:fish"
+  },
+  {
+    "allergens": "en:sesame-seeds"
+  },
+  {
+    "allergens": "en:soybeans"
+  },
+  {
+    "allergens": "en:nuts"
+  },
+  {
+    "allergens": "en:none"
+  },
+  {
+    "allergens": "en:sulphur-dioxide-and-sulphites"
+  },
+  {
+    "allergens": "de:pisatazien"
+  },
+  {
+    "allergens": "en:barley malt extract"
+  },
+  {
+    "allergens": "en:peanuts"
+  },
+  {
+    "allergens": "en:celery"
+  },
+  {
+    "allergens": "de:hühnereiweiss"
+  },
+  {
+    "allergens": "de:weizenprotein"
+  },
+  {
+    "allergens": "de:wheyprotein"
+  },
+  {
+    "allergens": "de:wheyproteinkonzentrat"
+  },
+  {
+    "allergens": "en:crustaceans"
+  },
+  {
+    "allergens": "en:skimmed"
+  },
+  {
+    "allergens": "en:lait"
+  },
+  {
+    "allergens": "fr:spécialité fromagère"
+  },
+  {
+    "allergens": "en:shellfish"
+  },
+  {
+    "allergens": "en:molluscs"
+  },
+  {
+    "allergens": "en:wheat gluten"
+  },
+  {
+    "allergens": "en:phenylalanine"
+  },
+  {
+    "allergens": "es:jmaf"
+  },
+  {
+    "allergens": "en:pineapple"
+  },
+  {
+    "allergens": "en:pineapple juice"
+  },
+  {
+    "allergens": "sv:senapspulver / sennepulver"
+  },
+  {
+    "allergens": "en:flour"
+  },
+  {
+    "allergens": "fr:trigo (gluten)"
+  },
+  {
+    "allergens": "fr:cajou"
+  },
+  {
+    "allergens": "fr:fruits à coques moulus"
+  },
+  {
+    "allergens": "fr:huile de beurre"
+  },
+  {
+    "allergens": "en:cajou"
+  },
+  {
+    "allergens": "en:huile de beurre"
+  },
+  {
+    "allergens": "fr:fruit à coque moulus"
+  },
+  {
+    "allergens": "fr:poudre de lait entier"
+  },
+  {
+    "allergens": "fr:cornish clotted cream"
+  },
+  {
+    "allergens": "fr:crème caillée"
+  },
+  {
+    "allergens": "es:trigo (gluten)"
+  },
+  {
+    "allergens": "en:coconut"
+  },
+  {
+    "allergens": "fr:fromage cheddar"
+  },
+  {
+    "allergens": "es:arándanos"
+  },
+  {
+    "allergens": "es:fresas"
+  },
+  {
+    "allergens": "es:chocolate"
+  },
+  {
+    "allergens": "es:cocoa"
+  },
+  {
+    "allergens": "es:miel"
+  },
+  {
+    "allergens": "es:guten"
+  },
+  {
+    "allergens": "en:cocoa butter"
+  },
+  {
+    "allergens": "en:vanilla"
+  },
+  {
+    "allergens": "en:whey protein isolate"
+  },
+  {
+    "allergens": "es:maltosa"
+  },
+  {
+    "allergens": "en:contains wheat"
+  },
+  {
+    "allergens": "es:almendra e ingredientes de soya"
+  },
+  {
+    "allergens": "es:cacahuate coco"
+  },
+  {
+    "allergens": "en:pectin"
+  },
+  {
+    "allergens": "en:corn"
+  },
+  {
+    "allergens": "en:lupin"
+  },
+  {
+    "allergens": "en:almond butter"
+  },
+  {
+    "allergens": "en:almond flour"
+  },
+  {
+    "allergens": "en:coconut oil"
+  }
+]

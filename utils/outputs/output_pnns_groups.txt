@@ -1,0 +1,149 @@
+[
+  {
+    "pnns_groups": "milk and dairy products"
+  },
+  {
+    "pnns_groups": "fat and sauces"
+  },
+  {
+    "pnns_groups": "beverages"
+  },
+  {
+    "pnns_groups": "sugary snacks"
+  },
+  {
+    "pnns_groups": "composite foods"
+  },
+  {
+    "pnns_groups": "fruits and vegetables"
+  },
+  {
+    "pnns_groups": "fish meat eggs"
+  },
+  {
+    "pnns_groups": "cereals and potatoes"
+  },
+  {
+    "pnns_groups": "salty snacks"
+  },
+  {
+    "pnns_groups": "alcoholic beverages"
+  },
+  {
+    "pnns_groups": "dairy desserts"
+  },
+  {
+    "pnns_groups": "dressings and sauces"
+  },
+  {
+    "pnns_groups": "fruit juices"
+  },
+  {
+    "pnns_groups": "sweets"
+  },
+  {
+    "pnns_groups": "one-dish meals"
+  },
+  {
+    "pnns_groups": "pizza pies and quiches"
+  },
+  {
+    "pnns_groups": "fruits"
+  },
+  {
+    "pnns_groups": "meat"
+  },
+  {
+    "pnns_groups": "sweetened beverages"
+  },
+  {
+    "pnns_groups": "cheese"
+  },
+  {
+    "pnns_groups": "bread"
+  },
+  {
+    "pnns_groups": "fish and seafood"
+  },
+  {
+    "pnns_groups": "legumes"
+  },
+  {
+    "pnns_groups": "salty and fatty products"
+  },
+  {
+    "pnns_groups": "dried fruits"
+  },
+  {
+    "pnns_groups": "vegetables"
+  },
+  {
+    "pnns_groups": "biscuits and cakes"
+  },
+  {
+    "pnns_groups": "fats"
+  },
+  {
+    "pnns_groups": "pastries"
+  },
+  {
+    "pnns_groups": "unsweetened beverages"
+  },
+  {
+    "pnns_groups": "nuts"
+  },
+  {
+    "pnns_groups": "cereals"
+  },
+  {
+    "pnns_groups": "alcoholic beverages"
+  },
+  {
+    "pnns_groups": "breakfast cereals"
+  },
+  {
+    "pnns_groups": "appetizers"
+  },
+  {
+    "pnns_groups": "processed meat"
+  },
+  {
+    "pnns_groups": "milk and yogurt"
+  },
+  {
+    "pnns_groups": "sandwiches"
+  },
+  {
+    "pnns_groups": "chocolate products"
+  },
+  {
+    "pnns_groups": "eggs"
+  },
+  {
+    "pnns_groups": "plant-based milk substitutes"
+  },
+  {
+    "pnns_groups": "teas and herbal teas and coffees"
+  },
+  {
+    "pnns_groups": "potatoes"
+  },
+  {
+    "pnns_groups": "artificially sweetened beverages"
+  },
+  {
+    "pnns_groups": "ice cream"
+  },
+  {
+    "pnns_groups": "soups"
+  },
+  {
+    "pnns_groups": "waters and flavored waters"
+  },
+  {
+    "pnns_groups": "offals"
+  },
+  {
+    "pnns_groups": "fruit nectars"
+  }
+]

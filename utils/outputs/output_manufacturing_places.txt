@@ -1,0 +1,873 @@
+[
+  {
+    "manufacturing_places": "bénivay-ollon",
+    "manufacturing_places_tags": "benivay-ollon"
+  },
+  {
+    "manufacturing_places": "france",
+    "manufacturing_places_tags": "france"
+  },
+  {
+    "manufacturing_places": "brossard québec",
+    "manufacturing_places_tags": "brossard-quebec"
+  },
+  {
+    "manufacturing_places": "united kingdom",
+    "manufacturing_places_tags": "united-kingdom"
+  },
+  {
+    "manufacturing_places": "brossard",
+    "manufacturing_places_tags": "brossard"
+  },
+  {
+    "manufacturing_places": "québec",
+    "manufacturing_places_tags": "quebec"
+  },
+  {
+    "manufacturing_places": "italie",
+    "manufacturing_places_tags": "italie"
+  },
+  {
+    "manufacturing_places": "états-unis",
+    "manufacturing_places_tags": "etats-unis"
+  },
+  {
+    "manufacturing_places": "avranches",
+    "manufacturing_places_tags": "avranches"
+  },
+  {
+    "manufacturing_places": "brossars",
+    "manufacturing_places_tags": "brossars"
+  },
+  {
+    "manufacturing_places": "thailand",
+    "manufacturing_places_tags": "thailand"
+  },
+  {
+    "manufacturing_places": "belgien",
+    "manufacturing_places_tags": "belgien"
+  },
+  {
+    "manufacturing_places": "net wt",
+    "manufacturing_places_tags": "net-wt"
+  },
+  {
+    "manufacturing_places": "österreich",
+    "manufacturing_places_tags": "osterreich"
+  },
+  {
+    "manufacturing_places": "las ventas de retamosa",
+    "manufacturing_places_tags": "las-ventas-de-retamosa"
+  },
+  {
+    "manufacturing_places": "toledo (provincia)",
+    "manufacturing_places_tags": "toledo-provincia"
+  },
+  {
+    "manufacturing_places": "castilla-la mancha",
+    "manufacturing_places_tags": "castilla-la-mancha"
+  },
+  {
+    "manufacturing_places": "españa",
+    "manufacturing_places_tags": "espana"
+  },
+  {
+    "manufacturing_places": "uae",
+    "manufacturing_places_tags": "uae"
+  },
+  {
+    "manufacturing_places": "germany",
+    "manufacturing_places_tags": "germany"
+  },
+  {
+    "manufacturing_places": "saint-yrieix",
+    "manufacturing_places_tags": "saint-yrieix"
+  },
+  {
+    "manufacturing_places": "limousin",
+    "manufacturing_places_tags": "limousin"
+  },
+  {
+    "manufacturing_places": "87500",
+    "manufacturing_places_tags": "87500"
+  },
+  {
+    "manufacturing_places": "saint-yrieux",
+    "manufacturing_places_tags": "saint-yrieux"
+  },
+  {
+    "manufacturing_places": "italia",
+    "manufacturing_places_tags": "italia"
+  },
+  {
+    "manufacturing_places": "kigali; rwanda",
+    "manufacturing_places_tags": "kigali-rwanda"
+  },
+  {
+    "manufacturing_places": "elche",
+    "manufacturing_places_tags": "elche"
+  },
+  {
+    "manufacturing_places": "périgord france",
+    "manufacturing_places_tags": "perigord-france"
+  },
+  {
+    "manufacturing_places": "sarlat",
+    "manufacturing_places_tags": "sarlat"
+  },
+  {
+    "manufacturing_places": "united states",
+    "manufacturing_places_tags": "united-states"
+  },
+  {
+    "manufacturing_places": "montpellier",
+    "manufacturing_places_tags": "montpellier"
+  },
+  {
+    "manufacturing_places": "good organics gmbh",
+    "manufacturing_places_tags": "good-organics-gmbh"
+  },
+  {
+    "manufacturing_places": "royaume-uni",
+    "manufacturing_places_tags": "royaume-uni"
+  },
+  {
+    "manufacturing_places": "ireland",
+    "manufacturing_places_tags": "ireland"
+  },
+  {
+    "manufacturing_places": "87500 saint yrieix",
+    "manufacturing_places_tags": "87500-saint-yrieix"
+  },
+  {
+    "manufacturing_places": "ukraine",
+    "manufacturing_places_tags": "ukraine"
+  },
+  {
+    "manufacturing_places": "écosse",
+    "manufacturing_places_tags": "ecosse"
+  },
+  {
+    "manufacturing_places": "black sheep brewery",
+    "manufacturing_places_tags": "black-sheep-brewery"
+  },
+  {
+    "manufacturing_places": "estados unidos americanos",
+    "manufacturing_places_tags": "estados-unidos-americanos"
+  },
+  {
+    "manufacturing_places": "korangi industries area",
+    "manufacturing_places_tags": "korangi-industries-area"
+  },
+  {
+    "manufacturing_places": "karachi",
+    "manufacturing_places_tags": "karachi"
+  },
+  {
+    "manufacturing_places": "pakistan.",
+    "manufacturing_places_tags": "pakistan"
+  },
+  {
+    "manufacturing_places": "steenwerck",
+    "manufacturing_places_tags": "steenwerck"
+  },
+  {
+    "manufacturing_places": "uk",
+    "manufacturing_places_tags": "uk"
+  },
+  {
+    "manufacturing_places": "vietnam",
+    "manufacturing_places_tags": "vietnam"
+  },
+  {
+    "manufacturing_places": "argentine",
+    "manufacturing_places_tags": "argentine"
+  },
+  {
+    "manufacturing_places": "usa",
+    "manufacturing_places_tags": "usa"
+  },
+  {
+    "manufacturing_places": "30800 st gilles",
+    "manufacturing_places_tags": "30800-st-gilles"
+  },
+  {
+    "manufacturing_places": "chester",
+    "manufacturing_places_tags": "chester"
+  },
+  {
+    "manufacturing_places": "egyesült királyság",
+    "manufacturing_places_tags": "egyesult-kiralysag"
+  },
+  {
+    "manufacturing_places": "pays-bas",
+    "manufacturing_places_tags": "pays-bas"
+  },
+  {
+    "manufacturing_places": "netherlands",
+    "manufacturing_places_tags": "netherlands"
+  },
+  {
+    "manufacturing_places": "south africa",
+    "manufacturing_places_tags": "south-africa"
+  },
+  {
+    "manufacturing_places": "belgique",
+    "manufacturing_places_tags": "belgique"
+  },
+  {
+    "manufacturing_places": "allemagne",
+    "manufacturing_places_tags": "allemagne"
+  },
+  {
+    "manufacturing_places": "lyon",
+    "manufacturing_places_tags": "lyon"
+  },
+  {
+    "manufacturing_places": "united kingdon",
+    "manufacturing_places_tags": "united-kingdon"
+  },
+  {
+    "manufacturing_places": "irelande",
+    "manufacturing_places_tags": "irelande"
+  },
+  {
+    "manufacturing_places": "bearbeiten",
+    "manufacturing_places_tags": "bearbeiten"
+  },
+  {
+    "manufacturing_places": "japon",
+    "manufacturing_places_tags": "japon"
+  },
+  {
+    "manufacturing_places": "california",
+    "manufacturing_places_tags": "california"
+  },
+  {
+    "manufacturing_places": "norwalk",
+    "manufacturing_places_tags": "norwalk"
+  },
+  {
+    "manufacturing_places": " ct",
+    "manufacturing_places_tags": "ct"
+  },
+  {
+    "manufacturing_places": "zürich",
+    "manufacturing_places_tags": "zurich"
+  },
+  {
+    "manufacturing_places": "china",
+    "manufacturing_places_tags": "china"
+  },
+  {
+    "manufacturing_places": "ciudad de méxico",
+    "manufacturing_places_tags": "ciudad-de-mexico"
+  },
+  {
+    "manufacturing_places": "switzerland",
+    "manufacturing_places_tags": "switzerland"
+  },
+  {
+    "manufacturing_places": "fort worth",
+    "manufacturing_places_tags": "fort-worth"
+  },
+  {
+    "manufacturing_places": " tx",
+    "manufacturing_places_tags": "tx"
+  },
+  {
+    "manufacturing_places": "latina",
+    "manufacturing_places_tags": "latina"
+  },
+  {
+    "manufacturing_places": "sénégal",
+    "manufacturing_places_tags": "senegal"
+  },
+  {
+    "manufacturing_places": "yeo valley farms north somerset",
+    "manufacturing_places_tags": "yeo-valley-farms-north-somerset"
+  },
+  {
+    "manufacturing_places": "angleterre",
+    "manufacturing_places_tags": "angleterre"
+  },
+  {
+    "manufacturing_places": "poland",
+    "manufacturing_places_tags": "poland"
+  },
+  {
+    "manufacturing_places": "canada",
+    "manufacturing_places_tags": "canada"
+  },
+  {
+    "manufacturing_places": "prien",
+    "manufacturing_places_tags": "prien"
+  },
+  {
+    "manufacturing_places": " bayern",
+    "manufacturing_places_tags": "bayern"
+  },
+  {
+    "manufacturing_places": "la halle aux fruits",
+    "manufacturing_places_tags": "la-halle-aux-fruits"
+  },
+  {
+    "manufacturing_places": "italy",
+    "manufacturing_places_tags": "italy"
+  },
+  {
+    "manufacturing_places": "méxico",
+    "manufacturing_places_tags": "mexico"
+  },
+  {
+    "manufacturing_places": "miguel hidalgo",
+    "manufacturing_places_tags": "miguel-hidalgo"
+  },
+  {
+    "manufacturing_places": "wichita",
+    "manufacturing_places_tags": "wichita"
+  },
+  {
+    "manufacturing_places": " kansas",
+    "manufacturing_places_tags": "kansas"
+  },
+  {
+    "manufacturing_places": "the hershey company",
+    "manufacturing_places_tags": "the-hershey-company"
+  },
+  {
+    "manufacturing_places": "gramat",
+    "manufacturing_places_tags": "gramat"
+  },
+  {
+    "manufacturing_places": "cincinnati",
+    "manufacturing_places_tags": "cincinnati"
+  },
+  {
+    "manufacturing_places": " ohio",
+    "manufacturing_places_tags": "ohio"
+  },
+  {
+    "manufacturing_places": "cincinnati ohio usa",
+    "manufacturing_places_tags": "cincinnati-ohio-usa"
+  },
+  {
+    "manufacturing_places": "limousin france",
+    "manufacturing_places_tags": "limousin-france"
+  },
+  {
+    "manufacturing_places": "cincinnati ohio",
+    "manufacturing_places_tags": "cincinnati-ohio"
+  },
+  {
+    "manufacturing_places": "spe",
+    "manufacturing_places_tags": "spe"
+  },
+  {
+    "manufacturing_places": "the kroger co. cincinnati",
+    "manufacturing_places_tags": "the-kroger-co-cincinnati"
+  },
+  {
+    "manufacturing_places": " ohio 45202",
+    "manufacturing_places_tags": "ohio-45202"
+  },
+  {
+    "manufacturing_places": "kroger co.",
+    "manufacturing_places_tags": "kroger-co"
+  },
+  {
+    "manufacturing_places": "toronto on",
+    "manufacturing_places_tags": "toronto-on"
+  },
+  {
+    "manufacturing_places": "taiwan",
+    "manufacturing_places_tags": "taiwan"
+  },
+  {
+    "manufacturing_places": "kimura drink co ltd",
+    "manufacturing_places_tags": "kimura-drink-co-ltd"
+  },
+  {
+    "manufacturing_places": "hama plant",
+    "manufacturing_places_tags": "hama-plant"
+  },
+  {
+    "manufacturing_places": "3051-43 hamakawara",
+    "manufacturing_places_tags": "3051-43-hamakawara"
+  },
+  {
+    "manufacturing_places": "kawashiri",
+    "manufacturing_places_tags": "kawashiri"
+  },
+  {
+    "manufacturing_places": "yoshida-cho",
+    "manufacturing_places_tags": "yoshida-cho"
+  },
+  {
+    "manufacturing_places": "haibara-gun",
+    "manufacturing_places_tags": "haibara-gun"
+  },
+  {
+    "manufacturing_places": "shizuoka",
+    "manufacturing_places_tags": "shizuoka"
+  },
+  {
+    "manufacturing_places": "japan",
+    "manufacturing_places_tags": "japan"
+  },
+  {
+    "manufacturing_places": "topco",
+    "manufacturing_places_tags": "topco"
+  },
+  {
+    "manufacturing_places": "callao",
+    "manufacturing_places_tags": "callao"
+  },
+  {
+    "manufacturing_places": "estado de méxico",
+    "manufacturing_places_tags": "estado-de-mexico"
+  },
+  {
+    "manufacturing_places": "avery island",
+    "manufacturing_places_tags": "avery-island"
+  },
+  {
+    "manufacturing_places": "luisiana",
+    "manufacturing_places_tags": "luisiana"
+  },
+  {
+    "manufacturing_places": "estados unidos",
+    "manufacturing_places_tags": "estados-unidos"
+  },
+  {
+    "manufacturing_places": "san francisco california",
+    "manufacturing_places_tags": "san-francisco-california"
+  },
+  {
+    "manufacturing_places": "mcilhenny company",
+    "manufacturing_places_tags": "mcilhenny-company"
+  },
+  {
+    "manufacturing_places": "san nicolas de los garza",
+    "manufacturing_places_tags": "san-nicolas-de-los-garza"
+  },
+  {
+    "manufacturing_places": " nuevo león",
+    "manufacturing_places_tags": "nuevo-leon"
+  },
+  {
+    "manufacturing_places": "eden prairie",
+    "manufacturing_places_tags": "eden-prairie"
+  },
+  {
+    "manufacturing_places": "minnesota",
+    "manufacturing_places_tags": "minnesota"
+  },
+  {
+    "manufacturing_places": "denmark",
+    "manufacturing_places_tags": "denmark"
+  },
+  {
+    "manufacturing_places": "plymouth",
+    "manufacturing_places_tags": "plymouth"
+  },
+  {
+    "manufacturing_places": "wisconsin",
+    "manufacturing_places_tags": "wisconsin"
+  },
+  {
+    "manufacturing_places": "northern bottling company (pvt) ltd",
+    "manufacturing_places_tags": "northern-bottling-company-pvt-ltd"
+  },
+  {
+    "manufacturing_places": "plot no. 16-a",
+    "manufacturing_places_tags": "plot-no-16-a"
+  },
+  {
+    "manufacturing_places": "industrial estate jamrud road",
+    "manufacturing_places_tags": "industrial-estate-jamrud-road"
+  },
+  {
+    "manufacturing_places": "peshawar",
+    "manufacturing_places_tags": "peshawar"
+  },
+  {
+    "manufacturing_places": ""
+  },
+  {
+    "manufacturing_places": "جدة",
+    "manufacturing_places_tags": "جدة"
+  },
+  {
+    "manufacturing_places": "india",
+    "manufacturing_places_tags": "india"
+  },
+  {
+    "manufacturing_places": "yucatan",
+    "manufacturing_places_tags": "yucatan"
+  },
+  {
+    "manufacturing_places": "suisse",
+    "manufacturing_places_tags": "suisse"
+  },
+  {
+    "manufacturing_places": "saudi arabia",
+    "manufacturing_places_tags": "saudi-arabia"
+  },
+  {
+    "manufacturing_places": "chicago",
+    "manufacturing_places_tags": "chicago"
+  },
+  {
+    "manufacturing_places": "indonesia",
+    "manufacturing_places_tags": "indonesia"
+  },
+  {
+    "manufacturing_places": "pt. sindu amritha",
+    "manufacturing_places_tags": "pt-sindu-amritha"
+  },
+  {
+    "manufacturing_places": "jl. sumatera no 26-28",
+    "manufacturing_places_tags": "jl-sumatera-no-26-28"
+  },
+  {
+    "manufacturing_places": "pasuruan",
+    "manufacturing_places_tags": "pasuruan"
+  },
+  {
+    "manufacturing_places": "67114",
+    "manufacturing_places_tags": "67114"
+  },
+  {
+    "manufacturing_places": "ny",
+    "manufacturing_places_tags": "ny"
+  },
+  {
+    "manufacturing_places": "gassbab",
+    "manufacturing_places_tags": "gassbab"
+  },
+  {
+    "manufacturing_places": "السعوديه",
+    "manufacturing_places_tags": "السعوديه"
+  },
+  {
+    "manufacturing_places": "panamá",
+    "manufacturing_places_tags": "panama"
+  },
+  {
+    "manufacturing_places": "purchase",
+    "manufacturing_places_tags": "purchase"
+  },
+  {
+    "manufacturing_places": "estados unidos de america",
+    "manufacturing_places_tags": "estados-unidos-de-america"
+  },
+  {
+    "manufacturing_places": "dakar",
+    "manufacturing_places_tags": "dakar"
+  },
+  {
+    "manufacturing_places": "deutschland",
+    "manufacturing_places_tags": "deutschland"
+  },
+  {
+    "manufacturing_places": "الولايات المتحدة الامريكية",
+    "manufacturing_places_tags": "الولايات-المتحدة-الامريكية"
+  },
+  {
+    "manufacturing_places": "schweden",
+    "manufacturing_places_tags": "schweden"
+  },
+  {
+    "manufacturing_places": "jalisco",
+    "manufacturing_places_tags": "jalisco"
+  },
+  {
+    "manufacturing_places": "belgium",
+    "manufacturing_places_tags": "belgium"
+  },
+  {
+    "manufacturing_places": "pittsburgh",
+    "manufacturing_places_tags": "pittsburgh"
+  },
+  {
+    "manufacturing_places": "pa",
+    "manufacturing_places_tags": "pa"
+  },
+  {
+    "manufacturing_places": "ancaster",
+    "manufacturing_places_tags": "ancaster"
+  },
+  {
+    "manufacturing_places": "ontario",
+    "manufacturing_places_tags": "ontario"
+  },
+  {
+    "manufacturing_places": "berkeley",
+    "manufacturing_places_tags": "berkeley"
+  },
+  {
+    "manufacturing_places": " ca",
+    "manufacturing_places_tags": "ca"
+  },
+  {
+    "manufacturing_places": "annie's inc",
+    "manufacturing_places_tags": "annie-s-inc"
+  },
+  {
+    "manufacturing_places": "barcelone",
+    "manufacturing_places_tags": "barcelone"
+  },
+  {
+    "manufacturing_places": "espagne",
+    "manufacturing_places_tags": "espagne"
+  },
+  {
+    "manufacturing_places": "alicante",
+    "manufacturing_places_tags": "alicante"
+  },
+  {
+    "manufacturing_places": "turquie",
+    "manufacturing_places_tags": "turquie"
+  },
+  {
+    "manufacturing_places": "saint-yrieix 87500",
+    "manufacturing_places_tags": "saint-yrieix-87500"
+  },
+  {
+    "manufacturing_places": "u.s.a.",
+    "manufacturing_places_tags": "u-s-a"
+  },
+  {
+    "manufacturing_places": "luxembourg",
+    "manufacturing_places_tags": "luxembourg"
+  },
+  {
+    "manufacturing_places": "lost hills",
+    "manufacturing_places_tags": "lost-hills"
+  },
+  {
+    "manufacturing_places": "phillippines",
+    "manufacturing_places_tags": "phillippines"
+  },
+  {
+    "manufacturing_places": "philippines",
+    "manufacturing_places_tags": "philippines"
+  },
+  {
+    "manufacturing_places": "york",
+    "manufacturing_places_tags": "york"
+  },
+  {
+    "manufacturing_places": "nebraska",
+    "manufacturing_places_tags": "nebraska"
+  },
+  {
+    "manufacturing_places": "gerber products company  fremont   mi 49413 usa",
+    "manufacturing_places_tags": "gerber-products-company-fremont-mi-49413-usa"
+  },
+  {
+    "manufacturing_places": "michigan",
+    "manufacturing_places_tags": "michigan"
+  },
+  {
+    "manufacturing_places": "made in uk",
+    "manufacturing_places_tags": "made-in-uk"
+  },
+  {
+    "manufacturing_places": "portland",
+    "manufacturing_places_tags": "portland"
+  },
+  {
+    "manufacturing_places": "or",
+    "manufacturing_places_tags": "or"
+  },
+  {
+    "manufacturing_places": "portugal",
+    "manufacturing_places_tags": "portugal"
+  },
+  {
+    "manufacturing_places": "costa rica",
+    "manufacturing_places_tags": "costa-rica"
+  },
+  {
+    "manufacturing_places": "connecticut",
+    "manufacturing_places_tags": "connecticut"
+  },
+  {
+    "manufacturing_places": "st. simons island",
+    "manufacturing_places_tags": "st-simons-island"
+  },
+  {
+    "manufacturing_places": "georgia",
+    "manufacturing_places_tags": "georgia"
+  },
+  {
+    "manufacturing_places": "peloponnese",
+    "manufacturing_places_tags": "peloponnese"
+  },
+  {
+    "manufacturing_places": "italien",
+    "manufacturing_places_tags": "italien"
+  },
+  {
+    "manufacturing_places": "texas",
+    "manufacturing_places_tags": "texas"
+  },
+  {
+    "manufacturing_places": "malaysia",
+    "manufacturing_places_tags": "malaysia"
+  },
+  {
+    "manufacturing_places": "minneapolis",
+    "manufacturing_places_tags": "minneapolis"
+  },
+  {
+    "manufacturing_places": " mn",
+    "manufacturing_places_tags": "mn"
+  },
+  {
+    "manufacturing_places": "spain",
+    "manufacturing_places_tags": "spain"
+  },
+  {
+    "manufacturing_places": "usa  minnesota",
+    "manufacturing_places_tags": "usa-minnesota"
+  },
+  {
+    "manufacturing_places": "minneapolis   minnesota",
+    "manufacturing_places_tags": "minneapolis-minnesota"
+  },
+  {
+    "manufacturing_places": "estado unidos de américa",
+    "manufacturing_places_tags": "estado-unidos-de-america"
+  },
+  {
+    "manufacturing_places": "île de mull",
+    "manufacturing_places_tags": "ile-de-mull"
+  },
+  {
+    "manufacturing_places": "thaïlande",
+    "manufacturing_places_tags": "thailande"
+  },
+  {
+    "manufacturing_places": "indonésie",
+    "manufacturing_places_tags": "indonesie"
+  },
+  {
+    "manufacturing_places": "thai agri foods public company limited",
+    "manufacturing_places_tags": "thai-agri-foods-public-company-limited"
+  },
+  {
+    "manufacturing_places": "155/1 moo 1",
+    "manufacturing_places_tags": "155-1-moo-1"
+  },
+  {
+    "manufacturing_places": "theparak rd",
+    "manufacturing_places_tags": "theparak-rd"
+  },
+  {
+    "manufacturing_places": "samutprakarn",
+    "manufacturing_places_tags": "samutprakarn"
+  },
+  {
+    "manufacturing_places": "10540",
+    "manufacturing_places_tags": "10540"
+  },
+  {
+    "manufacturing_places": "וייטנאם",
+    "manufacturing_places_tags": "וייטנאם"
+  },
+  {
+    "manufacturing_places": "guissona",
+    "manufacturing_places_tags": "guissona"
+  },
+  {
+    "manufacturing_places": " lleida",
+    "manufacturing_places_tags": "lleida"
+  },
+  {
+    "manufacturing_places": "holland",
+    "manufacturing_places_tags": "holland"
+  },
+  {
+    "manufacturing_places": "grèce",
+    "manufacturing_places_tags": "grece"
+  },
+  {
+    "manufacturing_places": "israel",
+    "manufacturing_places_tags": "israel"
+  },
+  {
+    "manufacturing_places": "norway",
+    "manufacturing_places_tags": "norway"
+  },
+  {
+    "manufacturing_places": "lorp-sentaraille",
+    "manufacturing_places_tags": "lorp-sentaraille"
+  },
+  {
+    "manufacturing_places": "distribuido por saraya usa",
+    "manufacturing_places_tags": "distribuido-por-saraya-usa"
+  },
+  {
+    "manufacturing_places": " inc.",
+    "manufacturing_places_tags": "inc"
+  },
+  {
+    "manufacturing_places": "californie",
+    "manufacturing_places_tags": "californie"
+  },
+  {
+    "manufacturing_places": "edimbourg",
+    "manufacturing_places_tags": "edimbourg"
+  },
+  {
+    "manufacturing_places": "maroc",
+    "manufacturing_places_tags": "maroc"
+  },
+  {
+    "manufacturing_places": "denver",
+    "manufacturing_places_tags": "denver"
+  },
+  {
+    "manufacturing_places": "p.o. box 1958",
+    "manufacturing_places_tags": "p-o-box-1958"
+  },
+  {
+    "manufacturing_places": " vista",
+    "manufacturing_places_tags": "vista"
+  },
+  {
+    "manufacturing_places": " ca 92085 1-844-wer-all1(937-2551)",
+    "manufacturing_places_tags": "ca-92085-1-844-wer-all1-937-2551"
+  },
+  {
+    "manufacturing_places": "ecuador",
+    "manufacturing_places_tags": "ecuador"
+  },
+  {
+    "manufacturing_places": "munich",
+    "manufacturing_places_tags": "munich"
+  },
+  {
+    "manufacturing_places": "grande-bretagne",
+    "manufacturing_places_tags": "grande-bretagne"
+  },
+  {
+    "manufacturing_places": "香港",
+    "manufacturing_places_tags": "香港"
+  },
+  {
+    "manufacturing_places": "葵涌工業街79號",
+    "manufacturing_places_tags": "葵涌工業街79號"
+  },
+  {
+    "manufacturing_places": "粤南工業大廈4樓及10樓",
+    "manufacturing_places_tags": "粤南工業大廈4樓及10樓"
+  },
+  {
+    "manufacturing_places": "unites kingdom",
+    "manufacturing_places_tags": "unites-kingdom"
+  }
+]

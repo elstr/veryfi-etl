@@ -1,0 +1,1830 @@
+[
+  {
+    "packaging_tags": "en:plastic",
+    "packaging_en": "plastic"
+  },
+  {
+    "packaging_tags": "en:tray",
+    "packaging_en": "tray"
+  },
+  {
+    "packaging_tags": "en:glass",
+    "packaging_en": "glass"
+  },
+  {
+    "packaging_tags": "fr:boite-en-metal",
+    "packaging_en": "fr:boite-en-metal"
+  },
+  {
+    "packaging_tags": "en:jar",
+    "packaging_en": "jar"
+  },
+  {
+    "packaging_tags": "en:bottle",
+    "packaging_en": "bottle"
+  },
+  {
+    "packaging_tags": "en:cardboard",
+    "packaging_en": "cardboard"
+  },
+  {
+    "packaging_tags": "en:fresh",
+    "packaging_en": "fresh"
+  },
+  {
+    "packaging_tags": "en:bag",
+    "packaging_en": "bag"
+  },
+  {
+    "packaging_tags": "en:paper",
+    "packaging_en": "paper"
+  },
+  {
+    "packaging_tags": "en:plastic-film",
+    "packaging_en": "plastic-film"
+  },
+  {
+    "packaging_tags": "en:tetra-pak",
+    "packaging_en": "tetra pak"
+  },
+  {
+    "packaging_tags": "fr:pot-en-verre",
+    "packaging_en": "fr:pot-en-verre"
+  },
+  {
+    "packaging_tags": "fr:sachet-plastique",
+    "packaging_en": "fr:sachet-plastique"
+  },
+  {
+    "packaging_tags": "en:metal",
+    "packaging_en": "metal"
+  },
+  {
+    "packaging_tags": "en:can",
+    "packaging_en": "can"
+  },
+  {
+    "packaging_tags": "en:drink-can",
+    "packaging_en": "drink can"
+  },
+  {
+    "packaging_tags": "en:box",
+    "packaging_en": "box"
+  },
+  {
+    "packaging_tags": "en:recyclable-metals",
+    "packaging_en": "recyclable metals"
+  },
+  {
+    "packaging_tags": "en:aluminium",
+    "packaging_en": "aluminium"
+  },
+  {
+    "packaging_tags": "fr:en-caissette",
+    "packaging_en": "fr:en-caissette"
+  },
+  {
+    "packaging_tags": "en:ldpe-sleeve",
+    "packaging_en": "ldpe-sleeve"
+  },
+  {
+    "packaging_tags": "fr:71",
+    "packaging_en": "fr:71"
+  },
+  {
+    "packaging_tags": "en:non-corrugated-cardboard",
+    "packaging_en": "non-corrugated cardboard"
+  },
+  {
+    "packaging_tags": "en:bowl",
+    "packaging_en": "bowl"
+  },
+  {
+    "packaging_tags": "fr:en-barre-de-chocolat",
+    "packaging_en": "fr:en-barre-de-chocolat"
+  },
+  {
+    "packaging_tags": "fr:canette-aluminium",
+    "packaging_en": "fr:canette-aluminium"
+  },
+  {
+    "packaging_tags": "en:squeeze-bottle",
+    "packaging_en": "squeeze bottle"
+  },
+  {
+    "packaging_tags": "de:angebrochene-packung",
+    "packaging_en": "de:angebrochene-packung"
+  },
+  {
+    "packaging_tags": "fr:produkt",
+    "packaging_en": "fr:produkt"
+  },
+  {
+    "packaging_tags": "en:paket",
+    "packaging_en": "paket"
+  },
+  {
+    "packaging_tags": "en:frozen",
+    "packaging_en": "frozen"
+  },
+  {
+    "packaging_tags": "en:ldpe-low-density-polyethylene",
+    "packaging_en": "ldpe - low-density polyethylene"
+  },
+  {
+    "packaging_tags": "fr:04",
+    "packaging_en": "fr:04"
+  },
+  {
+    "packaging_tags": "de:stück",
+    "packaging_en": "de:stück"
+  },
+  {
+    "packaging_tags": "en:fleisch",
+    "packaging_en": "fleisch"
+  },
+  {
+    "packaging_tags": "en:ldpe-bag",
+    "packaging_en": "ldpe-bag"
+  },
+  {
+    "packaging_tags": "es:bote-de-plastico",
+    "packaging_en": "es:bote-de-plastico"
+  },
+  {
+    "packaging_tags": "fr:boite-en-carton",
+    "packaging_en": "fr:boite-en-carton"
+  },
+  {
+    "packaging_tags": "fr:film-en-plastique",
+    "packaging_en": "fr:film-en-plastique"
+  },
+  {
+    "packaging_tags": "fr:couvercle-en-metal",
+    "packaging_en": "fr:couvercle-en-metal"
+  },
+  {
+    "packaging_tags": "ar:بلاستيك",
+    "packaging_en": "ar:بلاستيك"
+  },
+  {
+    "packaging_tags": "en:elastic-band",
+    "packaging_en": "elastic-band"
+  },
+  {
+    "packaging_tags": "en:other-plastic-unknown",
+    "packaging_en": "other-plastic-unknown"
+  },
+  {
+    "packaging_tags": "en:bucket",
+    "packaging_en": "bucket"
+  },
+  {
+    "packaging_tags": "en:film-plastic",
+    "packaging_en": "film-plastic"
+  },
+  {
+    "packaging_tags": "en:container",
+    "packaging_en": "container"
+  },
+  {
+    "packaging_tags": "fr:film-plastique-individuel",
+    "packaging_en": "fr:film-plastique-individuel"
+  },
+  {
+    "packaging_tags": "fr:1-boite-en-metal",
+    "packaging_en": "fr:1-boite-en-metal"
+  },
+  {
+    "packaging_tags": "fr:12-emballages-individuels-en-plastique",
+    "packaging_en": "fr:12-emballages-individuels-en-plastique"
+  },
+  {
+    "packaging_tags": "en:4",
+    "packaging_en": "4"
+  },
+  {
+    "packaging_tags": "fr:opercule-plastique",
+    "packaging_en": "fr:opercule-plastique"
+  },
+  {
+    "packaging_tags": "fr:pot-plastique",
+    "packaging_en": "fr:pot-plastique"
+  },
+  {
+    "packaging_tags": "fr:etui-carton",
+    "packaging_en": "fr:etui-carton"
+  },
+  {
+    "packaging_tags": "en:pouch-flask",
+    "packaging_en": "pouch flask"
+  },
+  {
+    "packaging_tags": "fr:sachet-refermable",
+    "packaging_en": "fr:sachet-refermable"
+  },
+  {
+    "packaging_tags": "fr:paquet-chips",
+    "packaging_en": "fr:paquet-chips"
+  },
+  {
+    "packaging_tags": "en:envelope",
+    "packaging_en": "envelope"
+  },
+  {
+    "packaging_tags": "fr:30-emballages-individuels",
+    "packaging_en": "fr:30-emballages-individuels"
+  },
+  {
+    "packaging_tags": "fr:boite-carton",
+    "packaging_en": "fr:boite-carton"
+  },
+  {
+    "packaging_tags": "en:canned",
+    "packaging_en": "canned"
+  },
+  {
+    "packaging_tags": "en:vacuum-packed",
+    "packaging_en": "vacuum-packed"
+  },
+  {
+    "packaging_tags": "fr:sac-plastique",
+    "packaging_en": "fr:sac-plastique"
+  },
+  {
+    "packaging_tags": "en:poplar-box",
+    "packaging_en": "poplar-box"
+  },
+  {
+    "packaging_tags": "en:hdpe-high-density-polyethylene",
+    "packaging_en": "hdpe - high-density polyethylene"
+  },
+  {
+    "packaging_tags": "en:label",
+    "packaging_en": "label"
+  },
+  {
+    "packaging_tags": "en:net",
+    "packaging_en": "net"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-bag",
+    "packaging_en": "mixed-plastic-bag"
+  },
+  {
+    "packaging_tags": "en:pet-tray",
+    "packaging_en": "pet-tray"
+  },
+  {
+    "packaging_tags": "en:vacuumed",
+    "packaging_en": "vacuumed"
+  },
+  {
+    "packaging_tags": "en:pack",
+    "packaging_en": "pack"
+  },
+  {
+    "packaging_tags": "en:protective-gas",
+    "packaging_en": "protective gas"
+  },
+  {
+    "packaging_tags": "fr:etui-en-carton",
+    "packaging_en": "fr:etui-en-carton"
+  },
+  {
+    "packaging_tags": "en:carton-packaging",
+    "packaging_en": "carton-packaging"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-packet",
+    "packaging_en": "mixed-plastic-packet"
+  },
+  {
+    "packaging_tags": "en:card-box",
+    "packaging_en": "card-box"
+  },
+  {
+    "packaging_tags": "fr:barquette-plastique",
+    "packaging_en": "fr:barquette-plastique"
+  },
+  {
+    "packaging_tags": "de:würfel",
+    "packaging_en": "de:würfel"
+  },
+  {
+    "packaging_tags": "en:test",
+    "packaging_en": "test"
+  },
+  {
+    "packaging_tags": "en:plastic-container",
+    "packaging_en": "plastic-container"
+  },
+  {
+    "packaging_tags": "en:چی",
+    "packaging_en": "چی"
+  },
+  {
+    "packaging_tags": "en:card-sleeve",
+    "packaging_en": "card-sleeve"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-sleeve",
+    "packaging_en": "mixed-plastic-sleeve"
+  },
+  {
+    "packaging_tags": "en:film",
+    "packaging_en": "film"
+  },
+  {
+    "packaging_tags": "en:unknown-film",
+    "packaging_en": "unknown-film"
+  },
+  {
+    "packaging_tags": "en:pet-polyethylene-terephthalate",
+    "packaging_en": "pet - polyethylene terephthalate"
+  },
+  {
+    "packaging_tags": "en:1-plastic-box",
+    "packaging_en": "1-plastic-box"
+  },
+  {
+    "packaging_tags": "en:unknown-packet",
+    "packaging_en": "unknown-packet"
+  },
+  {
+    "packaging_tags": "fr:sachet-en-plastique",
+    "packaging_en": "fr:sachet-en-plastique"
+  },
+  {
+    "packaging_tags": "fr:pot-en-plastique",
+    "packaging_en": "fr:pot-en-plastique"
+  },
+  {
+    "packaging_tags": "fr:barquette-en-plastique",
+    "packaging_en": "fr:barquette-en-plastique"
+  },
+  {
+    "packaging_tags": "es:buit",
+    "packaging_en": "es:buit"
+  },
+  {
+    "packaging_tags": "fr:20-etuis-individuels",
+    "packaging_en": "fr:20-etuis-individuels"
+  },
+  {
+    "packaging_tags": "en:aluminium-tray",
+    "packaging_en": "aluminium-tray"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-film",
+    "packaging_en": "mixed-plastic-film"
+  },
+  {
+    "packaging_tags": "en:paper-sleeve",
+    "packaging_en": "paper-sleeve"
+  },
+  {
+    "packaging_tags": "it:perugina",
+    "packaging_en": "it:perugina"
+  },
+  {
+    "packaging_tags": "fr:bte",
+    "packaging_en": "fr:bte"
+  },
+  {
+    "packaging_tags": "en:plastic-jar",
+    "packaging_en": "plastic-jar"
+  },
+  {
+    "packaging_tags": "en:hdpe-film-bag",
+    "packaging_en": "hdpe-film-bag"
+  },
+  {
+    "packaging_tags": "en:paper-bag",
+    "packaging_en": "paper-bag"
+  },
+  {
+    "packaging_tags": "it:confezione-con-tappo-in-plastica",
+    "packaging_en": "it:confezione-con-tappo-in-plastica"
+  },
+  {
+    "packaging_tags": "en:unfrozen",
+    "packaging_en": "unfrozen"
+  },
+  {
+    "packaging_tags": "en:hdpe-cap",
+    "packaging_en": "hdpe-cap"
+  },
+  {
+    "packaging_tags": "en:pet-bottle",
+    "packaging_en": "pet-bottle"
+  },
+  {
+    "packaging_tags": "en:glass-bottle",
+    "packaging_en": "glass-bottle"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-film-film",
+    "packaging_en": "mixed-plastic-film-film"
+  },
+  {
+    "packaging_tags": "en:glass-jar",
+    "packaging_en": "glass-jar"
+  },
+  {
+    "packaging_tags": "en:steel-lid",
+    "packaging_en": "steel-lid"
+  },
+  {
+    "packaging_tags": "en:steel-cap",
+    "packaging_en": "steel-cap"
+  },
+  {
+    "packaging_tags": "en:pet-pot",
+    "packaging_en": "pet-pot"
+  },
+  {
+    "packaging_tags": "fr:boite-en-plastique",
+    "packaging_en": "fr:boite-en-plastique"
+  },
+  {
+    "packaging_tags": "en:אט",
+    "packaging_en": "אט"
+  },
+  {
+    "packaging_tags": "en:8",
+    "packaging_en": "8"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-film-packet",
+    "packaging_en": "mixed-plastic-film-packet"
+  },
+  {
+    "packaging_tags": "en:label-plastic",
+    "packaging_en": "label-plastic"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-wrapper",
+    "packaging_en": "mixed-plastic-wrapper"
+  },
+  {
+    "packaging_tags": "en:paper-unknown",
+    "packaging_en": "paper-unknown"
+  },
+  {
+    "packaging_tags": "en:card-pot",
+    "packaging_en": "card-pot"
+  },
+  {
+    "packaging_tags": "en:no-packaging",
+    "packaging_en": "no-packaging"
+  },
+  {
+    "packaging_tags": "en:pp-lid",
+    "packaging_en": "pp-lid"
+  },
+  {
+    "packaging_tags": "en:pp-pot",
+    "packaging_en": "pp-pot"
+  },
+  {
+    "packaging_tags": "fr:bouteille-verre",
+    "packaging_en": "fr:bouteille-verre"
+  },
+  {
+    "packaging_tags": "fr:aliminium",
+    "packaging_en": "fr:aliminium"
+  },
+  {
+    "packaging_tags": "en:composite-carton",
+    "packaging_en": "composite-carton"
+  },
+  {
+    "packaging_tags": "en:plastic-jug",
+    "packaging_en": "plastic-jug"
+  },
+  {
+    "packaging_tags": "en:plastic-tub",
+    "packaging_en": "plastic-tub"
+  },
+  {
+    "packaging_tags": "en:pp-tray",
+    "packaging_en": "pp-tray"
+  },
+  {
+    "packaging_tags": "en:green-dot",
+    "packaging_en": "green-dot"
+  },
+  {
+    "packaging_tags": "en:paper-pot",
+    "packaging_en": "paper-pot"
+  },
+  {
+    "packaging_tags": "en:film-plastics-not-currently-recycled",
+    "packaging_en": "film-plastics-not-currently-recycled"
+  },
+  {
+    "packaging_tags": "en:tray-plastics-check-local-recycling",
+    "packaging_en": "tray-plastics-check-local-recycling"
+  },
+  {
+    "packaging_tags": "fr:comte",
+    "packaging_en": "fr:comte"
+  },
+  {
+    "packaging_tags": "fr:boite-plastique",
+    "packaging_en": "fr:boite-plastique"
+  },
+  {
+    "packaging_tags": "fr:emballage-plastique",
+    "packaging_en": "fr:emballage-plastique"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-film-bag",
+    "packaging_en": "mixed-plastic-film-bag"
+  },
+  {
+    "packaging_tags": "en:kraft-heinz",
+    "packaging_en": "kraft-heinz"
+  },
+  {
+    "packaging_tags": "en:ldpe-film",
+    "packaging_en": "ldpe-film"
+  },
+  {
+    "packaging_tags": "en:vial",
+    "packaging_en": "vial"
+  },
+  {
+    "packaging_tags": "fr:gellules",
+    "packaging_en": "fr:gellules"
+  },
+  {
+    "packaging_tags": "en:pvc-lid",
+    "packaging_en": "pvc-lid"
+  },
+  {
+    "packaging_tags": "es:1-envase",
+    "packaging_en": "es:1-envase"
+  },
+  {
+    "packaging_tags": "en:packaging",
+    "packaging_en": "packaging"
+  },
+  {
+    "packaging_tags": "en:6-tranches",
+    "packaging_en": "6-tranches"
+  },
+  {
+    "packaging_tags": "de:produkt",
+    "packaging_en": "de:produkt"
+  },
+  {
+    "packaging_tags": "fr:oeuf",
+    "packaging_en": "fr:oeuf"
+  },
+  {
+    "packaging_tags": "en:pot",
+    "packaging_en": "pot"
+  },
+  {
+    "packaging_tags": "fr:10-etuis-de-6-biscuits-cuillers",
+    "packaging_en": "fr:10-etuis-de-6-biscuits-cuillers"
+  },
+  {
+    "packaging_tags": "en:food-can",
+    "packaging_en": "food can"
+  },
+  {
+    "packaging_tags": "en:other-plastic-film",
+    "packaging_en": "other-plastic-film"
+  },
+  {
+    "packaging_tags": "fr:200-g",
+    "packaging_en": "fr:200-g"
+  },
+  {
+    "packaging_tags": "en:steel-tin",
+    "packaging_en": "steel-tin"
+  },
+  {
+    "packaging_tags": "en:aluminium-can",
+    "packaging_en": "aluminium-can"
+  },
+  {
+    "packaging_tags": "fr:sachet-biodegradable",
+    "packaging_en": "fr:sachet-biodegradable"
+  },
+  {
+    "packaging_tags": "en:pet-tub",
+    "packaging_en": "pet-tub"
+  },
+  {
+    "packaging_tags": "en:hdpe-lid",
+    "packaging_en": "hdpe-lid"
+  },
+  {
+    "packaging_tags": "en:brick",
+    "packaging_en": "brick"
+  },
+  {
+    "packaging_tags": "en:tray-plastic",
+    "packaging_en": "tray-plastic"
+  },
+  {
+    "packaging_tags": "en:pet-cap",
+    "packaging_en": "pet-cap"
+  },
+  {
+    "packaging_tags": "en:hdpe-bottle",
+    "packaging_en": "hdpe-bottle"
+  },
+  {
+    "packaging_tags": "en:paper-wrapper",
+    "packaging_en": "paper-wrapper"
+  },
+  {
+    "packaging_tags": "de:kunststoff-flasche",
+    "packaging_en": "de:kunststoff-flasche"
+  },
+  {
+    "packaging_tags": "de:tüte-n",
+    "packaging_en": "de:tüte-n"
+  },
+  {
+    "packaging_tags": "en:bag-paper",
+    "packaging_en": "bag-paper"
+  },
+  {
+    "packaging_tags": "en:aluminium-tin",
+    "packaging_en": "aluminium-tin"
+  },
+  {
+    "packaging_tags": "en:pp-film-film",
+    "packaging_en": "pp-film-film"
+  },
+  {
+    "packaging_tags": "en:produkt",
+    "packaging_en": "produkt"
+  },
+  {
+    "packaging_tags": "de:glasflasche",
+    "packaging_en": "de:glasflasche"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-film-lid",
+    "packaging_en": "mixed-plastic-film-lid"
+  },
+  {
+    "packaging_tags": "en:pp-5-lid-widely-recycled",
+    "packaging_en": "pp-5-lid-widely-recycled"
+  },
+  {
+    "packaging_tags": "en:pp-5-pot-widely-recycled",
+    "packaging_en": "pp-5-pot-widely-recycled"
+  },
+  {
+    "packaging_tags": "en:pp-packet",
+    "packaging_en": "pp-packet"
+  },
+  {
+    "packaging_tags": "en:plastic-bag",
+    "packaging_en": "plastic-bag"
+  },
+  {
+    "packaging_tags": "en:plastic-bag-resealable",
+    "packaging_en": "plastic-bag-resealable"
+  },
+  {
+    "packaging_tags": "de:plastikdose",
+    "packaging_en": "de:plastikdose"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-film-wrapper",
+    "packaging_en": "mixed-plastic-film-wrapper"
+  },
+  {
+    "packaging_tags": "fr:sachets-plastiques",
+    "packaging_en": "fr:sachets-plastiques"
+  },
+  {
+    "packaging_tags": "en:sachet-zip",
+    "packaging_en": "sachet-zip"
+  },
+  {
+    "packaging_tags": "en:stuck",
+    "packaging_en": "stuck"
+  },
+  {
+    "packaging_tags": "en:sous-film",
+    "packaging_en": "sous-film"
+  },
+  {
+    "packaging_tags": "pt:frasco-de-cristal",
+    "packaging_en": "pt:frasco-de-cristal"
+  },
+  {
+    "packaging_tags": "es:3",
+    "packaging_en": "es:3"
+  },
+  {
+    "packaging_tags": "en:pp-tube",
+    "packaging_en": "pp-tube"
+  },
+  {
+    "packaging_tags": "en:aluminium-tub",
+    "packaging_en": "aluminium-tub"
+  },
+  {
+    "packaging_tags": "en:card-tray",
+    "packaging_en": "card-tray"
+  },
+  {
+    "packaging_tags": "en:plastic-carton",
+    "packaging_en": "plastic-carton"
+  },
+  {
+    "packaging_tags": "en:verre",
+    "packaging_en": "verre"
+  },
+  {
+    "packaging_tags": "en:card",
+    "packaging_en": "card"
+  },
+  {
+    "packaging_tags": "en:aluminium-cap",
+    "packaging_en": "aluminium-cap"
+  },
+  {
+    "packaging_tags": "en:box-plastic-bag",
+    "packaging_en": "box-plastic-bag"
+  },
+  {
+    "packaging_tags": "en:cardboard-box",
+    "packaging_en": "cardboard-box"
+  },
+  {
+    "packaging_tags": "en:unknown",
+    "packaging_en": "unknown"
+  },
+  {
+    "packaging_tags": "en:mixedplasticfilm-film",
+    "packaging_en": "mixedplasticfilm-film"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-tray",
+    "packaging_en": "mixed-plastic-tray"
+  },
+  {
+    "packaging_tags": "en:unknown-bag",
+    "packaging_en": "unknown-bag"
+  },
+  {
+    "packaging_tags": "en:lid",
+    "packaging_en": "lid"
+  },
+  {
+    "packaging_tags": "en:pp-film-bag",
+    "packaging_en": "pp-film-bag"
+  },
+  {
+    "packaging_tags": "en:ldpe-lid",
+    "packaging_en": "ldpe-lid"
+  },
+  {
+    "packaging_tags": "en:ldpe-unknown",
+    "packaging_en": "ldpe-unknown"
+  },
+  {
+    "packaging_tags": "tube",
+    "packaging_en": "tube"
+  },
+  {
+    "packaging_tags": "en:recycled-paper",
+    "packaging_en": "recycled paper"
+  },
+  {
+    "packaging_tags": "en:hdpe-film-sleeve",
+    "packaging_en": "hdpe-film-sleeve"
+  },
+  {
+    "packaging_tags": "fr:conserve-metalique",
+    "packaging_en": "fr:conserve-metalique"
+  },
+  {
+    "packaging_tags": "fr:plastique-jus-de-fruits-presses",
+    "packaging_en": "fr:plastique-jus-de-fruits-presses"
+  },
+  {
+    "packaging_tags": "en:paper-carton",
+    "packaging_en": "paper-carton"
+  },
+  {
+    "packaging_tags": "bg:пласмасова",
+    "packaging_en": "bg:пласмасова"
+  },
+  {
+    "packaging_tags": "es:bolsa-de-plastico",
+    "packaging_en": "es:bolsa-de-plastico"
+  },
+  {
+    "packaging_tags": "es:bolsa-polipropileno",
+    "packaging_en": "es:bolsa-polipropileno"
+  },
+  {
+    "packaging_tags": "fr:italie",
+    "packaging_en": "fr:italie"
+  },
+  {
+    "packaging_tags": "en:plastic-bottle",
+    "packaging_en": "plastic-bottle"
+  },
+  {
+    "packaging_tags": "en:card-carton",
+    "packaging_en": "card-carton"
+  },
+  {
+    "packaging_tags": "en:barre-au-chocolat",
+    "packaging_en": "barre-au-chocolat"
+  },
+  {
+    "packaging_tags": "en:ldpe-packet",
+    "packaging_en": "ldpe-packet"
+  },
+  {
+    "packaging_tags": "en:carton-box",
+    "packaging_en": "carton-box"
+  },
+  {
+    "packaging_tags": "en:plastic-pot",
+    "packaging_en": "plastic-pot"
+  },
+  {
+    "packaging_tags": "en:paper-box",
+    "packaging_en": "paper-box"
+  },
+  {
+    "packaging_tags": "fr:1",
+    "packaging_en": "fr:1"
+  },
+  {
+    "packaging_tags": "en:tub",
+    "packaging_en": "tub"
+  },
+  {
+    "packaging_tags": "en:kroger",
+    "packaging_en": "kroger"
+  },
+  {
+    "packaging_tags": "en:aluminum-can",
+    "packaging_en": "aluminum-can"
+  },
+  {
+    "packaging_tags": "fr:etuis-de-2-biscuits",
+    "packaging_en": "fr:etuis-de-2-biscuits"
+  },
+  {
+    "packaging_tags": "en:bottle-cap",
+    "packaging_en": "bottle cap"
+  },
+  {
+    "packaging_tags": "en:pp-tub",
+    "packaging_en": "pp-tub"
+  },
+  {
+    "packaging_tags": "en:pp-film-lid",
+    "packaging_en": "pp-film-lid"
+  },
+  {
+    "packaging_tags": "en:1-paper-box",
+    "packaging_en": "1-paper-box"
+  },
+  {
+    "packaging_tags": "en:12-wax-paper-pouch",
+    "packaging_en": "12-wax-paper-pouch"
+  },
+  {
+    "packaging_tags": "en:pet-unknown",
+    "packaging_en": "pet-unknown"
+  },
+  {
+    "packaging_tags": "en:wrapper",
+    "packaging_en": "wrapper"
+  },
+  {
+    "packaging_tags": "xx:cellophane",
+    "packaging_en": "cellophane"
+  },
+  {
+    "packaging_tags": "en:card-tube",
+    "packaging_en": "card-tube"
+  },
+  {
+    "packaging_tags": "en:1-plastic-bottle",
+    "packaging_en": "1-plastic-bottle"
+  },
+  {
+    "packaging_tags": "en:1-plastic-cap",
+    "packaging_en": "1-plastic-cap"
+  },
+  {
+    "packaging_tags": "en:1-clear-glass-jar-to-recycle",
+    "packaging_en": "1-clear-glass-jar-to-recycle"
+  },
+  {
+    "packaging_tags": "en:1-metal-lid-to-recycle",
+    "packaging_en": "1-metal-lid-to-recycle"
+  },
+  {
+    "packaging_tags": "en:1-polypropylene-insert-to-recycle",
+    "packaging_en": "1-polypropylene-insert-to-recycle"
+  },
+  {
+    "packaging_tags": "en:plastic-tray",
+    "packaging_en": "plastic-tray"
+  },
+  {
+    "packaging_tags": "fr:re-sealable",
+    "packaging_en": "fr:re-sealable"
+  },
+  {
+    "packaging_tags": "en:biodegradable-sleeve",
+    "packaging_en": "biodegradable-sleeve"
+  },
+  {
+    "packaging_tags": "en:pp-cap",
+    "packaging_en": "pp-cap"
+  },
+  {
+    "packaging_tags": "en:pet-lid",
+    "packaging_en": "pet-lid"
+  },
+  {
+    "packaging_tags": "en:foil-packet",
+    "packaging_en": "foil-packet"
+  },
+  {
+    "packaging_tags": "en:1-glass-jar-to-recycle",
+    "packaging_en": "1-glass-jar-to-recycle"
+  },
+  {
+    "packaging_tags": "en:1-metal-cap-to-recycle",
+    "packaging_en": "1-metal-cap-to-recycle"
+  },
+  {
+    "packaging_tags": "en:pp-unknown",
+    "packaging_en": "pp-unknown"
+  },
+  {
+    "packaging_tags": "en:carboard-carton",
+    "packaging_en": "carboard-carton"
+  },
+  {
+    "packaging_tags": "en:1-metal-can",
+    "packaging_en": "1-metal-can"
+  },
+  {
+    "packaging_tags": "en:1-cardboard-box-to-recycle",
+    "packaging_en": "1-cardboard-box-to-recycle"
+  },
+  {
+    "packaging_tags": "en:1-plastic-bag",
+    "packaging_en": "1-plastic-bag"
+  },
+  {
+    "packaging_tags": "en:metal-can",
+    "packaging_en": "metal-can"
+  },
+  {
+    "packaging_tags": "en:teabag-in-plastic-in-cardboard-box",
+    "packaging_en": "teabag-in-plastic-in-cardboard-box"
+  },
+  {
+    "packaging_tags": "en:wax-paper",
+    "packaging_en": "wax-paper"
+  },
+  {
+    "packaging_tags": "en:plastic-pouch",
+    "packaging_en": "plastic-pouch"
+  },
+  {
+    "packaging_tags": "en:ldpe-wrapper",
+    "packaging_en": "ldpe-wrapper"
+  },
+  {
+    "packaging_tags": "en:1-glass-bottle-to-recycle",
+    "packaging_en": "1-glass-bottle-to-recycle"
+  },
+  {
+    "packaging_tags": "en:1-plastic-cap-to-recycle",
+    "packaging_en": "1-plastic-cap-to-recycle"
+  },
+  {
+    "packaging_tags": "en:clamshell",
+    "packaging_en": "clamshell"
+  },
+  {
+    "packaging_tags": "en:1-glass-jar",
+    "packaging_en": "1-glass-jar"
+  },
+  {
+    "packaging_tags": "en:1-metal-lid",
+    "packaging_en": "1-metal-lid"
+  },
+  {
+    "packaging_tags": "en:1-plastic-netting",
+    "packaging_en": "1-plastic-netting"
+  },
+  {
+    "packaging_tags": "en:1-plastic-bag-to-recycle",
+    "packaging_en": "1-plastic-bag-to-recycle"
+  },
+  {
+    "packaging_tags": "en:1-plastic-clip-to-throw-away",
+    "packaging_en": "1-plastic-clip-to-throw-away"
+  },
+  {
+    "packaging_tags": "en:ps-tub",
+    "packaging_en": "ps-tub"
+  },
+  {
+    "packaging_tags": "en:sytrafoam",
+    "packaging_en": "sytrafoam"
+  },
+  {
+    "packaging_tags": "en:pp-bottle",
+    "packaging_en": "pp-bottle"
+  },
+  {
+    "packaging_tags": "en:steel-can",
+    "packaging_en": "steel-can"
+  },
+  {
+    "packaging_tags": "en:1-plastic-pouch-to-recycle",
+    "packaging_en": "1-plastic-pouch-to-recycle"
+  },
+  {
+    "packaging_tags": "en:ps-tray",
+    "packaging_en": "ps-tray"
+  },
+  {
+    "packaging_tags": "en:recyclable-bottle",
+    "packaging_en": "recyclable-bottle"
+  },
+  {
+    "packaging_tags": "en:stick",
+    "packaging_en": "stick"
+  },
+  {
+    "packaging_tags": "en:steel-tube",
+    "packaging_en": "steel-tube"
+  },
+  {
+    "packaging_tags": "en:1-glass-bottle",
+    "packaging_en": "1-glass-bottle"
+  },
+  {
+    "packaging_tags": "fr:bouteille-verre-de-251g",
+    "packaging_en": "fr:bouteille-verre-de-251g"
+  },
+  {
+    "packaging_tags": "es:plaza-vea",
+    "packaging_en": "es:plaza-vea"
+  },
+  {
+    "packaging_tags": "es:botella-de-vidrio",
+    "packaging_en": "es:botella-de-vidrio"
+  },
+  {
+    "packaging_tags": "en:clear-glass",
+    "packaging_en": "clear glass"
+  },
+  {
+    "packaging_tags": "es:caja-de-carton",
+    "packaging_en": "es:caja-de-carton"
+  },
+  {
+    "packaging_tags": "en:paperboard",
+    "packaging_en": "paperboard"
+  },
+  {
+    "packaging_tags": "fr:flacon-verre",
+    "packaging_en": "fr:flacon-verre"
+  },
+  {
+    "packaging_tags": "es:green-dot",
+    "packaging_en": "es:green-dot"
+  },
+  {
+    "packaging_tags": "es:empaque-de-plastico",
+    "packaging_en": "es:empaque-de-plastico"
+  },
+  {
+    "packaging_tags": "it:sacchetto-di-plastica",
+    "packaging_en": "it:sacchetto-di-plastica"
+  },
+  {
+    "packaging_tags": "en:flasque",
+    "packaging_en": "flasque"
+  },
+  {
+    "packaging_tags": "en:spice-container",
+    "packaging_en": "spice-container"
+  },
+  {
+    "packaging_tags": "en:can-metal",
+    "packaging_en": "can-metal"
+  },
+  {
+    "packaging_tags": "en:label-paper",
+    "packaging_en": "label-paper"
+  },
+  {
+    "packaging_tags": "en:resealable",
+    "packaging_en": "resealable"
+  },
+  {
+    "packaging_tags": "en:pet-wrapper",
+    "packaging_en": "pet-wrapper"
+  },
+  {
+    "packaging_tags": "es:envoltura-de-plastico",
+    "packaging_en": "es:envoltura-de-plastico"
+  },
+  {
+    "packaging_tags": "en:plastique",
+    "packaging_en": "plastique"
+  },
+  {
+    "packaging_tags": "en:عبوة-معدنية",
+    "packaging_en": "عبوة-معدنية"
+  },
+  {
+    "packaging_tags": "en:other-plastic-cap",
+    "packaging_en": "other-plastic-cap"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-unknown",
+    "packaging_en": "mixed-plastic-unknown"
+  },
+  {
+    "packaging_tags": "en:sealed-box",
+    "packaging_en": "sealed-box"
+  },
+  {
+    "packaging_tags": "en:ps-pot",
+    "packaging_en": "ps-pot"
+  },
+  {
+    "packaging_tags": "en:ps-film",
+    "packaging_en": "ps-film"
+  },
+  {
+    "packaging_tags": "en:3",
+    "packaging_en": "3"
+  },
+  {
+    "packaging_tags": "bg:made-with-100-recycled-paperboard-fait-de-carton-recyclé-à-100",
+    "packaging_en": "bg:made-with-100-recycled-paperboard-fait-de-carton-recyclé-à-100"
+  },
+  {
+    "packaging_tags": "fr:boite-en-verre",
+    "packaging_en": "fr:boite-en-verre"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-film-sleeve",
+    "packaging_en": "mixed-plastic-film-sleeve"
+  },
+  {
+    "packaging_tags": "fr:film-plastique",
+    "packaging_en": "fr:film-plastique"
+  },
+  {
+    "packaging_tags": "fr:alluminium",
+    "packaging_en": "fr:alluminium"
+  },
+  {
+    "packaging_tags": "ar:مصنوع",
+    "packaging_en": "ar:مصنوع"
+  },
+  {
+    "packaging_tags": "es:envase-plastico",
+    "packaging_en": "es:envase-plastico"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-box",
+    "packaging_en": "mixed-plastic-box"
+  },
+  {
+    "packaging_tags": "ar:2022",
+    "packaging_en": "ar:2022"
+  },
+  {
+    "packaging_tags": "en:plastic-wrap",
+    "packaging_en": "plastic-wrap"
+  },
+  {
+    "packaging_tags": "en:other-plastic-bottle",
+    "packaging_en": "other-plastic-bottle"
+  },
+  {
+    "packaging_tags": "en:coffee",
+    "packaging_en": "coffee"
+  },
+  {
+    "packaging_tags": "fr:emballage-papier",
+    "packaging_en": "fr:emballage-papier"
+  },
+  {
+    "packaging_tags": "fr:opercule-en-plastique",
+    "packaging_en": "fr:opercule-en-plastique"
+  },
+  {
+    "packaging_tags": "en:compostable-bag",
+    "packaging_en": "compostable-bag"
+  },
+  {
+    "packaging_tags": "en:other-plastic-tube",
+    "packaging_en": "other-plastic-tube"
+  },
+  {
+    "packaging_tags": "en:hdpe-unknown",
+    "packaging_en": "hdpe-unknown"
+  },
+  {
+    "packaging_tags": "en:plastic-stick",
+    "packaging_en": "plastic-stick"
+  },
+  {
+    "packaging_tags": "en:sleeve",
+    "packaging_en": "sleeve"
+  },
+  {
+    "packaging_tags": "en:wine-cork",
+    "packaging_en": "wine cork"
+  },
+  {
+    "packaging_tags": "en:aluminum",
+    "packaging_en": "aluminum"
+  },
+  {
+    "packaging_tags": "en:nampak",
+    "packaging_en": "nampak"
+  },
+  {
+    "packaging_tags": "en:pp-polypropylene",
+    "packaging_en": "pp - polypropylene"
+  },
+  {
+    "packaging_tags": "en:goblet",
+    "packaging_en": "goblet"
+  },
+  {
+    "packaging_tags": "es:empaque-resellable",
+    "packaging_en": "es:empaque-resellable"
+  },
+  {
+    "packaging_tags": "en:hdpe-tray",
+    "packaging_en": "hdpe-tray"
+  },
+  {
+    "packaging_tags": "fr:craft",
+    "packaging_en": "fr:craft"
+  },
+  {
+    "packaging_tags": "fr:stylo",
+    "packaging_en": "fr:stylo"
+  },
+  {
+    "packaging_tags": "en:foil-unknown",
+    "packaging_en": "foil-unknown"
+  },
+  {
+    "packaging_tags": "en:hdpe-film-packet",
+    "packaging_en": "hdpe-film-packet"
+  },
+  {
+    "packaging_tags": "en:multi-layer-wrapping",
+    "packaging_en": "multi-layer-wrapping"
+  },
+  {
+    "packaging_tags": "en:bag-plastic",
+    "packaging_en": "bag-plastic"
+  },
+  {
+    "packaging_tags": "en:foil-tray",
+    "packaging_en": "foil-tray"
+  },
+  {
+    "packaging_tags": "fr:papiet",
+    "packaging_en": "fr:papiet"
+  },
+  {
+    "packaging_tags": "en:aluminium-unknown",
+    "packaging_en": "aluminium-unknown"
+  },
+  {
+    "packaging_tags": "en:unknown-unknown",
+    "packaging_en": "unknown-unknown"
+  },
+  {
+    "packaging_tags": "en:bottle-glass",
+    "packaging_en": "bottle-glass"
+  },
+  {
+    "packaging_tags": "en:jar-glass",
+    "packaging_en": "jar-glass"
+  },
+  {
+    "packaging_tags": "en:lid-metal",
+    "packaging_en": "lid-metal"
+  },
+  {
+    "packaging_tags": "en:sueezer",
+    "packaging_en": "sueezer"
+  },
+  {
+    "packaging_tags": "en:individual-bag",
+    "packaging_en": "individual bag"
+  },
+  {
+    "packaging_tags": "en:annie-s",
+    "packaging_en": "annie-s"
+  },
+  {
+    "packaging_tags": "en:backing",
+    "packaging_en": "backing"
+  },
+  {
+    "packaging_tags": "es:sobre-plastico",
+    "packaging_en": "es:sobre-plastico"
+  },
+  {
+    "packaging_tags": "fr:sachet-papier",
+    "packaging_en": "fr:sachet-papier"
+  },
+  {
+    "packaging_tags": "en:resealable-packet",
+    "packaging_en": "resealable-packet"
+  },
+  {
+    "packaging_tags": "en:recycling-4",
+    "packaging_en": "recycling-4"
+  },
+  {
+    "packaging_tags": "fr:sachet-individuel-en-sachet",
+    "packaging_en": "fr:sachet-individuel-en-sachet"
+  },
+  {
+    "packaging_tags": "fr:papier-d-emballage",
+    "packaging_en": "fr:papier-d-emballage"
+  },
+  {
+    "packaging_tags": "fr:plastique-termomoule",
+    "packaging_en": "fr:plastique-termomoule"
+  },
+  {
+    "packaging_tags": "en:paper-packet",
+    "packaging_en": "paper-packet"
+  },
+  {
+    "packaging_tags": "en:foil-bag",
+    "packaging_en": "foil-bag"
+  },
+  {
+    "packaging_tags": "es:bolsa-de-plastisco",
+    "packaging_en": "es:bolsa-de-plastisco"
+  },
+  {
+    "packaging_tags": "fr:green-dot",
+    "packaging_en": "fr:green-dot"
+  },
+  {
+    "packaging_tags": "fr:glassflasche",
+    "packaging_en": "fr:glassflasche"
+  },
+  {
+    "packaging_tags": "en:multilayer-composite",
+    "packaging_en": "multilayer composite"
+  },
+  {
+    "packaging_tags": "en:1-plastic-film-don-t-recycle",
+    "packaging_en": "1-plastic-film-don-t-recycle"
+  },
+  {
+    "packaging_tags": "en:1-plastic-pot-rinse-to-recycle",
+    "packaging_en": "1-plastic-pot-rinse-to-recycle"
+  },
+  {
+    "packaging_tags": "es:plastico-y-papel",
+    "packaging_en": "es:plastico-y-papel"
+  },
+  {
+    "packaging_tags": "en:portion",
+    "packaging_en": "portion"
+  },
+  {
+    "packaging_tags": "en:aluminium-lid",
+    "packaging_en": "aluminium-lid"
+  },
+  {
+    "packaging_tags": "ar:deutschland-sĺemagne",
+    "packaging_en": "ar:deutschland-sĺemagne"
+  },
+  {
+    "packaging_tags": "fr:sacs-plastique",
+    "packaging_en": "fr:sacs-plastique"
+  },
+  {
+    "packaging_tags": "en:cardboard-bix",
+    "packaging_en": "cardboard-bix"
+  },
+  {
+    "packaging_tags": "en:steel",
+    "packaging_en": "steel"
+  },
+  {
+    "packaging_tags": "de:stoffsäckchen",
+    "packaging_en": "de:stoffsäckchen"
+  },
+  {
+    "packaging_tags": "fr:sachet-carton",
+    "packaging_en": "fr:sachet-carton"
+  },
+  {
+    "packaging_tags": "en:pouches",
+    "packaging_en": "pouches"
+  },
+  {
+    "packaging_tags": "en:plastic-containers",
+    "packaging_en": "plastic-containers"
+  },
+  {
+    "packaging_tags": "es:botella-de-plastico",
+    "packaging_en": "es:botella-de-plastico"
+  },
+  {
+    "packaging_tags": "en:glass-bottle-with-metal-lid",
+    "packaging_en": "glass-bottle-with-metal-lid"
+  },
+  {
+    "packaging_tags": "en:battle",
+    "packaging_en": "battle"
+  },
+  {
+    "packaging_tags": "es:produkt",
+    "packaging_en": "es:produkt"
+  },
+  {
+    "packaging_tags": "de:plastikbeutel",
+    "packaging_en": "de:plastikbeutel"
+  },
+  {
+    "packaging_tags": "de:polyethylenfolie",
+    "packaging_en": "de:polyethylenfolie"
+  },
+  {
+    "packaging_tags": "fr:barquette-et-film-plastique-a-jeter",
+    "packaging_en": "fr:barquette-et-film-plastique-a-jeter"
+  },
+  {
+    "packaging_tags": "en:plastico",
+    "packaging_en": "plastico"
+  },
+  {
+    "packaging_tags": "en:cardbox",
+    "packaging_en": "cardbox"
+  },
+  {
+    "packaging_tags": "en:tumbler",
+    "packaging_en": "tumbler"
+  },
+  {
+    "packaging_tags": "en:plastic-cup-with-foil-lid",
+    "packaging_en": "plastic-cup-with-foil-lid"
+  },
+  {
+    "packaging_tags": "en:recycled-material",
+    "packaging_en": "recycled material"
+  },
+  {
+    "packaging_tags": "en:recyclable-material",
+    "packaging_en": "recyclable material"
+  },
+  {
+    "packaging_tags": "en:recyclable-plastic",
+    "packaging_en": "recyclable plastic"
+  },
+  {
+    "packaging_tags": "en:recycled-cardboard",
+    "packaging_en": "recycled cardboard"
+  },
+  {
+    "packaging_tags": "en:این-حلال-است",
+    "packaging_en": "این-حلال-است"
+  },
+  {
+    "packaging_tags": "en:carboard-box",
+    "packaging_en": "carboard-box"
+  },
+  {
+    "packaging_tags": "el:6x42gr",
+    "packaging_en": "el:6x42gr"
+  },
+  {
+    "packaging_tags": "es:caja-plastico",
+    "packaging_en": "es:caja-plastico"
+  },
+  {
+    "packaging_tags": "en:card-board",
+    "packaging_en": "card-board"
+  },
+  {
+    "packaging_tags": "en:foil-wrapper",
+    "packaging_en": "foil-wrapper"
+  },
+  {
+    "packaging_tags": "en:carton-card",
+    "packaging_en": "carton-card"
+  },
+  {
+    "packaging_tags": "en:wrap-plastic",
+    "packaging_en": "wrap-plastic"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-tube",
+    "packaging_en": "mixed-plastic-tube"
+  },
+  {
+    "packaging_tags": "en:tube",
+    "packaging_en": "tube"
+  },
+  {
+    "packaging_tags": "fr:card-carton",
+    "packaging_en": "fr:card-carton"
+  },
+  {
+    "packaging_tags": "en:green-and-blue",
+    "packaging_en": "green-and-blue"
+  },
+  {
+    "packaging_tags": "en:boxed",
+    "packaging_en": "boxed"
+  },
+  {
+    "packaging_tags": "es:caja-carton",
+    "packaging_en": "es:caja-carton"
+  },
+  {
+    "packaging_tags": "en:caja-de-carton",
+    "packaging_en": "caja-de-carton"
+  },
+  {
+    "packaging_tags": "es:cartom",
+    "packaging_en": "es:cartom"
+  },
+  {
+    "packaging_tags": "en:caja",
+    "packaging_en": "caja"
+  },
+  {
+    "packaging_tags": "en:recipiente",
+    "packaging_en": "recipiente"
+  },
+  {
+    "packaging_tags": "en:barre",
+    "packaging_en": "barre"
+  },
+  {
+    "packaging_tags": "en:otherplastic-film",
+    "packaging_en": "otherplastic-film"
+  },
+  {
+    "packaging_tags": "en:hdpe-tub",
+    "packaging_en": "hdpe-tub"
+  },
+  {
+    "packaging_tags": "en:green-box",
+    "packaging_en": "green-box"
+  },
+  {
+    "packaging_tags": "en:6",
+    "packaging_en": "6"
+  },
+  {
+    "packaging_tags": "en:hdpe-pot",
+    "packaging_en": "hdpe-pot"
+  },
+  {
+    "packaging_tags": "en:cereal-box",
+    "packaging_en": "cereal-box"
+  },
+  {
+    "packaging_tags": "en:lid-plastic",
+    "packaging_en": "lid-plastic"
+  },
+  {
+    "packaging_tags": "fr:conserve-acier",
+    "packaging_en": "fr:conserve-acier"
+  },
+  {
+    "packaging_tags": "en:1-aluminium-can-to-recycle",
+    "packaging_en": "1-aluminium-can-to-recycle"
+  },
+  {
+    "packaging_tags": "fr:boite-alu",
+    "packaging_en": "fr:boite-alu"
+  },
+  {
+    "packaging_tags": "en:tidyman-wastebasket",
+    "packaging_en": "tidyman-wastebasket"
+  },
+  {
+    "packaging_tags": "fr:point-vert",
+    "packaging_en": "fr:point-vert"
+  },
+  {
+    "packaging_tags": "fr:triman",
+    "packaging_en": "fr:triman"
+  },
+  {
+    "packaging_tags": "fr:canette-de-53g",
+    "packaging_en": "fr:canette-de-53g"
+  },
+  {
+    "packaging_tags": "fr:brique-tetra-pak",
+    "packaging_en": "fr:brique-tetra-pak"
+  },
+  {
+    "packaging_tags": "en:composite-box",
+    "packaging_en": "composite-box"
+  },
+  {
+    "packaging_tags": "en:other-plastic-tray",
+    "packaging_en": "other-plastic-tray"
+  },
+  {
+    "packaging_tags": "fr:24-portions-de-17-4g",
+    "packaging_en": "fr:24-portions-de-17-4g"
+  },
+  {
+    "packaging_tags": "en:bayer",
+    "packaging_en": "bayer"
+  },
+  {
+    "packaging_tags": "en:1-plastic-bottle-to-recycle",
+    "packaging_en": "1-plastic-bottle-to-recycle"
+  },
+  {
+    "packaging_tags": "en:eggbox",
+    "packaging_en": "eggbox"
+  },
+  {
+    "packaging_tags": "fr:sachet-individuel-en-plastique",
+    "packaging_en": "fr:sachet-individuel-en-plastique"
+  },
+  {
+    "packaging_tags": "xx:elo-pak",
+    "packaging_en": "elopak"
+  },
+  {
+    "packaging_tags": "en:pet-packet",
+    "packaging_en": "pet-packet"
+  },
+  {
+    "packaging_tags": "en:300",
+    "packaging_en": "300"
+  },
+  {
+    "packaging_tags": "fr:ballotin",
+    "packaging_en": "fr:ballotin"
+  },
+  {
+    "packaging_tags": "es:contains-milk-2021-lifeway-foods",
+    "packaging_en": "es:contains-milk-2021-lifeway-foods"
+  },
+  {
+    "packaging_tags": "es:illinois-60053-lifewayfoods-com-bary-grade-a-keep-refrigerated",
+    "packaging_en": "es:illinois-60053-lifewayfoods-com-bary-grade-a-keep-refrigerated"
+  },
+  {
+    "packaging_tags": "es:inc-morton-grove",
+    "packaging_en": "es:inc-morton-grove"
+  },
+  {
+    "packaging_tags": "en:bottle-plstic",
+    "packaging_en": "bottle-plstic"
+  },
+  {
+    "packaging_tags": "en:cap-plastic",
+    "packaging_en": "cap-plastic"
+  },
+  {
+    "packaging_tags": "en:mixed-plastic-cap",
+    "packaging_en": "mixed-plastic-cap"
+  },
+  {
+    "packaging_tags": "en:fresh-lock",
+    "packaging_en": "fresh-lock"
+  },
+  {
+    "packaging_tags": "en:egg-box",
+    "packaging_en": "egg-box"
+  },
+  {
+    "packaging_tags": "es:producto",
+    "packaging_en": "es:producto"
+  },
+  {
+    "packaging_tags": "en:hdpe-tube",
+    "packaging_en": "hdpe-tube"
+  },
+  {
+    "packaging_tags": "en:cardboard-tub",
+    "packaging_en": "cardboard-tub"
+  },
+  {
+    "packaging_tags": "en:plastic-lid",
+    "packaging_en": "plastic-lid"
+  },
+  {
+    "packaging_tags": "en:metal-lid",
+    "packaging_en": "metal-lid"
+  },
+  {
+    "packaging_tags": "en:pot-plastic",
+    "packaging_en": "pot-plastic"
+  },
+  {
+    "packaging_tags": "fr:6-pains",
+    "packaging_en": "fr:6-pains"
+  },
+  {
+    "packaging_tags": "en:paper-tray",
+    "packaging_en": "paper-tray"
+  },
+  {
+    "packaging_tags": "en:bag-mixed-material",
+    "packaging_en": "bag-mixed-material"
+  },
+  {
+    "packaging_tags": "en:card-bag",
+    "packaging_en": "card-bag"
+  },
+  {
+    "packaging_tags": "en:cardboad",
+    "packaging_en": "cardboad"
+  },
+  {
+    "packaging_tags": "en:2-barres-par-sachet",
+    "packaging_en": "2-barres-par-sachet"
+  },
+  {
+    "packaging_tags": "en:1-100-recycled-paperboard-box-to-recycle",
+    "packaging_en": "1-100-recycled-paperboard-box-to-recycle"
+  },
+  {
+    "packaging_tags": "en:otherplastic-packet",
+    "packaging_en": "otherplastic-packet"
+  },
+  {
+    "packaging_tags": "en:tetric-box",
+    "packaging_en": "tetric-box"
+  },
+  {
+    "packaging_tags": "fr:canette-en-metal",
+    "packaging_en": "fr:canette-en-metal"
+  },
+  {
+    "packaging_tags": "en:composite-film",
+    "packaging_en": "composite-film"
+  },
+  {
+    "packaging_tags": "es:botella-vidrio",
+    "packaging_en": "es:botella-vidrio"
+  },
+  {
+    "packaging_tags": "en:paper-wrap",
+    "packaging_en": "paper-wrap"
+  },
+  {
+    "packaging_tags": "fr:sachet-a-fond-plat-sous-vide",
+    "packaging_en": "fr:sachet-a-fond-plat-sous-vide"
+  },
+  {
+    "packaging_tags": "en:pvc-packet",
+    "packaging_en": "pvc-packet"
+  },
+  {
+    "packaging_tags": "es:platico-y-encerado",
+    "packaging_en": "es:platico-y-encerado"
+  },
+  {
+    "packaging_tags": "en:other-plastic-bag",
+    "packaging_en": "other-plastic-bag"
+  },
+  {
+    "packaging_tags": "en:4-sachets-de-50-capsules",
+    "packaging_en": "4-sachets-de-50-capsules"
+  }
+]

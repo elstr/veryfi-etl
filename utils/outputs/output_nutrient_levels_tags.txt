@@ -1,0 +1,38 @@
+[
+  {
+    "nutrient_levels_tags": "en:fat-in-low-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:saturated-fat-in-low-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:sugars-in-low-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:salt-in-low-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:fat-in-moderate-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:saturated-fat-in-moderate-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:sugars-in-high-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:salt-in-high-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:salt-in-moderate-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:fat-in-high-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:saturated-fat-in-high-quantity"
+  },
+  {
+    "nutrient_levels_tags": "en:sugars-in-moderate-quantity"
+  }
+]

@@ -1,0 +1,719 @@
+[
+  {
+    "stores": "courte paille"
+  },
+  {
+    "stores": "marks & spencer"
+  },
+  {
+    "stores": "sainsbury's"
+  },
+  {
+    "stores": "comme j'aime"
+  },
+  {
+    "stores": "costco"
+  },
+  {
+    "stores": "waitrose"
+  },
+  {
+    "stores": "kazidomi"
+  },
+  {
+    "stores": "alice délice"
+  },
+  {
+    "stores": "lidl"
+  },
+  {
+    "stores": "asda"
+  },
+  {
+    "stores": "carrefour  (city)"
+  },
+  {
+    "stores": "opencor"
+  },
+  {
+    "stores": "cora cafétéria"
+  },
+  {
+    "stores": "m2i"
+  },
+  {
+    "stores": "bijou"
+  },
+  {
+    "stores": "allfitnessfactory.de"
+  },
+  {
+    "stores": "correspondance"
+  },
+  {
+    "stores": "mercadona"
+  },
+  {
+    "stores": "trader joe's"
+  },
+  {
+    "stores": "catalogue bijou"
+  },
+  {
+    "stores": "amazon"
+  },
+  {
+    "stores": "esselunga"
+  },
+  {
+    "stores": "bordeaux"
+  },
+  {
+    "stores": "brive"
+  },
+  {
+    "stores": "limoges"
+  },
+  {
+    "stores": "saint-yrieix"
+  },
+  {
+    "stores": "bulkpowders.com"
+  },
+  {
+    "stores": "b"
+  },
+  {
+    "stores": "intermarché"
+  },
+  {
+    "stores": "trader joe’s"
+  },
+  {
+    "stores": "tesco"
+  },
+  {
+    "stores": "all super market and pharmacies"
+  },
+  {
+    "stores": "crous languedoc roussillon"
+  },
+  {
+    "stores": "herbolario"
+  },
+  {
+    "stores": "traditions prestige"
+  },
+  {
+    "stores": "test"
+  },
+  {
+    "stores": "kroger"
+  },
+  {
+    "stores": "mcdonald's"
+  },
+  {
+    "stores": "monoprix"
+  },
+  {
+    "stores": "naturalia"
+  },
+  {
+    "stores": "bonàrea"
+  },
+  {
+    "stores": "carrefour"
+  },
+  {
+    "stores": "k market"
+  },
+  {
+    "stores": "migros"
+  },
+  {
+    "stores": "walmart"
+  },
+  {
+    "stores": "yasmin store"
+  },
+  {
+    "stores": "coop"
+  },
+  {
+    "stores": "comme à la ferme"
+  },
+  {
+    "stores": "marks and spencer"
+  },
+  {
+    "stores": "marks and spencer food"
+  },
+  {
+    "stores": " marks & spencer"
+  },
+  {
+    "stores": " rewe"
+  },
+  {
+    "stores": "ebay"
+  },
+  {
+    "stores": "sainsburys"
+  },
+  {
+    "stores": "internet"
+  },
+  {
+    "stores": "carrefour market plouagat"
+  },
+  {
+    "stores": "7eleven"
+  },
+  {
+    "stores": "u"
+  },
+  {
+    "stores": "brin d'herbe"
+  },
+  {
+    "stores": "kifli"
+  },
+  {
+    "stores": "soriana"
+  },
+  {
+    "stores": "crous resto'"
+  },
+  {
+    "stores": "crous"
+  },
+  {
+    "stores": "languedoc roussillon"
+  },
+  {
+    "stores": "trader's joe"
+  },
+  {
+    "stores": "loblaws"
+  },
+  {
+    "stores": "ocado"
+  },
+  {
+    "stores": "m&s"
+  },
+  {
+    "stores": "casino"
+  },
+  {
+    "stores": "u express"
+  },
+  {
+    "stores": "crous languedoc-roussillon"
+  },
+  {
+    "stores": "whole foods"
+  },
+  {
+    "stores": "leader price"
+  },
+  {
+    "stores": "meijer"
+  },
+  {
+    "stores": "noz"
+  },
+  {
+    "stores": "пригородный жд вокзал"
+  },
+  {
+    "stores": "inter marché"
+  },
+  {
+    "stores": " sainsbury's"
+  },
+  {
+    "stores": ""
+  },
+  {
+    "stores": "sams club"
+  },
+  {
+    "stores": "safeway"
+  },
+  {
+    "stores": "coles"
+  },
+  {
+    "stores": "woolworths"
+  },
+  {
+    "stores": "bilo"
+  },
+  {
+    "stores": "iga"
+  },
+  {
+    "stores": "ekom"
+  },
+  {
+    "stores": "dollar general"
+  },
+  {
+    "stores": "franprix"
+  },
+  {
+    "stores": "ctown supermarkets"
+  },
+  {
+    "stores": "e.leclerc"
+  },
+  {
+    "stores": "grande distribution"
+  },
+  {
+    "stores": "stand up"
+  },
+  {
+    "stores": "rewe"
+  },
+  {
+    "stores": "leclerc"
+  },
+  {
+    "stores": "bodega aurrera"
+  },
+  {
+    "stores": "wah seng"
+  },
+  {
+    "stores": "one the run"
+  },
+  {
+    "stores": "hyper u aldi netto intermarché"
+  },
+  {
+    "stores": "smith's"
+  },
+  {
+    "stores": " kroger"
+  },
+  {
+    "stores": "king sooper"
+  },
+  {
+    "stores": "kroget"
+  },
+  {
+    "stores": "qfc"
+  },
+  {
+    "stores": "cut market"
+  },
+  {
+    "stores": "saint-yreix"
+  },
+  {
+    "stores": "ralph's"
+  },
+  {
+    "stores": "fred meyer"
+  },
+  {
+    "stores": "kroger co."
+  },
+  {
+    "stores": "smith’s"
+  },
+  {
+    "stores": "baker's"
+  },
+  {
+    "stores": "ace"
+  },
+  {
+    "stores": "china market"
+  },
+  {
+    "stores": "hmart"
+  },
+  {
+    "stores": "giant"
+  },
+  {
+    "stores": "plaza vea totus"
+  },
+  {
+    "stores": " bodega aurrera"
+  },
+  {
+    "stores": " soriana"
+  },
+  {
+    "stores": " la comer"
+  },
+  {
+    "stores": "oxxo"
+  },
+  {
+    "stores": "dia"
+  },
+  {
+    "stores": "delhaize"
+  },
+  {
+    "stores": "auchan"
+  },
+  {
+    "stores": " delhaize"
+  },
+  {
+    "stores": "kaufhof"
+  },
+  {
+    "stores": "sam's club"
+  },
+  {
+    "stores": " mercado soriana"
+  },
+  {
+    "stores": "hit"
+  },
+  {
+    "stores": "cub foods"
+  },
+  {
+    "stores": "albertsons"
+  },
+  {
+    "stores": "vending machine"
+  },
+  {
+    "stores": "nijiya market"
+  },
+  {
+    "stores": "meijers"
+  },
+  {
+    "stores": "vons"
+  },
+  {
+    "stores": "maxi"
+  },
+  {
+    "stores": "asian market"
+  },
+  {
+    "stores": "bio linea"
+  },
+  {
+    "stores": "starbucks"
+  },
+  {
+    "stores": "funso"
+  },
+  {
+    "stores": "mirinda"
+  },
+  {
+    "stores": "super 99"
+  },
+  {
+    "stores": "target"
+  },
+  {
+    "stores": " big lots"
+  },
+  {
+    "stores": "a&w"
+  },
+  {
+    "stores": "walgreens"
+  },
+  {
+    "stores": "foodlion"
+  },
+  {
+    "stores": "jewel osco"
+  },
+  {
+    "stores": "chester lane market"
+  },
+  {
+    "stores": "little general store"
+  },
+  {
+    "stores": "supermercado cañaveral"
+  },
+  {
+    "stores": "venganstore"
+  },
+  {
+    "stores": " waitrose"
+  },
+  {
+    "stores": "diverse"
+  },
+  {
+    "stores": "hyper u"
+  },
+  {
+    "stores": "ica"
+  },
+  {
+    "stores": "wal-mart"
+  },
+  {
+    "stores": " walmart"
+  },
+  {
+    "stores": "ikea"
+  },
+  {
+    "stores": "city market"
+  },
+  {
+    "stores": "disco"
+  },
+  {
+    "stores": "cencosud"
+  },
+  {
+    "stores": "kroge"
+  },
+  {
+    "stores": "aldi"
+  },
+  {
+    "stores": "us food stores"
+  },
+  {
+    "stores": "loblaw"
+  },
+  {
+    "stores": "natural grocers"
+  },
+  {
+    "stores": "whole food"
+  },
+  {
+    "stores": "hannaford"
+  },
+  {
+    "stores": "target.com"
+  },
+  {
+    "stores": "herbolario santa ana"
+  },
+  {
+    "stores": "hopstore"
+  },
+  {
+    "stores": "city club"
+  },
+  {
+    "stores": "botiga claudia arenys de mar"
+  },
+  {
+    "stores": "cora"
+  },
+  {
+    "stores": "fresh direct"
+  },
+  {
+    "stores": "comité d'entreprise"
+  },
+  {
+    "stores": "wal-mart méxico"
+  },
+  {
+    "stores": "walmart metro"
+  },
+  {
+    "stores": " carrefour.fr"
+  },
+  {
+    "stores": "carrefour.fr"
+  },
+  {
+    "stores": "karstadt"
+  },
+  {
+    "stores": "redmart"
+  },
+  {
+    "stores": "cosmo shop"
+  },
+  {
+    "stores": "grocery stores"
+  },
+  {
+    "stores": "stop & shop"
+  },
+  {
+    "stores": "súper akí"
+  },
+  {
+    "stores": "massy stores"
+  },
+  {
+    "stores": "shoprite"
+  },
+  {
+    "stores": "mercado soriana"
+  },
+  {
+    "stores": "supermercado los amigos"
+  },
+  {
+    "stores": "bofrost lieferservice"
+  },
+  {
+    "stores": "sainsbury"
+  },
+  {
+    "stores": "star market"
+  },
+  {
+    "stores": "lucky"
+  },
+  {
+    "stores": "harps"
+  },
+  {
+    "stores": "samsclub"
+  },
+  {
+    "stores": "supermercado"
+  },
+  {
+    "stores": "rainbow foods"
+  },
+  {
+    "stores": "wegmans"
+  },
+  {
+    "stores": "myamericanmarket"
+  },
+  {
+    "stores": "uswayoflife"
+  },
+  {
+    "stores": "smiths"
+  },
+  {
+    "stores": "publix"
+  },
+  {
+    "stores": "easy market"
+  },
+  {
+    "stores": "big lot"
+  },
+  {
+    "stores": "grocery"
+  },
+  {
+    "stores": "food lion"
+  },
+  {
+    "stores": "netto"
+  },
+  {
+    "stores": "tang fréres"
+  },
+  {
+    "stores": "kim phat"
+  },
+  {
+    "stores": "pacific ocean market"
+  },
+  {
+    "stores": "пятёрочка"
+  },
+  {
+    "stores": "supermarché asie"
+  },
+  {
+    "stores": "tang frères"
+  },
+  {
+    "stores": "supermarché asiatique"
+  },
+  {
+    "stores": "tamda"
+  },
+  {
+    "stores": "sandwich 17"
+  },
+  {
+    "stores": "tain kim heng"
+  },
+  {
+    "stores": "supermarché asiatique indépendant"
+  },
+  {
+    "stores": "carré asiatique"
+  },
+  {
+    "stores": "asian supermarkets"
+  },
+  {
+    "stores": "les halles du japon"
+  },
+  {
+    "stores": "bonarea"
+  },
+  {
+    "stores": "circle k"
+  },
+  {
+    "stores": "shopper's drug mart"
+  },
+  {
+    "stores": "real canadian superstore"
+  },
+  {
+    "stores": "dollarama"
+  },
+  {
+    "stores": "online"
+  },
+  {
+    "stores": "fresh market"
+  },
+  {
+    "stores": "mercadolibre"
+  },
+  {
+    "stores": "bim"
+  },
+  {
+    "stores": "sainsbury;s"
+  },
+  {
+    "stores": "par correspondance"
+  },
+  {
+    "stores": "pioneer"
+  },
+  {
+    "stores": "stater bros."
+  },
+  {
+    "stores": "healthy life"
+  },
+  {
+    "stores": "big y"
+  },
+  {
+    "stores": " tang frères"
+  },
+  {
+    "stores": "la comer"
+  },
+  {
+    "stores": "mister-fit.de"
+  }
+]

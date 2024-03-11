@@ -1,0 +1,606 @@
+[
+  {
+    "traces_tags": "en:eggs",
+    "traces_en": "eggs"
+  },
+  {
+    "traces_tags": "en:milk",
+    "traces_en": "milk"
+  },
+  {
+    "traces_tags": "en:gluten",
+    "traces_en": "gluten"
+  },
+  {
+    "traces_tags": "en:nuts",
+    "traces_en": "nuts"
+  },
+  {
+    "traces_tags": "en:sesame-seeds",
+    "traces_en": "sesame seeds"
+  },
+  {
+    "traces_tags": "en:soybeans",
+    "traces_en": "soybeans"
+  },
+  {
+    "traces_tags": "en:oatmeal",
+    "traces_en": "oatmeal"
+  },
+  {
+    "traces_tags": "fr:contient-oeuf-lait-anchois-soya-ble-seigle-orge-moutarde-peut-contenir-autres-poissons-mollusoues-crustaces-noix-variees-sesame",
+    "traces_en": "fr:contient-oeuf-lait-anchois-soya-ble-seigle-orge-moutarde-peut-contenir-autres-poissons-mollusoues-crustaces-noix-variees-sesame"
+  },
+  {
+    "traces_tags": "en:sulphur-dioxide-and-sulphites",
+    "traces_en": "sulphur dioxide and sulphites"
+  },
+  {
+    "traces_tags": "fr:peut-contenir-noix-varies-soya-lait-oeuf-sesame",
+    "traces_en": "fr:peut-contenir-noix-varies-soya-lait-oeuf-sesame"
+  },
+  {
+    "traces_tags": "en:celery",
+    "traces_en": "celery"
+  },
+  {
+    "traces_tags": "en:crustaceans",
+    "traces_en": "crustaceans"
+  },
+  {
+    "traces_tags": "en:fish",
+    "traces_en": "fish"
+  },
+  {
+    "traces_tags": "en:mustard",
+    "traces_en": "mustard"
+  },
+  {
+    "traces_tags": "fr:contient-oeufs-lait-ble-sulfites",
+    "traces_en": "fr:contient-oeufs-lait-ble-sulfites"
+  },
+  {
+    "traces_tags": "de:alkohol",
+    "traces_en": "de:alkohol"
+  },
+  {
+    "traces_tags": "fr:chocolat",
+    "traces_en": "fr:chocolat"
+  },
+  {
+    "traces_tags": "en:molluscs",
+    "traces_en": "molluscs"
+  },
+  {
+    "traces_tags": "en:peanuts",
+    "traces_en": "peanuts"
+  },
+  {
+    "traces_tags": "en:yeast",
+    "traces_en": "yeast"
+  },
+  {
+    "traces_tags": "es:secos",
+    "traces_en": "es:secos"
+  },
+  {
+    "traces_tags": "en:none",
+    "traces_en": "none"
+  },
+  {
+    "traces_tags": "en:lupin",
+    "traces_en": "lupin"
+  },
+  {
+    "traces_tags": "ca:crustacis",
+    "traces_en": "ca:crustacis"
+  },
+  {
+    "traces_tags": "ca:moluscs",
+    "traces_en": "ca:moluscs"
+  },
+  {
+    "traces_tags": "en:milk-derivatives",
+    "traces_en": "milk-derivatives"
+  },
+  {
+    "traces_tags": "en:en-puo-contenere-latte",
+    "traces_en": "en-puo-contenere-latte"
+  },
+  {
+    "traces_tags": "en:shellfish",
+    "traces_en": "shellfish"
+  },
+  {
+    "traces_tags": "fr:fragment-of-fruit-stone",
+    "traces_en": "fr:fragment-of-fruit-stone"
+  },
+  {
+    "traces_tags": "en:corn",
+    "traces_en": "corn"
+  },
+  {
+    "traces_tags": "en:nuts-peanut",
+    "traces_en": "nuts-peanut"
+  },
+  {
+    "traces_tags": "fr:oeuf-lactiques",
+    "traces_en": "fr:oeuf-lactiques"
+  },
+  {
+    "traces_tags": "en:traces-eventuelles-d-oeufs",
+    "traces_en": "traces-eventuelles-d-oeufs"
+  },
+  {
+    "traces_tags": "fr:cow-s-milk",
+    "traces_en": "fr:cow-s-milk"
+  },
+  {
+    "traces_tags": "fr:os",
+    "traces_en": "fr:os"
+  },
+  {
+    "traces_tags": "fr:noyaux-de-fruits",
+    "traces_en": "fr:noyaux-de-fruits"
+  },
+  {
+    "traces_tags": "de:kann-spuren-von-nüssen-und-anderen-allergenen-enthalten",
+    "traces_en": "de:kann-spuren-von-nüssen-und-anderen-allergenen-enthalten"
+  },
+  {
+    "traces_tags": "en:seafood",
+    "traces_en": "seafood"
+  },
+  {
+    "traces_tags": "ru:произведено-в-новочеркасске",
+    "traces_en": "ru:произведено-в-новочеркасске"
+  },
+  {
+    "traces_tags": "en:tree-nuts-hazelnuts",
+    "traces_en": "tree-nuts-hazelnuts"
+  },
+  {
+    "traces_tags": "en:en-milk-en-nuts",
+    "traces_en": "en-milk-en-nuts"
+  },
+  {
+    "traces_tags": "en:contains-milk",
+    "traces_en": "contains-milk"
+  },
+  {
+    "traces_tags": "en:gluten-free",
+    "traces_en": "gluten-free"
+  },
+  {
+    "traces_tags": "fr:contains-milk",
+    "traces_en": "fr:contains-milk"
+  },
+  {
+    "traces_tags": "en:coconut",
+    "traces_en": "coconut"
+  },
+  {
+    "traces_tags": "en:filberts",
+    "traces_en": "filberts"
+  },
+  {
+    "traces_tags": "en:cottonseed-and-or-rapeseed",
+    "traces_en": "cottonseed-and-or-rapeseed"
+  },
+  {
+    "traces_tags": "en:hydrogenated",
+    "traces_en": "hydrogenated"
+  },
+  {
+    "traces_tags": "en:selected-roasted-peanuts",
+    "traces_en": "selected-roasted-peanuts"
+  },
+  {
+    "traces_tags": "en:sugar",
+    "traces_en": "sugar"
+  },
+  {
+    "traces_tags": "es:maiz",
+    "traces_en": "es:maiz"
+  },
+  {
+    "traces_tags": "en:contains-sulfites",
+    "traces_en": "contains-sulfites"
+  },
+  {
+    "traces_tags": "en:sulfatea",
+    "traces_en": "sulfatea"
+  },
+  {
+    "traces_tags": "en:fd-c-yellow-5",
+    "traces_en": "fd-c-yellow-5"
+  },
+  {
+    "traces_tags": "en:f-dc-yellow-5",
+    "traces_en": "f-dc-yellow-5"
+  },
+  {
+    "traces_tags": "en:jxjcjc",
+    "traces_en": "jxjcjc"
+  },
+  {
+    "traces_tags": "en:ar-تارترازين-تأثير-سلبي-على-النشاط-والتركيز-لدى-الأطفال",
+    "traces_en": "ar-تارترازين-تأثير-سلبي-على-النشاط-والتركيز-لدى-الأطفال"
+  },
+  {
+    "traces_tags": "es:tartrazina",
+    "traces_en": "es:tartrazina"
+  },
+  {
+    "traces_tags": "fr:contient-lait-autre-gluten-soya-oeuf",
+    "traces_en": "fr:contient-lait-autre-gluten-soya-oeuf"
+  },
+  {
+    "traces_tags": "fr:dans-l-usine-de-fabrication",
+    "traces_en": "fr:dans-l-usine-de-fabrication"
+  },
+  {
+    "traces_tags": "fr:graines-de-sesame-lait-ble-et-autre-gluten-soya-moutarde",
+    "traces_en": "fr:graines-de-sesame-lait-ble-et-autre-gluten-soya-moutarde"
+  },
+  {
+    "traces_tags": "en:grain-free",
+    "traces_en": "grain-free"
+  },
+  {
+    "traces_tags": "en:salt",
+    "traces_en": "salt"
+  },
+  {
+    "traces_tags": "en:sodium",
+    "traces_en": "sodium"
+  },
+  {
+    "traces_tags": "en:wheat-gluten",
+    "traces_en": "wheat-gluten"
+  },
+  {
+    "traces_tags": "en:gaines-de-sesame",
+    "traces_en": "gaines-de-sesame"
+  },
+  {
+    "traces_tags": "fr:peut-contenir",
+    "traces_en": "fr:peut-contenir"
+  },
+  {
+    "traces_tags": "en:contains-wheat-may-contain-soy-and-milk-ingredients",
+    "traces_en": "contains-wheat-may-contain-soy-and-milk-ingredients"
+  },
+  {
+    "traces_tags": "en:contains-wheat-and-milk-ingredients",
+    "traces_en": "contains-wheat-and-milk-ingredients"
+  },
+  {
+    "traces_tags": "de:baumnüsse",
+    "traces_en": "de:baumnüsse"
+  },
+  {
+    "traces_tags": "es:sin-azucares",
+    "traces_en": "es:sin-azucares"
+  },
+  {
+    "traces_tags": "es:sin-gluten",
+    "traces_en": "es:sin-gluten"
+  },
+  {
+    "traces_tags": "es:sin-lactosa",
+    "traces_en": "es:sin-lactosa"
+  },
+  {
+    "traces_tags": "es:vegano",
+    "traces_en": "es:vegano"
+  },
+  {
+    "traces_tags": "en:grains",
+    "traces_en": "grains"
+  },
+  {
+    "traces_tags": "en:seeds",
+    "traces_en": "seeds"
+  },
+  {
+    "traces_tags": "en:core-fragments",
+    "traces_en": "core-fragments"
+  },
+  {
+    "traces_tags": "en:seed-fragments",
+    "traces_en": "seed-fragments"
+  },
+  {
+    "traces_tags": "en:stem-fragments",
+    "traces_en": "stem-fragments"
+  },
+  {
+    "traces_tags": "en:beta-carotene",
+    "traces_en": "beta-carotene"
+  },
+  {
+    "traces_tags": "en:gellan-gum",
+    "traces_en": "gellan-gum"
+  },
+  {
+    "traces_tags": "en:lemon-juice-concentrate-for-tartness",
+    "traces_en": "lemon-juice-concentrate-for-tartness"
+  },
+  {
+    "traces_tags": "en:natural-flavors",
+    "traces_en": "natural-flavors"
+  },
+  {
+    "traces_tags": "en:pectin",
+    "traces_en": "pectin"
+  },
+  {
+    "traces_tags": "en:vitamin-c-ascorbic-acid",
+    "traces_en": "vitamin-c-ascorbic-acid"
+  },
+  {
+    "traces_tags": "en:vitamin-e-d-alpha-tocopherol-acetate",
+    "traces_en": "vitamin-e-d-alpha-tocopherol-acetate"
+  },
+  {
+    "traces_tags": "es:barley-grass",
+    "traces_en": "es:barley-grass"
+  },
+  {
+    "traces_tags": "es:gellan-gum",
+    "traces_en": "es:gellan-gum"
+  },
+  {
+    "traces_tags": "es:jerusalem-artichoke",
+    "traces_en": "es:jerusalem-artichoke"
+  },
+  {
+    "traces_tags": "es:kale",
+    "traces_en": "es:kale"
+  },
+  {
+    "traces_tags": "es:lemon-juice-concentrate-for-tartness",
+    "traces_en": "es:lemon-juice-concentrate-for-tartness"
+  },
+  {
+    "traces_tags": "es:natural-flavors",
+    "traces_en": "es:natural-flavors"
+  },
+  {
+    "traces_tags": "es:nova-scotia-dulse",
+    "traces_en": "es:nova-scotia-dulse"
+  },
+  {
+    "traces_tags": "es:pectin-gum",
+    "traces_en": "es:pectin-gum"
+  },
+  {
+    "traces_tags": "es:spirulina",
+    "traces_en": "es:spirulina"
+  },
+  {
+    "traces_tags": "es:vitamin-c-ascorbic-acid",
+    "traces_en": "es:vitamin-c-ascorbic-acid"
+  },
+  {
+    "traces_tags": "es:wheat-grass",
+    "traces_en": "es:wheat-grass"
+  },
+  {
+    "traces_tags": "es:wheat-sprouts",
+    "traces_en": "es:wheat-sprouts"
+  },
+  {
+    "traces_tags": "es:trigo-gluten",
+    "traces_en": "es:trigo-gluten"
+  },
+  {
+    "traces_tags": "fr:ble-et-lait",
+    "traces_en": "fr:ble-et-lait"
+  },
+  {
+    "traces_tags": "en:stems",
+    "traces_en": "stems"
+  },
+  {
+    "traces_tags": "en:triticale",
+    "traces_en": "triticale"
+  },
+  {
+    "traces_tags": "en:contains-bioengineered-food-ingredients",
+    "traces_en": "contains-bioengineered-food-ingredients"
+  },
+  {
+    "traces_tags": "en:baking-soda",
+    "traces_en": "baking-soda"
+  },
+  {
+    "traces_tags": "en:caramel-color",
+    "traces_en": "caramel-color"
+  },
+  {
+    "traces_tags": "en:caraway",
+    "traces_en": "caraway"
+  },
+  {
+    "traces_tags": "en:color-added",
+    "traces_en": "color-added"
+  },
+  {
+    "traces_tags": "en:corn-syrup",
+    "traces_en": "corn-syrup"
+  },
+  {
+    "traces_tags": "en:disodium-inosinate",
+    "traces_en": "disodium-inosinate"
+  },
+  {
+    "traces_tags": "en:dried-worcestershire-sauce",
+    "traces_en": "dried-worcestershire-sauce"
+  },
+  {
+    "traces_tags": "en:fumaric-acid",
+    "traces_en": "fumaric-acid"
+  },
+  {
+    "traces_tags": "en:garlic-powder",
+    "traces_en": "garlic-powder"
+  },
+  {
+    "traces_tags": "en:maltodextrin",
+    "traces_en": "maltodextrin"
+  },
+  {
+    "traces_tags": "en:molasses",
+    "traces_en": "molasses"
+  },
+  {
+    "traces_tags": "en:monosodium-glutamate",
+    "traces_en": "monosodium-glutamate"
+  },
+  {
+    "traces_tags": "en:natural-flavor",
+    "traces_en": "natural-flavor"
+  },
+  {
+    "traces_tags": "en:onion-power",
+    "traces_en": "onion-power"
+  },
+  {
+    "traces_tags": "en:spices",
+    "traces_en": "spices"
+  },
+  {
+    "traces_tags": "en:tamarind",
+    "traces_en": "tamarind"
+  },
+  {
+    "traces_tags": "en:vinegar",
+    "traces_en": "vinegar"
+  },
+  {
+    "traces_tags": "en:water",
+    "traces_en": "water"
+  },
+  {
+    "traces_tags": "en:and-milk-ingredients",
+    "traces_en": "and-milk-ingredients"
+  },
+  {
+    "traces_tags": "en:contains-peanut",
+    "traces_en": "contains-peanut"
+  },
+  {
+    "traces_tags": "en:milk-ingredients",
+    "traces_en": "milk-ingredients"
+  },
+  {
+    "traces_tags": "en:may-contain-milk-ingredients",
+    "traces_en": "may-contain-milk-ingredients"
+  },
+  {
+    "traces_tags": "en:contains-almond",
+    "traces_en": "contains-almond"
+  },
+  {
+    "traces_tags": "en:milk-and-soy-may-contain-peanut-ingredients",
+    "traces_en": "milk-and-soy-may-contain-peanut-ingredients"
+  },
+  {
+    "traces_tags": "es:nuez-pecana",
+    "traces_en": "es:nuez-pecana"
+  },
+  {
+    "traces_tags": "es:semilla-de-girasol",
+    "traces_en": "es:semilla-de-girasol"
+  },
+  {
+    "traces_tags": "es:nuez-pecan",
+    "traces_en": "es:nuez-pecan"
+  },
+  {
+    "traces_tags": "es:huevo-y-soya-puede-contener-ingredientes-de-cacahuate-contiene-gluten",
+    "traces_en": "es:huevo-y-soya-puede-contener-ingredientes-de-cacahuate-contiene-gluten"
+  },
+  {
+    "traces_tags": "es:ingredientes-de-leche",
+    "traces_en": "es:ingredientes-de-leche"
+  },
+  {
+    "traces_tags": "es:leche-y-huevo-puede-contener-ingredientes-de-cacahuate-contiene-gluten",
+    "traces_en": "es:leche-y-huevo-puede-contener-ingredientes-de-cacahuate-contiene-gluten"
+  },
+  {
+    "traces_tags": "en:trace-amounts-of-genetically-modified-also-known-as-genetically-engineered-material-may-be-present-due-to-potential-cross-contact-during-manufacturing-and-shipping",
+    "traces_en": "trace-amounts-of-genetically-modified-also-known-as-genetically-engineered-material-may-be-present-due-to-potential-cross-contact-during-manufacturing-and-shipping"
+  },
+  {
+    "traces_tags": "es:coco-y-leche",
+    "traces_en": "es:coco-y-leche"
+  },
+  {
+    "traces_tags": "en:en-gluten-en-milk",
+    "traces_en": "en-gluten-en-milk"
+  },
+  {
+    "traces_tags": "en:made-on-equipment-that-also-processes-peanut-tree-nut-soy-egg-milk",
+    "traces_en": "made-on-equipment-that-also-processes-peanut-tree-nut-soy-egg-milk"
+  },
+  {
+    "traces_tags": "es:coco",
+    "traces_en": "es:coco"
+  },
+  {
+    "traces_tags": "en:contains-wheat",
+    "traces_en": "contains-wheat"
+  },
+  {
+    "traces_tags": "fr:peut-contenir-un-noyau",
+    "traces_en": "fr:peut-contenir-un-noyau"
+  },
+  {
+    "traces_tags": "en:avoine",
+    "traces_en": "avoine"
+  },
+  {
+    "traces_tags": "en:ble",
+    "traces_en": "ble"
+  },
+  {
+    "traces_tags": "en:orge",
+    "traces_en": "orge"
+  },
+  {
+    "traces_tags": "en:seigle",
+    "traces_en": "seigle"
+  },
+  {
+    "traces_tags": "fr:triticale",
+    "traces_en": "fr:triticale"
+  },
+  {
+    "traces_tags": "fr:ble-avoine-seigle-orge-triticale-soya-noix-de-grenoble-arachide-lait-amande",
+    "traces_en": "fr:ble-avoine-seigle-orge-triticale-soya-noix-de-grenoble-arachide-lait-amande"
+  },
+  {
+    "traces_tags": "es:contiene-gluten-contiene-ingredientes-de-trigo",
+    "traces_en": "es:contiene-gluten-contiene-ingredientes-de-trigo"
+  },
+  {
+    "traces_tags": "es:soyay-almendra",
+    "traces_en": "es:soyay-almendra"
+  },
+  {
+    "traces_tags": "en:contains-cashews",
+    "traces_en": "contains-cashews"
+  },
+  {
+    "traces_tags": "es:elaborado-en-linea-de-empaque-donde-se-usan-soya-y-trigo",
+    "traces_en": "es:elaborado-en-linea-de-empaque-donde-se-usan-soya-y-trigo"
+  },
+  {
+    "traces_tags": "fr:oat-avoine",
+    "traces_en": "fr:oat-avoine"
+  }
+]

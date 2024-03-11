@@ -1,0 +1,57 @@
+[
+  {
+    "food_groups": "en:dairy-desserts",
+    "food_groups_tags": "en:milk-and-dairy-products",
+    "food_groups_en": "Milk and dairy products"
+  },
+  {
+    "food_groups": "en:dressings-and-sauces",
+    "food_groups_tags": "en:fats-and-sauces",
+    "food_groups_en": "Fats and sauces"
+  },
+  {
+    "food_groups": "en:fruit-juices",
+    "food_groups_tags": "en:beverages",
+    "food_groups_en": "Beverages"
+  },
+  {
+    "food_groups": "en:sweets",
+    "food_groups_tags": "en:sugary-snacks",
+    "food_groups_en": "Sugary snacks"
+  },
+  {
+    "food_groups": "en:one-dish-meals",
+    "food_groups_tags": "en:composite-foods",
+    "food_groups_en": "Composite foods"
+  },
+  {
+    "food_groups": "en:fruits",
+    "food_groups_tags": "en:fruits-and-vegetables",
+    "food_groups_en": "Fruits and vegetables"
+  },
+  {
+    "food_groups": "en:poultry",
+    "food_groups_tags": "en:fish-meat-eggs",
+    "food_groups_en": "Fish‚ Meat‚ Eggs"
+  },
+  {
+    "food_groups": "en:bread",
+    "food_groups_tags": "en:cereals-and-potatoes",
+    "food_groups_en": "Cereals and potatoes"
+  },
+  {
+    "food_groups": "en:salty-and-fatty-products",
+    "food_groups_tags": "en:salty-snacks",
+    "food_groups_en": "Salty snacks"
+  },
+  {
+    "food_groups": "en:alcoholic-beverages",
+    "food_groups_tags": "en:alcoholic-beverages",
+    "food_groups_en": "Alcoholic beverages"
+  },
+  {
+    "food_groups": "en:unknown",
+    "food_groups_tags": "en:unknown",
+    "food_groups_en": "Unknown"
+  }
+]

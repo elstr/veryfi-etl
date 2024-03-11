@@ -1,0 +1,1622 @@
+[
+  {
+    "labels_tags": "fr:delois-france",
+    "labels_en": "fr:delois-france"
+  },
+  {
+    "labels_tags": "en:made-in-france",
+    "labels_en": "Made in France"
+  },
+  {
+    "labels_tags": "en:no-artificial-flavors",
+    "labels_en": "No artificial flavors"
+  },
+  {
+    "labels_tags": "en:no-preservatives",
+    "labels_en": "No preservatives"
+  },
+  {
+    "labels_tags": "en:no-colorings",
+    "labels_en": "No colorings"
+  },
+  {
+    "labels_tags": "en:organic",
+    "labels_en": "Organic"
+  },
+  {
+    "labels_tags": "en:eu-organic",
+    "labels_en": "EU Organic"
+  },
+  {
+    "labels_tags": "en:fr-bio-01",
+    "labels_en": "FR-BIO-01"
+  },
+  {
+    "labels_tags": "fr:ab-agriculture-biologique",
+    "labels_en": "AB Agriculture Biologique"
+  },
+  {
+    "labels_tags": "en:no-gluten",
+    "labels_en": "No gluten"
+  },
+  {
+    "labels_tags": "en:non-eu-agriculture",
+    "labels_en": "Non-EU Agriculture"
+  },
+  {
+    "labels_tags": "en:eu-agriculture",
+    "labels_en": "EU Agriculture"
+  },
+  {
+    "labels_tags": "en:eu-non-eu-agriculture",
+    "labels_en": "EU/non-EU Agriculture"
+  },
+  {
+    "labels_tags": "en:fr-bio-15",
+    "labels_en": "FR-BIO-15"
+  },
+  {
+    "labels_tags": "en:green-dot",
+    "labels_en": "Green Dot"
+  },
+  {
+    "labels_tags": "en:no-palm-oil",
+    "labels_en": "No palm oil"
+  },
+  {
+    "labels_tags": "en:low-or-no-fat",
+    "labels_en": "Low or no fat"
+  },
+  {
+    "labels_tags": "en:low-fat",
+    "labels_en": "Low fat"
+  },
+  {
+    "labels_tags": "en:source-of-fibre",
+    "labels_en": "Source of fibre"
+  },
+  {
+    "labels_tags": "en:high-fibres",
+    "labels_en": "High fibres"
+  },
+  {
+    "labels_tags": "en:fr-bio-13",
+    "labels_en": "FR-BIO-13"
+  },
+  {
+    "labels_tags": "en:pdo",
+    "labels_en": "PDO"
+  },
+  {
+    "labels_tags": "en:french-meat",
+    "labels_en": "French meat"
+  },
+  {
+    "labels_tags": "en:no-lactose",
+    "labels_en": "No lactose"
+  },
+  {
+    "labels_tags": "en:nl-bio-01",
+    "labels_en": "NL-BIO-01"
+  },
+  {
+    "labels_tags": "en:contains-gmos",
+    "labels_en": "Contains GMOs"
+  },
+  {
+    "labels_tags": "en:nutriscore",
+    "labels_en": "Nutriscore"
+  },
+  {
+    "labels_tags": "en:nutriscore-grade-a",
+    "labels_en": "Nutriscore Grade A"
+  },
+  {
+    "labels_tags": "en:made-in-spain",
+    "labels_en": "Made in Spain"
+  },
+  {
+    "labels_tags": "en:vegetarian",
+    "labels_en": "Vegetarian"
+  },
+  {
+    "labels_tags": "en:vegan",
+    "labels_en": "Vegan"
+  },
+  {
+    "labels_tags": "en:it-bio-006",
+    "labels_en": "IT-BIO-006"
+  },
+  {
+    "labels_tags": "fr:b-corp",
+    "labels_en": "fr:b-corp"
+  },
+  {
+    "labels_tags": "en:certified-b-corporation",
+    "labels_en": "Certified B Corporation"
+  },
+  {
+    "labels_tags": "en:fr-bio-10",
+    "labels_en": "FR-BIO-10"
+  },
+  {
+    "labels_tags": "en:kosher",
+    "labels_en": "Kosher"
+  },
+  {
+    "labels_tags": "en:pure-cocoa-butter",
+    "labels_en": "Pure cocoa butter"
+  },
+  {
+    "labels_tags": "en:incorrect-data-on-label",
+    "labels_en": "Incorrect data on label"
+  },
+  {
+    "labels_tags": "fr:entrepreneurs-engages",
+    "labels_en": "fr:Entrepreneurs + Engagés"
+  },
+  {
+    "labels_tags": "en:not-advised-for-specific-people",
+    "labels_en": "Not advised for specific people"
+  },
+  {
+    "labels_tags": "en:with-sulfites",
+    "labels_en": "With sulfites"
+  },
+  {
+    "labels_tags": "en:not-advised-for-pregnant-women",
+    "labels_en": "Not advised for pregnant women"
+  },
+  {
+    "labels_tags": "fr:origine-france",
+    "labels_en": "fr:Origine France"
+  },
+  {
+    "labels_tags": "fr:triman",
+    "labels_en": "fr:Triman"
+  },
+  {
+    "labels_tags": "en:sustainable-farming",
+    "labels_en": "Sustainable farming"
+  },
+  {
+    "labels_tags": "en:utz-certified",
+    "labels_en": "UTZ Certified"
+  },
+  {
+    "labels_tags": "en:utz-certified-cocoa",
+    "labels_en": "UTZ Certified Cocoa"
+  },
+  {
+    "labels_tags": "en:do-not-freeze-again",
+    "labels_en": "Do not freeze again"
+  },
+  {
+    "labels_tags": "en:low-or-no-sugar",
+    "labels_en": "Low or no sugar"
+  },
+  {
+    "labels_tags": "en:contains-a-source-of-phenylalanine",
+    "labels_en": "Contains a source of phenylalanine"
+  },
+  {
+    "labels_tags": "en:excessive-consumption-can-have-laxative-effects",
+    "labels_en": "Excessive consumption can have laxative effects"
+  },
+  {
+    "labels_tags": "en:no-sugar",
+    "labels_en": "No sugar"
+  },
+  {
+    "labels_tags": "en:with-sweeteners",
+    "labels_en": "With sweeteners"
+  },
+  {
+    "labels_tags": "en:herboristerie",
+    "labels_en": "Herboristerie"
+  },
+  {
+    "labels_tags": "en:no-artificial-colors",
+    "labels_en": "No artificial colors"
+  },
+  {
+    "labels_tags": "en:no-flavors",
+    "labels_en": "No flavors"
+  },
+  {
+    "labels_tags": "en:with-sunflower-oil",
+    "labels_en": "With Sunflower oil"
+  },
+  {
+    "labels_tags": "en:usda-organic",
+    "labels_en": "USDA Organic"
+  },
+  {
+    "labels_tags": "de:0000080176800",
+    "labels_en": "de:0000080176800"
+  },
+  {
+    "labels_tags": "en:no-thickening-agent",
+    "labels_en": "No thickening agent"
+  },
+  {
+    "labels_tags": "en:es-eco-019-ct",
+    "labels_en": "ES-ECO-019-CT"
+  },
+  {
+    "labels_tags": "ar:توست",
+    "labels_en": "ar:توست"
+  },
+  {
+    "labels_tags": "en:made-in-italy",
+    "labels_en": "Made in Italy"
+  },
+  {
+    "labels_tags": "en:de-oko-006",
+    "labels_en": "DE-ÖKO-006"
+  },
+  {
+    "labels_tags": "en:eg-oko-verordnung",
+    "labels_en": "EG-Öko-Verordnung"
+  },
+  {
+    "labels_tags": "en:pgi",
+    "labels_en": "PGI"
+  },
+  {
+    "labels_tags": "en:gb-org-05",
+    "labels_en": "GB-ORG-05"
+  },
+  {
+    "labels_tags": "en:free-range",
+    "labels_en": "Free range"
+  },
+  {
+    "labels_tags": "en:free-range-eggs",
+    "labels_en": "Free range eggs"
+  },
+  {
+    "labels_tags": "en:french-poultry",
+    "labels_en": "French poultry"
+  },
+  {
+    "labels_tags": "fr:saveurs-en-or",
+    "labels_en": "fr:Saveurs en Or"
+  },
+  {
+    "labels_tags": "en:no-gmos",
+    "labels_en": "No GMOs"
+  },
+  {
+    "labels_tags": "en:high-proteins",
+    "labels_en": "High proteins"
+  },
+  {
+    "labels_tags": "en:superior-quality",
+    "labels_en": "Superior quality"
+  },
+  {
+    "labels_tags": "en:soil-association-organic",
+    "labels_en": "Soil Association Organic"
+  },
+  {
+    "labels_tags": "en:vegetarian-society-approved",
+    "labels_en": "Vegetarian Society Approved"
+  },
+  {
+    "labels_tags": "en:vegetarian-society-approved-vegan",
+    "labels_en": "Vegetarian Society Approved Vegan"
+  },
+  {
+    "labels_tags": "en:without-addition-of-dairy-products",
+    "labels_en": "Without addition of dairy products"
+  },
+  {
+    "labels_tags": "en:sustainable",
+    "labels_en": "Sustainable"
+  },
+  {
+    "labels_tags": "en:sustainable-fishery",
+    "labels_en": "Sustainable fishery"
+  },
+  {
+    "labels_tags": "en:sustainable-seafood-msc",
+    "labels_en": "Sustainable Seafood MSC"
+  },
+  {
+    "labels_tags": "en:made-in-swiss",
+    "labels_en": "Made in Swiss"
+  },
+  {
+    "labels_tags": "en:no-added-sugar",
+    "labels_en": "No added sugar"
+  },
+  {
+    "labels_tags": "en:non-gmo-project",
+    "labels_en": "Non GMO project"
+  },
+  {
+    "labels_tags": "en:it-bio-009",
+    "labels_en": "IT-BIO-009"
+  },
+  {
+    "labels_tags": "fr:bleu-blanc-coeur",
+    "labels_en": "fr:Bleu Blanc Cœur"
+  },
+  {
+    "labels_tags": "en:1-for-the-planet",
+    "labels_en": "1% for the planet"
+  },
+  {
+    "labels_tags": "en:halal",
+    "labels_en": "Halal"
+  },
+  {
+    "labels_tags": "en:es-eco-020-cv",
+    "labels_en": "ES-ECO-020-CV"
+  },
+  {
+    "labels_tags": "en:unpasteurised-milk",
+    "labels_en": "Unpasteurised-milk"
+  },
+  {
+    "labels_tags": "en:cb-org-05",
+    "labels_en": "Cb-org-05"
+  },
+  {
+    "labels_tags": "en:french-milk",
+    "labels_en": "French milk"
+  },
+  {
+    "labels_tags": "en:nutriscore-grade-d",
+    "labels_en": "Nutriscore Grade D"
+  },
+  {
+    "labels_tags": "en:no-additives",
+    "labels_en": "No additives"
+  },
+  {
+    "labels_tags": "en:it-bio-005",
+    "labels_en": "IT-BIO-005"
+  },
+  {
+    "labels_tags": "en:french-pork",
+    "labels_en": "French pork"
+  },
+  {
+    "labels_tags": "en:french-beef",
+    "labels_en": "French beef"
+  },
+  {
+    "labels_tags": "en:french-duck",
+    "labels_en": "French duck"
+  },
+  {
+    "labels_tags": "fr:canard-eleve-et-prepare-dans-le-perigord",
+    "labels_en": "fr:canard-eleve-et-prepare-dans-le-perigord"
+  },
+  {
+    "labels_tags": "fr:origine-certifie-perigord",
+    "labels_en": "fr:origine-certifie-perigord"
+  },
+  {
+    "labels_tags": "en:dzg-gluten-free",
+    "labels_en": "DZG Gluten free"
+  },
+  {
+    "labels_tags": "en:no-added-msg",
+    "labels_en": "No added MSG"
+  },
+  {
+    "labels_tags": "en:fr-bio-09",
+    "labels_en": "FR-BIO-09"
+  },
+  {
+    "labels_tags": "en:ahmet-turkmen",
+    "labels_en": "Ahmet-turkmen"
+  },
+  {
+    "labels_tags": "fr:label",
+    "labels_en": "fr:label"
+  },
+  {
+    "labels_tags": "en:es-eco-020",
+    "labels_en": "Es-eco-020"
+  },
+  {
+    "labels_tags": "en:fsc",
+    "labels_en": "FSC"
+  },
+  {
+    "labels_tags": "en:fsc-mix",
+    "labels_en": "FSC Mix"
+  },
+  {
+    "labels_tags": "en:produced-in-brittany",
+    "labels_en": "Produced in Brittany"
+  },
+  {
+    "labels_tags": "en:pure-butter",
+    "labels_en": "Pure butter"
+  },
+  {
+    "labels_tags": "en:aliments-du-quebec",
+    "labels_en": "Aliments-du-quebec"
+  },
+  {
+    "labels_tags": "en:bio",
+    "labels_en": "Bio"
+  },
+  {
+    "labels_tags": "en:eu-nicht-eu-landwirtschaft",
+    "labels_en": "Eu-nicht-eu-landwirtschaft"
+  },
+  {
+    "labels_tags": "en:eu-landwirtschaft",
+    "labels_en": "Eu-landwirtschaft"
+  },
+  {
+    "labels_tags": "en:eu-oko-verordnung",
+    "labels_en": "Eu-oko-verordnung"
+  },
+  {
+    "labels_tags": "en:mit-sonnenblumenol",
+    "labels_en": "Mit-sonnenblumenol"
+  },
+  {
+    "labels_tags": "en:nicht-eu-landwirtschaft",
+    "labels_en": "Nicht-eu-landwirtschaft"
+  },
+  {
+    "labels_tags": "en:vegetarisch",
+    "labels_en": "Vegetarisch"
+  },
+  {
+    "labels_tags": "en:the-vegan-society",
+    "labels_en": "The Vegan Society"
+  },
+  {
+    "labels_tags": "en:no-fat",
+    "labels_en": "No fat"
+  },
+  {
+    "labels_tags": "en:nutriscore-grade-b",
+    "labels_en": "Nutriscore Grade B"
+  },
+  {
+    "labels_tags": "en:de-oko-001",
+    "labels_en": "DE-ÖKO-001"
+  },
+  {
+    "labels_tags": "en:made-in-germany",
+    "labels_en": "Made in Germany"
+  },
+  {
+    "labels_tags": "en:swiss-aoc",
+    "labels_en": "Swiss AOC"
+  },
+  {
+    "labels_tags": "en:nutriscore-grade-c",
+    "labels_en": "Nutriscore Grade C"
+  },
+  {
+    "labels_tags": "en:de-oko-003",
+    "labels_en": "DE-ÖKO-003"
+  },
+  {
+    "labels_tags": "en:smoked-with-beech-wood",
+    "labels_en": "Smoked with beech wood"
+  },
+  {
+    "labels_tags": "en:without-sweeteners",
+    "labels_en": "Without sweeteners"
+  },
+  {
+    "labels_tags": "en:designated-origin-denomination",
+    "labels_en": "Designated Origin Denomination"
+  },
+  {
+    "labels_tags": "en:european-vegetarian-union",
+    "labels_en": "European Vegetarian Union"
+  },
+  {
+    "labels_tags": "en:european-vegetarian-union-vegan",
+    "labels_en": "European Vegetarian Union Vegan"
+  },
+  {
+    "labels_tags": "en:vegetarien",
+    "labels_en": "Vegetarien"
+  },
+  {
+    "labels_tags": "en:verified",
+    "labels_en": "Verified"
+  },
+  {
+    "labels_tags": "en:ch-bio-006",
+    "labels_en": "CH-BIO-006"
+  },
+  {
+    "labels_tags": "en:mehran-spice-food-industries",
+    "labels_en": "Mehran-spice-food-industries"
+  },
+  {
+    "labels_tags": "en:pure-pork",
+    "labels_en": "Pure pork"
+  },
+  {
+    "labels_tags": "fr:www-v-label-eu",
+    "labels_en": "fr:www-v-label-eu"
+  },
+  {
+    "labels_tags": "en:do-not-freeze",
+    "labels_en": "Do not freeze"
+  },
+  {
+    "labels_tags": "en:new",
+    "labels_en": "New"
+  },
+  {
+    "labels_tags": "en:fed-without-gmos",
+    "labels_en": "Fed without GMOs"
+  },
+  {
+    "labels_tags": "en:no-gelatin",
+    "labels_en": "No gelatin"
+  },
+  {
+    "labels_tags": "en:unfrozen",
+    "labels_en": "Unfrozen"
+  },
+  {
+    "labels_tags": "en:de-oko-037",
+    "labels_en": "DE-ÖKO-037"
+  },
+  {
+    "labels_tags": "en:lk-bio-149",
+    "labels_en": "LK-BIO-149"
+  },
+  {
+    "labels_tags": "en:100-vegetable",
+    "labels_en": "100% vegetable"
+  },
+  {
+    "labels_tags": "en:de-oko-005",
+    "labels_en": "DE-ÖKO-005"
+  },
+  {
+    "labels_tags": "en:345",
+    "labels_en": "345"
+  },
+  {
+    "labels_tags": "en:de-oko-034",
+    "labels_en": "DE-ÖKO-034"
+  },
+  {
+    "labels_tags": "en:natural-product",
+    "labels_en": "Natural product"
+  },
+  {
+    "labels_tags": "en:british-lion-quality",
+    "labels_en": "British Lion Quality"
+  },
+  {
+    "labels_tags": "en:not-suitable-for-nut-allergy-sufferers",
+    "labels_en": "Not-suitable-for-nut-allergy-sufferers"
+  },
+  {
+    "labels_tags": "en:reduced-fat",
+    "labels_en": "Reduced fat"
+  },
+  {
+    "labels_tags": "en:30-less-fat",
+    "labels_en": "30% less fat"
+  },
+  {
+    "labels_tags": "en:best",
+    "labels_en": "Best"
+  },
+  {
+    "labels_tags": "en:natural-flavors",
+    "labels_en": "Natural flavors"
+  },
+  {
+    "labels_tags": "fr:peut-contenir-des-ogms",
+    "labels_en": "fr:peut-contenir-des-ogms"
+  },
+  {
+    "labels_tags": "en:it-bio-014",
+    "labels_en": "IT-BIO-014"
+  },
+  {
+    "labels_tags": "en:barcode-clash",
+    "labels_en": "Barcode-clash"
+  },
+  {
+    "labels_tags": "fr:societe-francaise-de-controle-de-viande-halal",
+    "labels_en": "fr:Société Française de Contrôle de Viande Halal"
+  },
+  {
+    "labels_tags": "en:certifie-halal-sfcvh",
+    "labels_en": "Certifie-halal-sfcvh"
+  },
+  {
+    "labels_tags": "en:forever-fish",
+    "labels_en": "Forever-fish"
+  },
+  {
+    "labels_tags": "en:not-the-droid-you-re-looking-for",
+    "labels_en": "Not-the-droid-you-re-looking-for"
+  },
+  {
+    "labels_tags": "en:100-natural",
+    "labels_en": "100% natural"
+  },
+  {
+    "labels_tags": "en:rainforest-alliance",
+    "labels_en": "Rainforest Alliance"
+  },
+  {
+    "labels_tags": "en:made-with-free-range-eggs",
+    "labels_en": "Made with free range eggs"
+  },
+  {
+    "labels_tags": "en:orthodox-union-kosher",
+    "labels_en": "Orthodox Union Kosher"
+  },
+  {
+    "labels_tags": "en:35-less-fat",
+    "labels_en": "35% less fat"
+  },
+  {
+    "labels_tags": "fr:weight-watchers",
+    "labels_en": "fr:weight-watchers"
+  },
+  {
+    "labels_tags": "en:made-in-belgium",
+    "labels_en": "Made in Belgium"
+  },
+  {
+    "labels_tags": "en:contains-milk",
+    "labels_en": "Contains milk"
+  },
+  {
+    "labels_tags": "en:certified-by-ecocert",
+    "labels_en": "Certified by Ecocert"
+  },
+  {
+    "labels_tags": "en:cooked-in-france",
+    "labels_en": "Cooked in France"
+  },
+  {
+    "labels_tags": "en:leeeeeeet-it-goooooooo",
+    "labels_en": "Leeeeeeet-it-goooooooo"
+  },
+  {
+    "labels_tags": "en:animal-welfare",
+    "labels_en": "Animal welfare"
+  },
+  {
+    "labels_tags": "en:european-vegetarian-union-vegetarian",
+    "labels_en": "European Vegetarian Union Vegetarian"
+  },
+  {
+    "labels_tags": "fr:lait-de-paturage",
+    "labels_en": "fr:Lait de paturage"
+  },
+  {
+    "labels_tags": "en:yes",
+    "labels_en": "Yes"
+  },
+  {
+    "labels_tags": "en:fair-trade",
+    "labels_en": "Fair trade"
+  },
+  {
+    "labels_tags": "en:fairtrade-international",
+    "labels_en": "Fairtrade International"
+  },
+  {
+    "labels_tags": "en:microwave-only",
+    "labels_en": "Microwave-only"
+  },
+  {
+    "labels_tags": "en:australian-made",
+    "labels_en": "Australian made"
+  },
+  {
+    "labels_tags": "en:it-bio-008",
+    "labels_en": "IT-BIO-008"
+  },
+  {
+    "labels_tags": "en:de-oko-060",
+    "labels_en": "DE-ÖKO-060"
+  },
+  {
+    "labels_tags": "fr:isoxan-sport",
+    "labels_en": "fr:isoxan-sport"
+  },
+  {
+    "labels_tags": "ru:скппк",
+    "labels_en": "ru:скппк"
+  },
+  {
+    "labels_tags": "de:ohne-gentechnik",
+    "labels_en": "Ohne Gentechnik"
+  },
+  {
+    "labels_tags": "en:fairly-traded",
+    "labels_en": "Fairly-traded"
+  },
+  {
+    "labels_tags": "en:sustainably-sourced",
+    "labels_en": "Sustainably-sourced"
+  },
+  {
+    "labels_tags": "en:not-recommended-for-children-under-3-years",
+    "labels_en": "Not recommended for children under 3 years"
+  },
+  {
+    "labels_tags": "en:fabrique-en-italie",
+    "labels_en": "Fabrique-en-italie"
+  },
+  {
+    "labels_tags": "en:sans-additifs",
+    "labels_en": "Sans-additifs"
+  },
+  {
+    "labels_tags": "en:tibetan-plateau-100-organic",
+    "labels_en": "Tibetan-plateau-100-organic"
+  },
+  {
+    "labels_tags": "en:vegetalien",
+    "labels_en": "Vegetalien"
+  },
+  {
+    "labels_tags": "en:cn-bio-14",
+    "labels_en": "Cn-bio-14"
+  },
+  {
+    "labels_tags": "en:vitamin-d-source",
+    "labels_en": "Vitamin D source"
+  },
+  {
+    "labels_tags": "de:vegan-de-öko-034",
+    "labels_en": "de:vegan-de-öko-034"
+  },
+  {
+    "labels_tags": "es:sin-tacc",
+    "labels_en": "es:Sin TACC"
+  },
+  {
+    "labels_tags": "en:sans-etiquette",
+    "labels_en": "Sans-etiquette"
+  },
+  {
+    "labels_tags": "en:sustainable-fishing",
+    "labels_en": "Sustainable-fishing"
+  },
+  {
+    "labels_tags": "en:no-trans-fat",
+    "labels_en": "No Trans Fat"
+  },
+  {
+    "labels_tags": "en:less-than-1-g-sugar",
+    "labels_en": "Less-than-1-g-sugar"
+  },
+  {
+    "labels_tags": "en:no-high-fructose-corn-syrup",
+    "labels_en": "No-high-fructose-corn-syrup"
+  },
+  {
+    "labels_tags": "en:keto-friendly",
+    "labels_en": "Keto-friendly"
+  },
+  {
+    "labels_tags": "en:bill-knapp-s-shortbread-crumb-holiday-dunkers",
+    "labels_en": "Bill-knapp-s-shortbread-crumb-holiday-dunkers"
+  },
+  {
+    "labels_tags": "en:made-in-poland",
+    "labels_en": "Made in Poland"
+  },
+  {
+    "labels_tags": "en:fabrique-au-canada",
+    "labels_en": "Fabrique-au-canada"
+  },
+  {
+    "labels_tags": "en:sustainable-palm-oil",
+    "labels_en": "Sustainable Palm Oil"
+  },
+  {
+    "labels_tags": "en:parve",
+    "labels_en": "Parve"
+  },
+  {
+    "labels_tags": "en:new-recipe",
+    "labels_en": "New recipe"
+  },
+  {
+    "labels_tags": "en:ohne-gentechnik",
+    "labels_en": "Ohne Gentechnik"
+  },
+  {
+    "labels_tags": "de:güteklasse-a",
+    "labels_en": "de:güteklasse-a"
+  },
+  {
+    "labels_tags": "pn:de-091364",
+    "labels_en": "pn:de-091364"
+  },
+  {
+    "labels_tags": "en:vegan-action",
+    "labels_en": "Vegan Action"
+  },
+  {
+    "labels_tags": "bg:напитка",
+    "labels_en": "bg:напитка"
+  },
+  {
+    "labels_tags": "en:agriculture-biologique",
+    "labels_en": "Agriculture-biologique"
+  },
+  {
+    "labels_tags": "en:non-ue-agriculture",
+    "labels_en": "Non-ue-agriculture"
+  },
+  {
+    "labels_tags": "en:made-in-mexico",
+    "labels_en": "Made in Mexico"
+  },
+  {
+    "labels_tags": "en:wah-seng",
+    "labels_en": "Wah-seng"
+  },
+  {
+    "labels_tags": "fr:fabrique-au-royaume-uni",
+    "labels_en": "fr:fabrique-au-royaume-uni"
+  },
+  {
+    "labels_tags": "en:25-less-fat",
+    "labels_en": "25% less fat"
+  },
+  {
+    "labels_tags": "en:king-size",
+    "labels_en": "King-size"
+  },
+  {
+    "labels_tags": "en:sans-sucre",
+    "labels_en": "Sans-sucre"
+  },
+  {
+    "labels_tags": "en:es-eco-002-cm",
+    "labels_en": "ES-ECO-002-CM"
+  },
+  {
+    "labels_tags": "en:kroger",
+    "labels_en": "Kroger"
+  },
+  {
+    "labels_tags": "en:no-added-oils",
+    "labels_en": "No-added-oils"
+  },
+  {
+    "labels_tags": "en:no-added-stabilizers",
+    "labels_en": "No-added-stabilizers"
+  },
+  {
+    "labels_tags": "en:organized-kashrut-kosher",
+    "labels_en": "Organized Kashrut Kosher"
+  },
+  {
+    "labels_tags": "en:low-sodium",
+    "labels_en": "Low Sodium"
+  },
+  {
+    "labels_tags": "en:onions",
+    "labels_en": "Onions"
+  },
+  {
+    "labels_tags": "en:vegetarian-fed",
+    "labels_en": "Vegetarian-fed"
+  },
+  {
+    "labels_tags": "en:enriched-wih-vitamins",
+    "labels_en": "Enriched wih vitamins"
+  },
+  {
+    "labels_tags": "en:it-bio-007",
+    "labels_en": "IT-BIO-007"
+  },
+  {
+    "labels_tags": "en:real-california-milk",
+    "labels_en": "Real California Milk"
+  },
+  {
+    "labels_tags": "en:pasteurized-product",
+    "labels_en": "Pasteurized-product"
+  },
+  {
+    "labels_tags": "en:grade-a",
+    "labels_en": "Grade-a"
+  },
+  {
+    "labels_tags": "en:homonogized",
+    "labels_en": "Homonogized"
+  },
+  {
+    "labels_tags": "en:non-bpa",
+    "labels_en": "Non-bpa"
+  },
+  {
+    "labels_tags": "en:be-bio-01",
+    "labels_en": "BE-BIO-01"
+  },
+  {
+    "labels_tags": "en:crc-pareve",
+    "labels_en": "CRc Pareve"
+  },
+  {
+    "labels_tags": "en:recyclable-only-where-facilities-exist-visit-recyclecartons-com-to-see-if-recyclable-in-your-area",
+    "labels_en": "Recyclable-only-where-facilities-exist-visit-recyclecartons-com-to-see-if-recyclable-in-your-area"
+  },
+  {
+    "labels_tags": "en:no-caffeine",
+    "labels_en": "No caffeine"
+  },
+  {
+    "labels_tags": "en:not-a-sodium-free-food",
+    "labels_en": "Not-a-sodium-free-food"
+  },
+  {
+    "labels_tags": "en:fragrance-free",
+    "labels_en": "Fragrance-free"
+  },
+  {
+    "labels_tags": "en:sensitive-skin",
+    "labels_en": "Sensitive-skin"
+  },
+  {
+    "labels_tags": "en:natural-colorings",
+    "labels_en": "Natural colorings"
+  },
+  {
+    "labels_tags": "en:cor-kosher",
+    "labels_en": "COR Kosher"
+  },
+  {
+    "labels_tags": "en:non-dairy",
+    "labels_en": "Non-dairy"
+  },
+  {
+    "labels_tags": "en:bioagricert-organic",
+    "labels_en": "Bioagricert-organic"
+  },
+  {
+    "labels_tags": "en:classis",
+    "labels_en": "Classis"
+  },
+  {
+    "labels_tags": "en:green-dot-india",
+    "labels_en": "Green Dot India"
+  },
+  {
+    "labels_tags": "en:high-quality-japanese-rice",
+    "labels_en": "High-quality-japanese-rice"
+  },
+  {
+    "labels_tags": "en:dabest",
+    "labels_en": "Dabest"
+  },
+  {
+    "labels_tags": "en:whole-grain",
+    "labels_en": "Whole-grain"
+  },
+  {
+    "labels_tags": "en:no-antibiotics",
+    "labels_en": "No antibiotics"
+  },
+  {
+    "labels_tags": "en:chickens-raised-without-antibiotics",
+    "labels_en": "Chickens raised without antibiotics"
+  },
+  {
+    "labels_tags": "fr:verte",
+    "labels_en": "fr:verte"
+  },
+  {
+    "labels_tags": "en:crispy-and-crunchy",
+    "labels_en": "Crispy-and-crunchy"
+  },
+  {
+    "labels_tags": "en:sweet-spicy",
+    "labels_en": "Sweet-spicy"
+  },
+  {
+    "labels_tags": "en:taste-tested-by-customers",
+    "labels_en": "Taste-tested-by-customers"
+  },
+  {
+    "labels_tags": "en:no-flavour-enhancer",
+    "labels_en": "No flavour enhancer"
+  },
+  {
+    "labels_tags": "en:no-msg",
+    "labels_en": "No MSG"
+  },
+  {
+    "labels_tags": "en:cml-pz-089-2019",
+    "labels_en": "Cml-pz-089-2019"
+  },
+  {
+    "labels_tags": "en:pss",
+    "labels_en": "Pss"
+  },
+  {
+    "labels_tags": "en:pakistan-standards",
+    "labels_en": "Pakistan-standards"
+  },
+  {
+    "labels_tags": "en:real-sugar",
+    "labels_en": "Real-sugar"
+  },
+  {
+    "labels_tags": "en:pl-eko-07",
+    "labels_en": "PL-EKO-07"
+  },
+  {
+    "labels_tags": "fr:fairtrade-maxhavelaar",
+    "labels_en": "fr:fairtrade-maxhavelaar"
+  },
+  {
+    "labels_tags": "en:id-bio-149",
+    "labels_en": "ID-BIO-149"
+  },
+  {
+    "labels_tags": "ar:hash827",
+    "labels_en": "ar:hash827"
+  },
+  {
+    "labels_tags": "es:no-vegan",
+    "labels_en": "es:no-vegan"
+  },
+  {
+    "labels_tags": "en:mild-cheddar-cheese",
+    "labels_en": "Mild-cheddar-cheese"
+  },
+  {
+    "labels_tags": "en:no-hfcs",
+    "labels_en": "No-hfcs"
+  },
+  {
+    "labels_tags": "en:natural-blackberry-flavor-with-other-natural-flavors",
+    "labels_en": "Natural-blackberry-flavor-with-other-natural-flavors"
+  },
+  {
+    "labels_tags": "en:nutriscore-grade-e",
+    "labels_en": "Nutriscore Grade E"
+  },
+  {
+    "labels_tags": "en:fair-trade-certified-cane-sugar",
+    "labels_en": "Fair-trade-certified-cane-sugar"
+  },
+  {
+    "labels_tags": "en:no-artificial-sweeteners",
+    "labels_en": "No artificial sweeteners"
+  },
+  {
+    "labels_tags": "en:freezable",
+    "labels_en": "Freezable"
+  },
+  {
+    "labels_tags": "en:no-cholesterol",
+    "labels_en": "No cholesterol"
+  },
+  {
+    "labels_tags": "en:rich-in-vitamin-a",
+    "labels_en": "Rich in vitamin A"
+  },
+  {
+    "labels_tags": "en:rich-in-vitamin-b12",
+    "labels_en": "Rich in vitamin B12"
+  },
+  {
+    "labels_tags": "en:rich-in-vitamin-d",
+    "labels_en": "Rich in vitamin D"
+  },
+  {
+    "labels_tags": "en:hecho-en-mexico",
+    "labels_en": "Hecho-en-mexico"
+  },
+  {
+    "labels_tags": "en:cereal-containing-gluten",
+    "labels_en": "Cereal-containing-gluten"
+  },
+  {
+    "labels_tags": "en:max-havelaar",
+    "labels_en": "Max Havelaar"
+  },
+  {
+    "labels_tags": "en:organic-bio",
+    "labels_en": "Organic-bio"
+  },
+  {
+    "labels_tags": "en:us-org-050",
+    "labels_en": "Us-org-050"
+  },
+  {
+    "labels_tags": "en:canada-organic",
+    "labels_en": "Canada Organic"
+  },
+  {
+    "labels_tags": "en:free-from-e-number",
+    "labels_en": "Free from E number"
+  },
+  {
+    "labels_tags": "en:de-oko-013",
+    "labels_en": "DE-ÖKO-013"
+  },
+  {
+    "labels_tags": "ro:artificially-favoured",
+    "labels_en": "ro:artificially-favoured"
+  },
+  {
+    "labels_tags": "en:contains-pork",
+    "labels_en": "Contains-pork"
+  },
+  {
+    "labels_tags": "en:organicno-artificial-flavorsno-colorings",
+    "labels_en": "Organicno-artificial-flavorsno-colorings"
+  },
+  {
+    "labels_tags": "en:25-less-sodium",
+    "labels_en": "25-less-sodium"
+  },
+  {
+    "labels_tags": "en:cheese-from-cows-not-treated-with-the-growth-hormone",
+    "labels_en": "Cheese-from-cows-not-treated-with-the-growth-hormone"
+  },
+  {
+    "labels_tags": "en:no-synthetic-colors",
+    "labels_en": "No-synthetic-colors"
+  },
+  {
+    "labels_tags": "en:no-artificial-preservatives",
+    "labels_en": "No artificial preservatives"
+  },
+  {
+    "labels_tags": "en:no-artificial-colours-and-preservatives",
+    "labels_en": "No artificial colours and preservatives"
+  },
+  {
+    "labels_tags": "en:without-antibiotics-since-birth",
+    "labels_en": "Without antibiotics since birth"
+  },
+  {
+    "labels_tags": "en:no-alcohol",
+    "labels_en": "No alcohol"
+  },
+  {
+    "labels_tags": "en:class-i",
+    "labels_en": "Class I"
+  },
+  {
+    "labels_tags": "en:made-in-the-uk",
+    "labels_en": "Made-in-the-uk"
+  },
+  {
+    "labels_tags": "es:100-vegano-crudo",
+    "labels_en": "es:100-vegano-crudo"
+  },
+  {
+    "labels_tags": "es:organica-ecologica",
+    "labels_en": "es:organica-ecologica"
+  },
+  {
+    "labels_tags": "en:iso-22000",
+    "labels_en": "ISO 22000"
+  },
+  {
+    "labels_tags": "en:iso-22000-2005",
+    "labels_en": "ISO 22000:2005"
+  },
+  {
+    "labels_tags": "en:iso-9001",
+    "labels_en": "ISO 9001"
+  },
+  {
+    "labels_tags": "en:no-added-oil",
+    "labels_en": "No-added-oil"
+  },
+  {
+    "labels_tags": "en:baked-with-real-cheese",
+    "labels_en": "Baked-with-real-cheese"
+  },
+  {
+    "labels_tags": "fr:fabrique-au-luxembourg",
+    "labels_en": "fr:fabrique-au-luxembourg"
+  },
+  {
+    "labels_tags": "en:incorrect-nutrition-facts-on-label",
+    "labels_en": "Incorrect nutrition facts on label"
+  },
+  {
+    "labels_tags": "hu:instant-leves",
+    "labels_en": "hu:instant-leves"
+  },
+  {
+    "labels_tags": "hu:zacskós-leves",
+    "labels_en": "hu:zacskós-leves"
+  },
+  {
+    "labels_tags": "en:great-taste-2016",
+    "labels_en": "Great-taste-2016"
+  },
+  {
+    "labels_tags": "en:ecologico",
+    "labels_en": "Ecologico"
+  },
+  {
+    "labels_tags": "en:na",
+    "labels_en": "Na"
+  },
+  {
+    "labels_tags": "en:tomatoes",
+    "labels_en": "Tomatoes"
+  },
+  {
+    "labels_tags": "fr:agriculture-italie",
+    "labels_en": "fr:agriculture-italie"
+  },
+  {
+    "labels_tags": "en:labels-for-education",
+    "labels_en": "Labels-for-education"
+  },
+  {
+    "labels_tags": "en:u-pareve",
+    "labels_en": "U-pareve"
+  },
+  {
+    "labels_tags": "en:d",
+    "labels_en": "D"
+  },
+  {
+    "labels_tags": "fr:peche-francaise",
+    "labels_en": "fr:Pêche française"
+  },
+  {
+    "labels_tags": "en:nothing-artificial",
+    "labels_en": "Nothing-artificial"
+  },
+  {
+    "labels_tags": "es:empresa-socialmente-responsable",
+    "labels_en": "es:empresa-socialmente-responsable"
+  },
+  {
+    "labels_tags": "es:ecoce",
+    "labels_en": "es:ecoce"
+  },
+  {
+    "labels_tags": "en:no-soy",
+    "labels_en": "No soy"
+  },
+  {
+    "labels_tags": "en:sin-gluten",
+    "labels_en": "Sin-gluten"
+  },
+  {
+    "labels_tags": "en:responsible-aquaculture",
+    "labels_en": "Responsible aquaculture"
+  },
+  {
+    "labels_tags": "en:responsible-aquaculture-asc",
+    "labels_en": "Responsible aquaculture ASC"
+  },
+  {
+    "labels_tags": "fr:poisson-sauvage",
+    "labels_en": "fr:poisson-sauvage"
+  },
+  {
+    "labels_tags": "de:msc-c-50367",
+    "labels_en": "de:msc-c-50367"
+  },
+  {
+    "labels_tags": "de:pe-ld",
+    "labels_en": "de:pe-ld"
+  },
+  {
+    "labels_tags": "de:polyethylen",
+    "labels_en": "de:polyethylen"
+  },
+  {
+    "labels_tags": "de:♶",
+    "labels_en": "de:♶"
+  },
+  {
+    "labels_tags": "en:dairy-farmers-of-america",
+    "labels_en": "Dairy-farmers-of-america"
+  },
+  {
+    "labels_tags": "es:inspector-for-wholesomeness",
+    "labels_en": "es:inspector-for-wholesomeness"
+  },
+  {
+    "labels_tags": "es:u-s-a-departament-of-agriculture",
+    "labels_en": "es:u-s-a-departament-of-agriculture"
+  },
+  {
+    "labels_tags": "fr:fsc-c012983",
+    "labels_en": "fr:fsc-c012983"
+  },
+  {
+    "labels_tags": "en:low-or-no-salt",
+    "labels_en": "Low or no salt"
+  },
+  {
+    "labels_tags": "en:low-salt",
+    "labels_en": "Low salt"
+  },
+  {
+    "labels_tags": "en:reduced-salt",
+    "labels_en": "Reduced salt"
+  },
+  {
+    "labels_tags": "en:25-less-salt",
+    "labels_en": "25% less salt"
+  },
+  {
+    "labels_tags": "en:low-sugar",
+    "labels_en": "Low sugar"
+  },
+  {
+    "labels_tags": "fr:haute-valeur-environnementale",
+    "labels_en": "Haute Valeur Environnementale"
+  },
+  {
+    "labels_tags": "en:naturally-flavored",
+    "labels_en": "Naturally-flavored"
+  },
+  {
+    "labels_tags": "en:partially-produced-with-genetic-engineering",
+    "labels_en": "Partially-produced-with-genetic-engineering"
+  },
+  {
+    "labels_tags": "en:fiber-one",
+    "labels_en": "Fiber-one"
+  },
+  {
+    "labels_tags": "en:no-artificial-colours-or-flavours",
+    "labels_en": "No artificial colours or flavours"
+  },
+  {
+    "labels_tags": "en:cocoa-puff",
+    "labels_en": "Cocoa-puff"
+  },
+  {
+    "labels_tags": "en:contains-soy",
+    "labels_en": "Contains soy"
+  },
+  {
+    "labels_tags": "es:cereal-integral-garantizado",
+    "labels_en": "es:cereal-integral-garantizado"
+  },
+  {
+    "labels_tags": "en:containes-bioengineered-food-ingredient",
+    "labels_en": "Containes-bioengineered-food-ingredient"
+  },
+  {
+    "labels_tags": "en:american-heart-certification",
+    "labels_en": "American-heart-certification"
+  },
+  {
+    "labels_tags": "en:no-high-fructose",
+    "labels_en": "No-high-fructose"
+  },
+  {
+    "labels_tags": "es:avena-100-natural",
+    "labels_en": "es:avena-100-natural"
+  },
+  {
+    "labels_tags": "en:unknown",
+    "labels_en": "Unknown"
+  },
+  {
+    "labels_tags": "es:16-g-de-granos-enteros",
+    "labels_en": "es:16-g-de-granos-enteros"
+  },
+  {
+    "labels_tags": "en:vegano",
+    "labels_en": "Vegano"
+  },
+  {
+    "labels_tags": "en:rich-in-vitamin-c",
+    "labels_en": "Rich in vitamin C"
+  },
+  {
+    "labels_tags": "fr:classic",
+    "labels_en": "fr:classic"
+  },
+  {
+    "labels_tags": "en:ingredients",
+    "labels_en": "Ingredients"
+  },
+  {
+    "labels_tags": "en:2010-recommanded-level-of-vitamin-d-to-support-strong-bones",
+    "labels_en": "2010-recommanded-level-of-vitamin-d-to-support-strong-bones"
+  },
+  {
+    "labels_tags": "en:pediatrician-s-1-choice-for-children-s-chewable-vitamin-brand",
+    "labels_en": "Pediatrician-s-1-choice-for-children-s-chewable-vitamin-brand"
+  },
+  {
+    "labels_tags": "en:with-the-latest-institute-of-medicine",
+    "labels_en": "With-the-latest-institute-of-medicine"
+  },
+  {
+    "labels_tags": "en:one-tablet",
+    "labels_en": "One-tablet"
+  },
+  {
+    "labels_tags": "en:zero-sugar",
+    "labels_en": "Zero-sugar"
+  },
+  {
+    "labels_tags": "fr:farine-de-ble-francais",
+    "labels_en": "fr:Farine de blé français"
+  },
+  {
+    "labels_tags": "en:fsc-c081801",
+    "labels_en": "Fsc-c081801"
+  },
+  {
+    "labels_tags": "en:sustainable-forestry-initiative",
+    "labels_en": "Sustainable-forestry-initiative"
+  },
+  {
+    "labels_tags": "en:lightly-pasturized",
+    "labels_en": "Lightly-pasturized"
+  },
+  {
+    "labels_tags": "en:made-with-sustainable-palm-oil",
+    "labels_en": "Made-with-sustainable-palm-oil"
+  },
+  {
+    "labels_tags": "en:puede-contener-colorantes-artificiales-que-causen-alergias-a-personas-susceptibles",
+    "labels_en": "Puede-contener-colorantes-artificiales-que-causen-alergias-a-personas-susceptibles"
+  },
+  {
+    "labels_tags": "en:gr-bio-15",
+    "labels_en": "GR-BIO-15"
+  },
+  {
+    "labels_tags": "en:kosher-for-passover-under-the-supervision-of-rabbinate-of-afula",
+    "labels_en": "Kosher-for-passover-under-the-supervision-of-rabbinate-of-afula"
+  },
+  {
+    "labels_tags": "en:es-eco-001-an",
+    "labels_en": "ES-ECO-001-AN"
+  },
+  {
+    "labels_tags": "en:american-heart-associtation-certified",
+    "labels_en": "American-heart-associtation-certified"
+  },
+  {
+    "labels_tags": "fr:fsc-c010395",
+    "labels_en": "fr:fsc-c010395"
+  },
+  {
+    "labels_tags": "en:produce-of-more-than-one-country",
+    "labels_en": "Produce-of-more-than-one-country"
+  },
+  {
+    "labels_tags": "es:bajo-en-carbohidratos",
+    "labels_en": "es:bajo-en-carbohidratos"
+  },
+  {
+    "labels_tags": "en:omega-3",
+    "labels_en": "Omega-3"
+  },
+  {
+    "labels_tags": "en:high-in-omega-3",
+    "labels_en": "High in Omega 3"
+  },
+  {
+    "labels_tags": "en:vegetarian-society",
+    "labels_en": "Vegetarian Society"
+  },
+  {
+    "labels_tags": "en:keep-refrigerated",
+    "labels_en": "Keep-refrigerated"
+  },
+  {
+    "labels_tags": "en:no-salt-added",
+    "labels_en": "No-salt-added"
+  },
+  {
+    "labels_tags": "en:limited-edition",
+    "labels_en": "Limited edition"
+  },
+  {
+    "labels_tags": "en:bctgm-union-made",
+    "labels_en": "Bctgm-union-made"
+  },
+  {
+    "labels_tags": "en:non-gmo-projectsans-arachides",
+    "labels_en": "Non-gmo-projectsans-arachides"
+  },
+  {
+    "labels_tags": "en:fairtrade-usa",
+    "labels_en": "Fairtrade USA"
+  },
+  {
+    "labels_tags": "en:flavor",
+    "labels_en": "Flavor"
+  },
+  {
+    "labels_tags": "en:family-soapmakers-since-1858",
+    "labels_en": "Family-soapmakers-since-1858"
+  },
+  {
+    "labels_tags": "en:bg-bio-14",
+    "labels_en": "BG-BIO-14"
+  },
+  {
+    "labels_tags": "en:made-in-the-eu",
+    "labels_en": "Made in the EU"
+  },
+  {
+    "labels_tags": "fr:peut-etre-congele",
+    "labels_en": "fr:peut-etre-congele"
+  },
+  {
+    "labels_tags": "en:pure-juice",
+    "labels_en": "Pure juice"
+  },
+  {
+    "labels_tags": "en:free-range-chicken",
+    "labels_en": "Free range chicken"
+  },
+  {
+    "labels_tags": "en:98-fat-free",
+    "labels_en": "98-fat-free"
+  },
+  {
+    "labels_tags": "es:bebidas-de-frutas",
+    "labels_en": "es:bebidas-de-frutas"
+  },
+  {
+    "labels_tags": "es:jugo",
+    "labels_en": "es:jugo"
+  },
+  {
+    "labels_tags": "fr:vegan-sans-ogm",
+    "labels_en": "fr:vegan-sans-ogm"
+  },
+  {
+    "labels_tags": "en:es-eco-024-mu",
+    "labels_en": "ES-ECO-024-MU"
+  },
+  {
+    "labels_tags": "en:es-eco-022-ga",
+    "labels_en": "ES-ECO-022-GA"
+  },
+  {
+    "labels_tags": "fr:congelable",
+    "labels_en": "fr:congelable"
+  },
+  {
+    "labels_tags": "en:ud",
+    "labels_en": "Ud"
+  },
+  {
+    "labels_tags": "fr:fsc-c012538",
+    "labels_en": "fr:fsc-c012538"
+  },
+  {
+    "labels_tags": "en:pareve",
+    "labels_en": "Pareve"
+  },
+  {
+    "labels_tags": "en:institut-fresenius",
+    "labels_en": "Institut Fresenius"
+  }
+]

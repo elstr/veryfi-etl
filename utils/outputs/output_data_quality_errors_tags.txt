@@ -1,0 +1,125 @@
+[
+  {
+    "data_quality_errors_tags": "en:energy-value-in-kcal-does-not-match-value-computed-from-other-nutrients"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-fruits-vegetables-nuts-estimate-from-ingredients"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-3800-energy"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-total-over-105"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-saturated-fat-greater-than-fat"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-fat"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-carbohydrates"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-sugars-plus-starch-greater-than-carbohydrates"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-data-per-serving-serving-quantity-is-0"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-proteins"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-fiber"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-fiber"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-saturated-fat"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-saturated-fat"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-carbohydrates"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-sugars"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-sugars"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-fat"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-total-over-1000"
+  },
+  {
+    "data_quality_errors_tags": "en:energy-value-in-kj-does-not-match-value-computed-from-other-nutrients"
+  },
+  {
+    "data_quality_errors_tags": "en:energy-value-in-kcal-does-not-match-value-in-kj"
+  },
+  {
+    "data_quality_errors_tags": "en:serving-size-is-missing-digits"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-proteins"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-vitamin-a"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-potassium"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-phosphorus"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-calcium"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-magnesium"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-vitamin-b9"
+  },
+  {
+    "data_quality_errors_tags": "en:energy-value-in-kcal-greater-than-in-kj"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-salt"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-sodium"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-salt"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-folates"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-sodium"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-sodium-prepared"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-salt-prepared"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-1000-salt-prepared"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-cholesterol"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-trans-fat"
+  },
+  {
+    "data_quality_errors_tags": "en:nutrition-value-over-105-vitamin-b1"
+  }
+]

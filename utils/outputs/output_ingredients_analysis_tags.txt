@@ -1,0 +1,38 @@
+[
+  {
+    "ingredients_analysis_tags": "en:palm-oil-free"
+  },
+  {
+    "ingredients_analysis_tags": "en:non-vegan"
+  },
+  {
+    "ingredients_analysis_tags": "en:vegetarian-status-unknown"
+  },
+  {
+    "ingredients_analysis_tags": "en:palm-oil-content-unknown"
+  },
+  {
+    "ingredients_analysis_tags": "en:vegan-status-unknown"
+  },
+  {
+    "ingredients_analysis_tags": "en:may-contain-palm-oil"
+  },
+  {
+    "ingredients_analysis_tags": "en:maybe-vegetarian"
+  },
+  {
+    "ingredients_analysis_tags": "en:vegetarian"
+  },
+  {
+    "ingredients_analysis_tags": "en:non-vegetarian"
+  },
+  {
+    "ingredients_analysis_tags": "en:palm-oil"
+  },
+  {
+    "ingredients_analysis_tags": "en:maybe-vegan"
+  },
+  {
+    "ingredients_analysis_tags": "en:vegan"
+  }
+]
