@@ -92,6 +92,12 @@ CREATE TABLE IF NOT EXISTS nutrient_levels_tags (
     nutrient_levels_tags VARCHAR(255) NOT NULL
 );
 
+CREATE TABLE IF NOT EXISTS countries (
+    id SERIAL PRIMARY KEY,
+    countries_tags VARCHAR(255) NOT NULL,
+    countries_en VARCHAR(255) NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS products (
     abbreviated_product_name TEXT,
     code TEXT PRIMARY KEY,
@@ -377,6 +383,19 @@ CREATE TABLE IF NOT EXISTS product_nutrient_levels_tags (
     CONSTRAINT fk_nutrient_levels_tags
         FOREIGN KEY(nutrient_levels_tags_id)
         REFERENCES nutrient_levels_tags(id)
+        ON DELETE CASCADE
+);
+CREATE TABLE IF NOT EXISTS product_countries (
+    id SERIAL PRIMARY KEY,
+    product_code TEXT,
+    countries_id INTEGER,
+    CONSTRAINT fk_product_code
+        FOREIGN KEY(product_code)
+        REFERENCES products(code)
+        ON DELETE CASCADE,
+    CONSTRAINT fk_countries
+        FOREIGN KEY(countries_id)
+        REFERENCES countries(id)
         ON DELETE CASCADE
 );
 
@@ -39701,3 +39720,157 @@ INSERT INTO categories (categories_en, categories_tags) VALUES ('durum wheat spa
 INSERT INTO categories (categories_en, categories_tags) VALUES ('capellini','en:capellini');
 INSERT INTO categories (categories_en, categories_tags) VALUES ('king-prawns','en:king-prawns');
 INSERT INTO categories (categories_en, categories_tags) VALUES ('large-king-prawns','en:large-king-prawns');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:germany','germany');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:spain','spain');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:united-states','united states');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:ireland','ireland');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:belgium','belgium');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:united-kingdom','united kingdom');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:cote-d-ivoire','côte d''ivoire');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:canada','canada');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:ukraine','ukraine');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:switzerland','switzerland');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:italy','italy');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:peru','peru');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:thailand','thailand');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:oman','oman');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:slovenia','slovenia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:netherlands','netherlands');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:kuwait','kuwait');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:united-arab-emirates','united arab emirates');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:india','india');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:romania','romania');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:australia','australia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:norway','norway');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:malaysia','malaysia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:luxembourg','luxembourg');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:portugal','portugal');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:mexico','mexico');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:dominican-republic','dominican republic');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:reunion','réunion');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:martinique','martinique');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:israel','israel');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:puerto-rico','puerto rico');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:saudi-arabia','saudi arabia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:poland','poland');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:jamaica','jamaica');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:turkey','turkey');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:bulgaria','bulgaria');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:algeria','algeria');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:rwanda','rwanda');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:greece','greece');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:frankreich','frankreich');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:russia','russia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:hungary','hungary');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:finland','finland');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:austria','austria');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:spanien','spanien');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:senegal','senegal');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:andorra','andorra');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:nigeria','nigeria');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:morocco','morocco');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:montserrat','montserrat');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:philippines','philippines');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:deutschland','deutschland');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:lithuania','lithuania');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:singapore','singapore');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:panama','panama');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:cyprus','cyprus');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:el-salvador','el salvador');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:jersey','jersey');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:czech-republic','czech republic');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:iraq','iraq');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:guadeloupe','guadeloupe');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:qatar','qatar');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:denmark','denmark');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:sweden','sweden');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:chile','chile');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:bangladesh','bangladesh');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:south-africa','south africa');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:hong-kong','hong kong');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:european-union','european union');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:gibraltar','gibraltar');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:costa-rica','costa rica');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:moldova','moldova');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:mauritius','mauritius');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:ethiopia','ethiopia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:honduras','honduras');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:british-virgin-islands','british virgin islands');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:argentina','argentina');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:guam','guam');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:bahrain','bahrain');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:french-polynesia','french polynesia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:pakistan','pakistan');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:monaco','monaco');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:croatia','croatia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:republic-of-the-congo','republic of the congo');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:taiwan','taiwan');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:tajikistan','tajikistan');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:ecuador','ecuador');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:guatemala','guatemala');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:brazil','brazil');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:guernsey','guernsey');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:gabon','gabon');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:kenya','kenya');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:egypt','egypt');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:japan','japan');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:iran','iran');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:virgin-islands-of-the-united-states','virgin islands of the united states');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:palestinian-territories','palestinian territories');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:saint-pierre-and-miquelon','saint pierre and miquelon');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:somalia','somalia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:haiti','haiti');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:china','china');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:albania','albania');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:arabie-saoudite','arabie-saoudite');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:irak','irak');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:السعودية','السعودية');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:bermuda','bermuda');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:new-zealand','new zealand');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:jordan','jordan');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:emirats-arabes-unis','emirats-arabes-unis');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:cambodia','cambodia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:indonesia','indonesia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:en-us','en-us');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:colombia','colombia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:trinidad-and-tobago','trinidad and tobago');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:afghanistan','afghanistan');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:the-bahamas','the bahamas');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:aruba','aruba');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:new-caledonia','new caledonia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:nederland','nederland');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:uzbekistan','uzbekistan');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:nepal','nepal');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:paraguay','paraguay');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:niger','niger');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:vietnam','vietnam');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:maldives','maldives');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:suriname','suriname');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:sint-maarten','sint maarten');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:en-vietnam','en-vietnam');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:vereinigte-staaten-von-amerika','vereinigte-staaten-von-amerika');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:barbados','barbados');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:saint-lucia','saint lucia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:lebanon','lebanon');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:iceland','iceland');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:nicaragua','nicaragua');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:venezuela','venezuela');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:france-united-states','france-united-states');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:antigua-and-barbuda','antigua and barbuda');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:polynesie-francaise','polynesie-francaise');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:isle-of-man','isle of man');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:estados-unidos','estados-unidos');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:francia','francia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:cameroon','cameroon');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:allemagne','allemagne');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:espagne','espagne');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:turks-and-caicos-islands','turks and caicos islands');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:mongolia','mongolia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:mayotte','mayotte');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:tunisia','tunisia');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:france-en-canada','france-en-canada');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:guyana','guyana');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:belize','belize');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:guinea','guinea');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:en-ireland','en-ireland');
+INSERT INTO countries (countries_tags, countries_en) VALUES ('en:kazakhstan','kazakhstan');
