@@ -14,7 +14,7 @@ The environment variables used are shown in the *.env.example* file.
 1) run make start
 2) open localhost:8080 
 3) login with user: airflow password: airflow
-4) create two db connections with the following 
+4) create two db connections in `http://localhost:8080/connection/add` with the following 
 ```
 Connection id: openfoodfacts
 Connection type: postgres
