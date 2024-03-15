@@ -124,9 +124,14 @@ def transform_product_composition(item):
       'vitamin_pp_100g': item.get('vitamin-pp_100g'),
       'zinc_100g': item.get('zinc_100g'),
    }
+def transform_product_ecoscore_grade(ecoscore_grade):
+    if ecoscore_grade:
+        if ecoscore_grade == 'not-applicable' or len(ecoscore_grade) > 1:
+            return None
+    return ecoscore_grade
 
+  
 def transform_product_tags(tag_to_id, item, key, table_name):
-    print('KEY', key)
     """
     Transforms product tags (like additives or allergens) into their IDs, handling multiple comma-separated tags.
     """
@@ -199,7 +204,8 @@ def prep_and_insert_data():
     products_purchase_places = []
     products_stores = []
 
-    #  prep tags to id mappings
+    # TODO: move this to another task 
+    # prep tags to id mappings
     additives_tag_to_id = prep_table_tag_to_id(db_data, 'additives', 'additives_tags')
     brands_tag_to_id = prep_table_tag_to_id(db_data, 'brands', 'brands_tags')
     categories_tag_to_id = prep_table_tag_to_id(db_data, 'categories', 'categories_tags')
@@ -225,6 +231,7 @@ def prep_and_insert_data():
 
     for item in data:
       product_composition = transform_product_composition(item)
+      product_ecoscore_grade = transform_product_ecoscore_grade(item.get('ecoscore_grade')),
       products_countries.append(transform_product_tags(countries_tag_to_id, item, 'countries_tags', 'countries'))
       products_allergens.append(transform_product_tags(allergens_tag_to_id, item, 'allergens', 'allergens'))
       products_additives.append(transform_product_tags(additives_tag_to_id, item, 'additives_tags', 'additives' ))
@@ -246,13 +253,13 @@ def prep_and_insert_data():
       products_pnns_groups.append(transform_product_tags(pnns_groups_tags_tag_to_id, item, 'pnns_groups', 'ppns_groups'))  # -> todo: change transformation to make two pnns_groups
 
       product = {
+        'ecoscore_grade': product_ecoscore_grade[0],
         'abbreviated_product_name': item.get('abbreviated_product_name'),
         'code': item.get('code'),
         'completeness': item.get('completeness'),
         'created_datetime': item.get('created_datetime'),
         'created_t': item.get('created_t'),
         'creator': item.get('creator'),
-        'ecoscore_grade': item.get('ecoscore_grade'),
         'ecoscore_score': item.get('ecoscore_score'),
         'first_packaging_code_geo': item.get('first_packaging_code_geo'),
         'generic_name': item.get('generic_name'),
@@ -327,64 +334,16 @@ def prep_and_insert_data():
                             if filtered_vals:
                                 join_table = f"{table}_{key}"  # e.g. product_traces
                                 if join_table not in join_table_inserts:
-                                    join_table_inserts[join_table] = []
+                                  join_table_inserts[join_table] = []
                                 join_table_inserts[join_table].extend([(value['product_code'], v) for v in filtered_vals])
 
                 # Execute batch inserts for many-to-many relationships
                 for join_table, batch_data in join_table_inserts.items():
-                    print('table', table)
-                    print('batch_data', batch_data)
                     key = key.replace(f"product_{table}_", "") # replace prefix: product_traces_traces_id -> traces_id
                     sql = f"INSERT INTO {table} (product_code, {key}) VALUES (%s, %s)"
                     cursor.executemany(sql, batch_data)
 
-            conn.commit()  # Commit all changes
-
-  # def insert_data(data):
-  #   """
-  #   Inserts data into the database, prioritizing single value inserts before handling many-to-many relationships.
-  #   """
-  #   hook = PostgresHook(postgres_conn_id='openfoodfacts')
-  #   with hook.get_conn() as conn:
-  #       with conn.cursor() as cursor:
-  #           for table, values in data.items():
-  #               join_table_inserts = {}
-  #               single_insert_values = []
-
-  #               for value in values:
-  #                   product_code = value.get('product_code')
-  #                   for key, val in value.items():
-  #                       if isinstance(val, list):  # handle many-to-many relationships
-  #                           join_table = f"{table}_{key}"
-  #                           if join_table not in join_table_inserts:
-  #                               join_table_inserts[join_table] = []
-                            
-  #                           # Filter out None or empty strings from the list
-  #                           filtered_vals = [v for v in val if v]
-  #                           if filtered_vals:  # only add to batch if there are values
-  #                               batch_data = [(product_code, v) for v in filtered_vals]
-  #                               join_table_inserts[join_table].extend(batch_data)
-
-  #                           # join_table_inserts[join_table].extend([(product_code, v) for v in val if v])
-  #                       elif val:  
-  #                           single_insert_values.append((val,))
-
-  #               # Execute single insert operation for the current table
-  #               if single_insert_values:
-  #                   common_col = 'code' if table == 'products' else 'product_code'
-  #                   # Assuming 'product_code' is a common column, adjust as necessary
-  #                   sql = f"INSERT INTO {table} ({common_col}) VALUES (%s)"
-  #                   cursor.executemany(sql, single_insert_values)
-
-  #               # Execute batch inserts for many-to-many relationships
-  #               for join_table, batch_data in join_table_inserts.items():
-  #                   key = key.replace(f"product_{table}_", "") # replace prefix: product_traces_traces_id -> traces_id
-  #                   sql = f"INSERT INTO {table} (product_code, {key}) VALUES (%s, %s)"
-  #                   cursor.executemany(sql, batch_data)
-
-  #           conn.commit()  # Commit all changes
-
-
+            conn.commit()  
   
   insert_data(prep_data(get_data_from_db()))
 
