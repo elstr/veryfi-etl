@@ -125,7 +125,7 @@ def transform_product_composition(item):
       'zinc_100g': item.get('zinc_100g'),
    }
 
-def transform_product_tags(tag_to_id, item, key):
+def transform_product_tags(tag_to_id, item, key, table_name):
     print('KEY', key)
     """
     Transforms product tags (like additives or allergens) into their IDs, handling multiple comma-separated tags.
@@ -142,9 +142,8 @@ def transform_product_tags(tag_to_id, item, key):
 
     # Find corresponding IDs for the tags
     ids = tag_to_id.loc[tag_to_id.index.intersection(tags)].tolist()
-    result = [{'code': item.get('code'), 'ids': ids}]
+    result = {'product_code': item.get('code'), table_name+'_id': ids}
 
-    print('result', result)
     return result
 
    
@@ -226,25 +225,25 @@ def prep_and_insert_data():
 
     for item in data:
       product_composition = transform_product_composition(item)
-      products_countries.append(transform_product_tags(countries_tag_to_id, item, 'countries_tags'))
-      products_allergens.append(transform_product_tags(allergens_tag_to_id, item, 'allergens'))
-      products_additives.append(transform_product_tags(additives_tag_to_id, item, 'additives_tags'))
-      products_brands.append(transform_product_tags(brands_tag_to_id, item, 'brands_tags'))
-      products_categories.append(transform_product_tags(categories_tag_to_id, item, 'categories_tags'))
-      products_data_quality_errors_tags.append(transform_product_tags(data_quality_errors_tags_tag_to_id, item, 'data_quality_errors_tags'))
-      products_food_groups.append(transform_product_tags(food_groups_tag_to_id, item, 'food_groups_tags'))
-      products_ingredients_tags.append(transform_product_tags(ingredients_tags_tag_to_id, item, 'ingredients_tags'))
-      products_ingredients_analysis_tags.append(transform_product_tags(ingredients_analysis_tags_tag_to_id, item,'ingredients_analysis_tags'))
-      products_popularity_tags.append(transform_product_tags(popularity_tags_tag_to_id, item, 'popularity_tags'))
-      products_nutrient_levels_tags.append(transform_product_tags(nutrient_levels_tags_tag_to_id, item, 'nutrient_levels_tags'))
-      products_labels.append(transform_product_tags(labels_tags_tag_to_id, item, 'labels_tags'))
-      products_manufacturing_places.append(transform_product_tags(manufacturing_places_tags_tag_to_id, item, 'manufacturing_places_tags'))
-      products_packaging.append(transform_product_tags(packaging_tags_tag_to_id, item, 'packaging_tags'))
-      products_purchase_places.append(transform_product_tags(purchase_places_tags_tag_to_id, item, 'purchase_places'))
-      products_stores.append(transform_product_tags(stores_tags_tag_to_id, item, 'stores'))
-      products_traces.append(transform_product_tags(traces_tags_tag_to_id, item, 'traces_tags'))
+      products_countries.append(transform_product_tags(countries_tag_to_id, item, 'countries_tags', 'countries'))
+      products_allergens.append(transform_product_tags(allergens_tag_to_id, item, 'allergens', 'allergens'))
+      products_additives.append(transform_product_tags(additives_tag_to_id, item, 'additives_tags', 'additives' ))
+      products_brands.append(transform_product_tags(brands_tag_to_id, item, 'brands_tags', 'brands'))
+      products_categories.append(transform_product_tags(categories_tag_to_id, item, 'categories_tags', 'categories'))
+      products_data_quality_errors_tags.append(transform_product_tags(data_quality_errors_tags_tag_to_id, item, 'data_quality_errors_tags', 'data_quality_errors_tags'))
+      products_food_groups.append(transform_product_tags(food_groups_tag_to_id, item, 'food_groups_tags', 'food_groups'))
+      products_ingredients_tags.append(transform_product_tags(ingredients_tags_tag_to_id, item, 'ingredients_tags', 'ingredients_tags'))
+      products_ingredients_analysis_tags.append(transform_product_tags(ingredients_analysis_tags_tag_to_id, item,'ingredients_analysis_tags', 'ingredients_analysis_tags'))
+      products_popularity_tags.append(transform_product_tags(popularity_tags_tag_to_id, item, 'popularity_tags', 'popularity_tags'))
+      products_nutrient_levels_tags.append(transform_product_tags(nutrient_levels_tags_tag_to_id, item, 'nutrient_levels_tags', 'nutrient_levels_tags'))
+      products_labels.append(transform_product_tags(labels_tags_tag_to_id, item, 'labels_tags', 'labels'))
+      products_manufacturing_places.append(transform_product_tags(manufacturing_places_tags_tag_to_id, item, 'manufacturing_places_tags', 'manufacturing_places'))
+      products_packaging.append(transform_product_tags(packaging_tags_tag_to_id, item, 'packaging_tags', 'packaging'))
+      products_purchase_places.append(transform_product_tags(purchase_places_tags_tag_to_id, item, 'purchase_places', 'purchase_places'))
+      products_stores.append(transform_product_tags(stores_tags_tag_to_id, item, 'stores', 'stores'))
+      products_traces.append(transform_product_tags(traces_tags_tag_to_id, item, 'traces_tags', 'traces'))
       
-      products_pnns_groups.append(transform_product_tags(pnns_groups_tags_tag_to_id, item, 'pnns_groups'))  # -> todo: change transformation to make two pnns_groups
+      products_pnns_groups.append(transform_product_tags(pnns_groups_tags_tag_to_id, item, 'pnns_groups', 'ppns_groups'))  # -> todo: change transformation to make two pnns_groups
 
       product = {
         'abbreviated_product_name': item.get('abbreviated_product_name'),
@@ -281,41 +280,111 @@ def prep_and_insert_data():
       product.update(product_composition)
       products_to_insert.append(product)   
 
-    return [
-      products_to_insert,
-      products_countries,
-      products_allergens,
-      products_additives,
-      products_brands,
-      products_categories,
-      products_data_quality_errors_tags,
-      products_food_groups,
-      products_ingredients_tags,
-      products_ingredients_analysis_tags,
-      products_popularity_tags,
-      products_nutrient_levels_tags,
-      products_labels,
-      products_manufacturing_places,
-      products_packaging,
-      products_purchase_places,
-      products_stores,
-      products_traces,
-      products_pnns_groups
-    ]
+
+    return {
+      'products':products_to_insert,
+      'product_countries':products_countries,
+      'product_allergens':products_allergens,
+      'product_additives':products_additives,
+      'product_brands':products_brands,
+      'product_categories':products_categories,
+      'product_data_quality_errors_tags':products_data_quality_errors_tags,
+      'product_food_groups':products_food_groups,
+      'product_ingredients_tags':products_ingredients_tags,
+      'product_ingredients_analysis_tags':products_ingredients_analysis_tags,
+      'product_popularity_tags':products_popularity_tags,
+      'product_nutrient_levels_tags':products_nutrient_levels_tags,
+      'product_labels':products_labels,
+      'product_manufacturing_places':products_manufacturing_places,
+      'product_packaging':products_packaging,
+      'product_purchase_places':products_purchase_places,
+      'product_stores':products_stores,
+      'product_traces':products_traces,
+      'product_pnns_groups':products_pnns_groups
+    }
   
   @task
   def insert_data(data):
-    print(data)
+    hook = PostgresHook(postgres_conn_id='openfoodfacts')
+    with hook.get_conn() as conn:
+        with conn.cursor() as cursor:
+            for table, values in data.items():
+                join_table_inserts = {}
 
-    """
-    Inserts data into db
-    """
-    # hook = PostgresHook(postgres_conn_id='openfoodfacts')
-    # with hook.get_conn() as conn:
-        # with conn.cursor() as cursor:
-          # exe inserts
-  
-    return 'true'
+                for value in values:
+                    # Handling for single insert (non-list values)
+                    non_list_values = {k: v for k, v in value.items() if not isinstance(v, list) and v is not None}
+                    if non_list_values:
+                        columns = ', '.join(non_list_values.keys())
+                        placeholders = ', '.join(['%s'] * len(non_list_values))
+                        sql = f"INSERT INTO {table} ({columns}) VALUES ({placeholders})"
+                        cursor.execute(sql, list(non_list_values.values()))
+
+                    # Handling for many-to-many relationships (list values)
+                    for key, val in value.items():
+                        if isinstance(val, list) and val:
+                            filtered_vals = [v for v in val if v is not None]
+                            if filtered_vals:
+                                join_table = f"{table}_{key}"  # e.g. product_traces
+                                if join_table not in join_table_inserts:
+                                    join_table_inserts[join_table] = []
+                                join_table_inserts[join_table].extend([(value['product_code'], v) for v in filtered_vals])
+
+                # Execute batch inserts for many-to-many relationships
+                for join_table, batch_data in join_table_inserts.items():
+                    print('table', table)
+                    print('batch_data', batch_data)
+                    key = key.replace(f"product_{table}_", "") # replace prefix: product_traces_traces_id -> traces_id
+                    sql = f"INSERT INTO {table} (product_code, {key}) VALUES (%s, %s)"
+                    cursor.executemany(sql, batch_data)
+
+            conn.commit()  # Commit all changes
+
+  # def insert_data(data):
+  #   """
+  #   Inserts data into the database, prioritizing single value inserts before handling many-to-many relationships.
+  #   """
+  #   hook = PostgresHook(postgres_conn_id='openfoodfacts')
+  #   with hook.get_conn() as conn:
+  #       with conn.cursor() as cursor:
+  #           for table, values in data.items():
+  #               join_table_inserts = {}
+  #               single_insert_values = []
+
+  #               for value in values:
+  #                   product_code = value.get('product_code')
+  #                   for key, val in value.items():
+  #                       if isinstance(val, list):  # handle many-to-many relationships
+  #                           join_table = f"{table}_{key}"
+  #                           if join_table not in join_table_inserts:
+  #                               join_table_inserts[join_table] = []
+                            
+  #                           # Filter out None or empty strings from the list
+  #                           filtered_vals = [v for v in val if v]
+  #                           if filtered_vals:  # only add to batch if there are values
+  #                               batch_data = [(product_code, v) for v in filtered_vals]
+  #                               join_table_inserts[join_table].extend(batch_data)
+
+  #                           # join_table_inserts[join_table].extend([(product_code, v) for v in val if v])
+  #                       elif val:  
+  #                           single_insert_values.append((val,))
+
+  #               # Execute single insert operation for the current table
+  #               if single_insert_values:
+  #                   common_col = 'code' if table == 'products' else 'product_code'
+  #                   # Assuming 'product_code' is a common column, adjust as necessary
+  #                   sql = f"INSERT INTO {table} ({common_col}) VALUES (%s)"
+  #                   cursor.executemany(sql, single_insert_values)
+
+  #               # Execute batch inserts for many-to-many relationships
+  #               for join_table, batch_data in join_table_inserts.items():
+  #                   key = key.replace(f"product_{table}_", "") # replace prefix: product_traces_traces_id -> traces_id
+  #                   sql = f"INSERT INTO {table} (product_code, {key}) VALUES (%s, %s)"
+  #                   cursor.executemany(sql, batch_data)
+
+  #           conn.commit()  # Commit all changes
+
+
   
   insert_data(prep_data(get_data_from_db()))
 
