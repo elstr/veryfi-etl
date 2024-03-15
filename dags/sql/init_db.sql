@@ -206,20 +206,6 @@ CREATE TABLE IF NOT EXISTS products (
 ------------------------------------------------------------------------------------------------------------------------
 -- RELATIONS
 ------------------------------------------------------------------------------------------------------------------------
-CREATE TABLE IF NOT EXISTS product_purchase_places (
-    id SERIAL PRIMARY KEY,
-    product_code TEXT,
-    place_id INTEGER,
-    CONSTRAINT fk_product_code
-        FOREIGN KEY(product_code)
-        REFERENCES products(code)
-        ON DELETE CASCADE,
-    CONSTRAINT fk_place_id
-        FOREIGN KEY(place_id)
-        REFERENCES purchase_places(id)
-        ON DELETE CASCADE
-);
-
 CREATE TABLE IF NOT EXISTS product_brands (
     id SERIAL PRIMARY KEY,
     product_code TEXT,
