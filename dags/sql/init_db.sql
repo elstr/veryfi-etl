@@ -106,6 +106,7 @@ CREATE TABLE IF NOT EXISTS products (
     created_datetime TIMESTAMP WITH TIME ZONE,
     created_t BIGINT,
     creator TEXT,
+    abbreviated_product_name VARCHAR(255),
     ecoscore_grade CHAR(1),
     ecoscore_score INTEGER,
     first_packaging_code_geo TEXT,
@@ -222,13 +223,13 @@ CREATE TABLE IF NOT EXISTS product_purchase_places (
 CREATE TABLE IF NOT EXISTS product_brands (
     id SERIAL PRIMARY KEY,
     product_code TEXT,
-    brand_id INTEGER,
+    brands_id INTEGER,
     CONSTRAINT fk_product_code
         FOREIGN KEY(product_code)
         REFERENCES products(code)
         ON DELETE CASCADE,
-    CONSTRAINT fk_brand_id
-        FOREIGN KEY(brand_id)
+    CONSTRAINT fk_brands_id
+        FOREIGN KEY(brands_id)
         REFERENCES brands(id)
         ON DELETE CASCADE
 );
